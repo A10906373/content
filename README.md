@@ -1,3 +1,1333 @@
+https://de.wikipedia.org/wiki/Loei_(Provinz)
+Content-Type	application/x-www-form-urlencoded
+accept-ch	
+accept-ranges	bytes
+age	164906
+cache-control	private, s-maxage=0, max-age=0, must-revalidate, no-transform
+content-encoding	gzip
+content-language	de
+content-security-policy	script-src 'unsafe-eval' blob
+content-type	text/html; charset=UTF-8
+date	Sun, 06 Sep 2026 07
+last-modified	Sat, 05 Sep 2026 01
+nel	{ "report_to"
+report-to	{ "group"
+reporting-endpoints	csp-report-to-endpoint='/w/api.php?action=cspreport&format=json';
+server	mw-web.eqiad.main-d7b74dd99-fkg28
+server-timing	cache;desc="hit-local", host;desc="cp5021",co_id;desc="2280812144"
+strict-transport-security	max-age=106384710; includeSubDomains; preload
+vary	Accept-Encoding,X-Subdomain,Cookie,Authorization,User-Agent
+x-cache	cp5021 hit, cp5021 miss
+x-cache-status	hit-local
+x-client-ip	223.24.196.92
+x-content-type-options	nosniff
+x-request-id	c1a38aba-10c4-4b9b-8bc0-8c407f171dbb
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard" lang="de" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Loei (Provinz) – Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard";var cookie=document.cookie.match(/(?:^|; )dewikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t.",".\t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","Januar","Februar","März","April","Mai","Juni","Juli","August","September","Oktober","November","Dezember"],"wgRequestId":"ca42b6f6-4a93-4617-8dea-88e56064eed0","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Loei_(Provinz)","wgTitle":"Loei (Provinz)","wgCurRevisionId":270235783,"wgRevisionId":269639789,"wgArticleId":54705,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia:Defekte Weblinks/Ungeprüfte Archivlinks 2019-04","Thailändische Provinz","Provinz Loei","Mekong","Isan"],"wgPageViewLanguage":"de","wgPageContentLanguage":"de","wgPageContentModel":"wikitext","wgRelevantPageName":"Loei_(Provinz)","wgRelevantArticleId":54705,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgCiteReferencePreviewsActive":true,"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}},"namespaces":[0,6,10,828,14]},"wgStableRevisionId":269639789,"wgConfirmEditCaptchaNeededForGenericEdit":"hcaptcha","wgConfirmEditForceShowCaptcha":false,"wgConfirmEditHCaptchaSiteKey":"5d0c670e-a5f4-4258-ad16-1f42792c9c62","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgMediaViewerMobileBeta":false,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"de","pageLanguageDir":"ltr","pageVariantFallbacks":"de"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":10000,"wgParsoidHtmlVersion":"2.8.0","parsermigration-parsoid":true,"wgCoordinates":{"lat":17.486666666667,"lon":101.71944444444},"wgTestKitchenUserExperiments":{"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[]},"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgULSLanguageSelectorV2Enabled":true,"wgWikibaseItemId":"Q275388","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"wgEditLatestRevision":true};
+RLSTATE={"ext.gadget.dewiki-logo":"ready","ext.gadget.citeRef":"ready","ext.gadget.defaultPlainlinks":"ready","ext.gadget.dewikiCommonHide":"ready","ext.gadget.dewikiCommonLayout":"ready","ext.gadget.dewikiCommonStyle":"ready","ext.gadget.dewikiDarkmode":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.imagemap.styles":"ready","ext.cite.parsoid.styles":"ready","ext.cite.styles":"ready","mediawiki.skinning.content.parsoid":"ready","ext.wikimediamessages.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.imagemap","ext.cite.ux-enhancements","mediawiki.page.media","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.createNewSection","ext.gadget.navileisteAutocollapse","ext.gadget.WikiMiniAtlas","ext.gadget.OpenStreetMap","ext.gadget.CommonsDirekt","ext.urlShortener.toolbar","ext.centralauth.centralautologin","ext.testKitchen","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.quicksurveys.init"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=de&amp;modules=ext.cite.parsoid.styles%7Cext.cite.styles%7Cext.flaggedRevs.basic%7Cext.imagemap.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediamessages.styles%7Cjquery.makeCollapsible.styles%7Cmediawiki.codex.messagebox.styles%7Cmediawiki.skinning.content.parsoid%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=de&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=de&amp;modules=ext.gadget.citeRef%2CdefaultPlainlinks%2Cdewiki-logo%2CdewikiCommonHide%2CdewikiCommonLayout%2CdewikiCommonStyle%2CdewikiDarkmode&amp;only=styles&amp;skin=vector-2022">
+<link rel="stylesheet" href="/w/load.php?lang=de&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.47.0-wmf.18">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Thailand_Loei_locator_map.svg/960px-Thailand_Loei_locator_map.svg.png?utm_source=de.wikipedia.org&amp;utm_campaign=index&amp;utm_content=thumbnail">
+<meta property="og:image:width" content="683">
+<meta property="og:image:height" content="1200">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="Loei (Provinz) – Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//thumb.wikimedia.org">
+<link rel="alternate" type="application/x-wiki" title="Seite bearbeiten" href="/w/index.php?title=Loei_(Provinz)&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="Wikipedia (de)">
+<link rel="EditURI" type="application/rsd+xml" href="//de.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://de.wikipedia.org/wiki/Loei_(Provinz)">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.de">
+<link rel="alternate" type="application/atom+xml" title="Atom-Feed für „Wikipedia“" href="/w/index.php?title=Spezial:Letzte_%C3%84nderungen&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Loei_Provinz rootpage-Loei_Provinz skin-vector-2022 action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><a class="mw-jump-link" href="#bodyContent">Zum Inhalt springen</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header no-font-mode-scale">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Website">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  title="Hauptmenü" >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Hauptmenü"   >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu cdx-button__icon"></span>
+
+<span class="vector-dropdown-label-text">Hauptmenü</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Hauptmenü</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin" aria-label="Hauptmenü in die Seitenleiste verschieben">In die Seitenleiste verschieben</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin" aria-label="Verstecke Hauptmenü">Verbergen</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Wikipedia:Hauptseite" title="Hauptseite besuchen [z]" accesskey="z"><span>Hauptseite</span></a></li><li id="n-topics" class="mw-list-item"><a href="/wiki/Portal:Wikipedia_nach_Themen"><span>Themenportale</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Spezial:Zuf%C3%A4llige_Seite" title="Zufällige Seite aufrufen [x]" accesskey="x"><span>Zufälliger Artikel</span></a></li><li id="n-specialpages" class="mw-list-item"><a href="/wiki/Spezial:Spezialseiten" title="Liste aller Spezialseiten [q]" accesskey="q"><span>Spezialseiten</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-Mitmachen" class="vector-menu mw-portlet mw-portlet-Mitmachen"  >
+	<div class="vector-menu-heading">
+		Mitmachen
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-Artikel-verbessern" class="mw-list-item"><a href="/wiki/Wikipedia:Beteiligen"><span>Artikel verbessern</span></a></li><li id="n-Neuerartikel" class="mw-list-item"><a href="/wiki/Hilfe:Neuen_Artikel_anlegen"><span>Neuen Artikel anlegen</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Autorenportal" title="Info-Zentrum über Beteiligungsmöglichkeiten"><span>Autorenportal</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/Hilfe:%C3%9Cbersicht" title="Übersicht über Hilfeseiten"><span>Hilfe</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Spezial:Letzte_%C3%84nderungen" title="Liste der letzten Änderungen in Wikipedia [r]" accesskey="r"><span>Letzte Änderungen</span></a></li><li id="n-contact" class="mw-list-item"><a href="/wiki/Wikipedia:Kontakt" title="Kontaktmöglichkeiten"><span>Kontakt</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Wikipedia:Hauptseite" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container skin-invert">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline" alt="Die freie Enzyklopädie" src="/static/images/mobile/copyright/wikipedia-tagline-de.svg" width="120" height="13" style="width: 7.5em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Spezial:Suche" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" title="Durchsuche die Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search cdx-button__icon"></span>
+
+<span>Suche</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input mw-searchInput" autocomplete="off"
+							 type="search" name="search" placeholder="Wikipedia durchsuchen" aria-label="Wikipedia durchsuchen" autocapitalize="none" spellcheck="false" title="Durchsuche die Wikipedia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Spezial:Suche">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Suchen</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Meine Werkzeuge">
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-appearance-landmark" aria-label="Erscheinungsbild">
+		
+<div id="vector-appearance-dropdown" class="vector-dropdown "  title="Änderung des Aussehens der Schriftgröße, -breite und -farbe der Seite" >
+	<input type="checkbox" id="vector-appearance-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-appearance-dropdown" class="vector-dropdown-checkbox "  aria-label="Erscheinungsbild"   >
+	<label id="vector-appearance-dropdown-label" for="vector-appearance-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-appearance mw-ui-icon-wikimedia-appearance cdx-button__icon"></span>
+
+<span class="vector-dropdown-label-text">Erscheinungsbild</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+			<div id="vector-appearance-unpinned-container" class="vector-unpinned-container">
+				
+			</div>
+		
+	</div>
+</div>
+
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport-2" class="mw-list-item vector-menu-item--collapsible"><a data-mw-interface  href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=de.wikipedia.org&amp;uselang=de" data-mw-donate-attempt="top_link" class=""><span>Jetzt spenden</span></a>
+</li>
+<li id="pt-createaccount-2" class="mw-list-item vector-menu-item--collapsible"><a data-mw-interface  href="/w/index.php?title=Spezial:Benutzerkonto_anlegen&amp;returnto=Loei+%28Provinz%29" title="Wir ermutigen dich dazu, ein Benutzerkonto zu erstellen und dich anzumelden. Es ist jedoch nicht zwingend erforderlich." class=""><span>Benutzerkonto erstellen</span></a>
+</li>
+<li id="pt-login-2" class="mw-list-item vector-menu-item--collapsible"><a data-mw-interface  href="/w/index.php?title=Spezial:Anmelden&amp;returnto=Loei+%28Provinz%29" title="Anmelden ist zwar keine Pflicht, wird aber gerne gesehen. [o]" accesskey="o" class=""><span>Anmelden</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out vector-user-links-dropdown--collapsible"  title="Weitere Optionen" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Meine Werkzeuge"   >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-userAvatar mw-ui-icon-wikimedia-userAvatar cdx-button__icon"></span>
+
+<span class="vector-dropdown-label-text">Meine Werkzeuge</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal"  title="Benutzermenü" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport" class="mw-list-item vector-menu-item--collapsible"><a data-mw-interface  href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=de.wikipedia.org&amp;uselang=de" data-mw-donate-attempt="top_link" class=""><span class="vector-icon mw-ui-icon-heart mw-ui-icon-wikimedia-heart cdx-button__icon"></span>
+
+<span>Jetzt spenden</span></a>
+</li>
+<li id="pt-createaccount" class="mw-list-item vector-menu-item--collapsible"><a data-mw-interface  href="/w/index.php?title=Spezial:Benutzerkonto_anlegen&amp;returnto=Loei+%28Provinz%29" title="Wir ermutigen dich dazu, ein Benutzerkonto zu erstellen und dich anzumelden. Es ist jedoch nicht zwingend erforderlich." class=""><span class="vector-icon mw-ui-icon-userAvatar mw-ui-icon-wikimedia-userAvatar cdx-button__icon"></span>
+
+<span>Benutzerkonto erstellen</span></a>
+</li>
+<li id="pt-login" class="mw-list-item vector-menu-item--collapsible"><a data-mw-interface  href="/w/index.php?title=Spezial:Anmelden&amp;returnto=Loei+%28Provinz%29" title="Anmelden ist zwar keine Pflicht, wird aber gerne gesehen. [o]" accesskey="o" class=""><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn cdx-button__icon"></span>
+
+<span>Anmelden</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Website">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" aria-label="Inhaltsverzeichnis" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	data-pinned-container-id="vector-toc-pinned-container"
+	data-unpinned-container-id="vector-toc-unpinned-container"
+>
+	<h2 class="vector-pinnable-header-label">Inhaltsverzeichnis</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin" aria-label="Inhaltsverzeichnis in die Seitenleiste verschieben">In die Seitenleiste verschieben</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin" aria-label="Verstecke Inhaltsverzeichnis">Verbergen</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Anfang)</div>
+			</a>
+		</li>
+		<li id="toc-Geographie"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Geographie">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">1</span>
+				<span>Geographie</span>
+			</div>
+		</a>
+		
+			<button aria-controls="toc-Geographie-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon mw-ui-icon-wikimedia-expand"></span>
+				<span>Unterabschnitt Geographie umschalten</span>
+			</button>
+		
+		<ul id="toc-Geographie-sublist" class="vector-toc-list">
+			<li id="toc-Wichtige_Flüsse"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Wichtige_Flüsse">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">1.1</span>
+					<span>Wichtige Flüsse</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Wichtige_Flüsse-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Klima"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Klima">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">1.2</span>
+					<span>Klima</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Klima-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Wirtschaft_und_Bedeutung"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Wirtschaft_und_Bedeutung">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">2</span>
+				<span>Wirtschaft und Bedeutung</span>
+			</div>
+		</a>
+		
+			<button aria-controls="toc-Wirtschaft_und_Bedeutung-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon mw-ui-icon-wikimedia-expand"></span>
+				<span>Unterabschnitt Wirtschaft und Bedeutung umschalten</span>
+			</button>
+		
+		<ul id="toc-Wirtschaft_und_Bedeutung-sublist" class="vector-toc-list">
+			<li id="toc-Daten"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Daten">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">2.1</span>
+					<span>Daten</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Daten-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Landnutzung"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Landnutzung">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">2.2</span>
+					<span>Landnutzung</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Landnutzung-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Verkehr"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Verkehr">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">3</span>
+				<span>Verkehr</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Verkehr-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Bildungseinrichtungen"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Bildungseinrichtungen">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">4</span>
+				<span>Bildungseinrichtungen</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Bildungseinrichtungen-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Gesundheitseinrichtungen"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Gesundheitseinrichtungen">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">5</span>
+				<span>Gesundheitseinrichtungen</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Gesundheitseinrichtungen-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Geschichte"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Geschichte">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">6</span>
+				<span>Geschichte</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Geschichte-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Sehenswürdigkeiten"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Sehenswürdigkeiten">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">7</span>
+				<span>Sehenswürdigkeiten</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Sehenswürdigkeiten-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Symbole"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Symbole">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">8</span>
+				<span>Symbole</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Symbole-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Verwaltungseinheiten"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Verwaltungseinheiten">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">9</span>
+				<span>Verwaltungseinheiten</span>
+			</div>
+		</a>
+		
+			<button aria-controls="toc-Verwaltungseinheiten-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon mw-ui-icon-wikimedia-expand"></span>
+				<span>Unterabschnitt Verwaltungseinheiten umschalten</span>
+			</button>
+		
+		<ul id="toc-Verwaltungseinheiten-sublist" class="vector-toc-list">
+			<li id="toc-Provinzverwaltung"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Provinzverwaltung">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">9.1</span>
+					<span>Provinzverwaltung</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Provinzverwaltung-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Lokalverwaltung"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Lokalverwaltung">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">9.2</span>
+					<span>Lokalverwaltung</span>
+				</div>
+			</a>
+			
+			<ul id="toc-Lokalverwaltung-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Literatur"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Literatur">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">10</span>
+				<span>Literatur</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Literatur-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Weblinks"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Weblinks">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">11</span>
+				<span>Weblinks</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Weblinks-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Einzelnachweise"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Einzelnachweise">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">12</span>
+				<span>Einzelnachweise</span>
+			</div>
+		</a>
+		
+		<ul id="toc-Einzelnachweise-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body">
+				<header class="mw-body-header vector-page-titlebar no-font-mode-scale">
+					<nav aria-label="Inhaltsverzeichnis" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  title="Inhaltsverzeichnis" >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Inhaltsverzeichnis umschalten"   >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet cdx-button__icon"></span>
+
+<span class="vector-dropdown-label-text">Inhaltsverzeichnis umschalten</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span lang="de" dir="ltr"><span class="mw-page-title-main">Loei (Provinz)</span></span></h1>
+			
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector"  aria-label="48 Sprachen" aria-description="Zu einem Artikel in einer anderen Sprache gehen. Verfügbar in 48 Sprachen"  >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-48" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive cdx-button__icon"></span>
+
+<span class="vector-dropdown-label-text">48 Sprachen</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-ace mw-list-item"><a href="https://ace.wikipedia.org/wiki/Propinsi_Loei" title="Propinsi Loei – Aceh" lang="ace" hreflang="ace" data-title="Propinsi Loei" data-language-autonym="Acèh" data-language-local-name="Aceh" class="interlanguage-link-target"><span>Acèh</span></a></li><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9_%D9%84%D9%88%D9%8A%D9%8A" title="محافظة لويي – Arabisch" lang="ar" hreflang="ar" data-title="محافظة لويي" data-language-autonym="العربية" data-language-local-name="Arabisch" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-ban mw-list-item"><a href="https://ban.wikipedia.org/wiki/Propinsi_Loei" title="Propinsi Loei – Balinesisch" lang="ban" hreflang="ban" data-title="Propinsi Loei" data-language-autonym="Basa Bali" data-language-local-name="Balinesisch" class="interlanguage-link-target"><span>Basa Bali</span></a></li><li class="interlanguage-link interwiki-be mw-list-item"><a href="https://be.wikipedia.org/wiki/%D0%9B%D0%B5%D0%B9_(%D0%BF%D1%80%D0%B0%D0%B2%D1%96%D0%BD%D1%86%D1%8B%D1%8F)" title="Лей (правінцыя) – Belarussisch" lang="be" hreflang="be" data-title="Лей (правінцыя)" data-language-autonym="Беларуская" data-language-local-name="Belarussisch" class="interlanguage-link-target"><span>Беларуская</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/%D0%9B%D0%BE%D0%B5%D0%B8" title="Лоеи – Bulgarisch" lang="bg" hreflang="bg" data-title="Лоеи" data-language-autonym="Български" data-language-local-name="Bulgarisch" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-bo mw-list-item"><a href="https://bo.wikipedia.org/wiki/%E0%BD%A3%E0%BD%BC%E0%BD%A0%E0%BD%B2%E0%BC%8B%E0%BD%9E%E0%BD%B2%E0%BD%84%E0%BC%8B%E0%BD%86%E0%BD%BA%E0%BD%93%E0%BC%8D" title="ལོའི་ཞིང་ཆེན། – Tibetisch" lang="bo" hreflang="bo" data-title="ལོའི་ཞིང་ཆེན།" data-language-autonym="བོད་ཡིག" data-language-local-name="Tibetisch" class="interlanguage-link-target"><span>བོད་ཡིག</span></a></li><li class="interlanguage-link interwiki-bpy mw-list-item"><a href="https://bpy.wikipedia.org/wiki/%E0%A6%9A%E0%A6%BE%E0%A6%82%E0%A7%B1%E0%A6%BE%E0%A6%A4_%E0%A6%B2%E0%A7%8B%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%87" title="চাংৱাত লোয়েই – Bishnupriya" lang="bpy" hreflang="bpy" data-title="চাংৱাত লোয়েই" data-language-autonym="বিষ্ণুপ্রিয়া মণিপুরী" data-language-local-name="Bishnupriya" class="interlanguage-link-target"><span>বিষ্ণুপ্রিয়া মণিপুরী</span></a></li><li class="interlanguage-link interwiki-cdo mw-list-item"><a href="https://cdo.wikipedia.org/wiki/Loei_H%C5%AB" title="Loei Hū – Min Dong" lang="cdo" hreflang="cdo" data-title="Loei Hū" data-language-autonym="閩東語 / Mìng-dĕ̤ng-ngṳ̄" data-language-local-name="Min Dong" class="interlanguage-link-target"><span>閩東語 / Mìng-dĕ̤ng-ngṳ̄</span></a></li><li class="interlanguage-link interwiki-ceb mw-list-item"><a href="https://ceb.wikipedia.org/wiki/Changwat_Loei_(lalawigan_sa_Thayland)" title="Changwat Loei (lalawigan sa Thayland) – Cebuano" lang="ceb" hreflang="ceb" data-title="Changwat Loei (lalawigan sa Thayland)" data-language-autonym="Cebuano" data-language-local-name="Cebuano" class="interlanguage-link-target"><span>Cebuano</span></a></li><li class="interlanguage-link interwiki-ckb mw-list-item"><a href="https://ckb.wikipedia.org/wiki/%D9%BE%D8%A7%D8%B1%DB%8E%D8%B2%DA%AF%D8%A7%DB%8C_%D9%84%DB%86%D9%88%DB%8E%DB%8C" title="پارێزگای لۆوێی – Zentralkurdisch" lang="ckb" hreflang="ckb" data-title="پارێزگای لۆوێی" data-language-autonym="کوردی" data-language-local-name="Zentralkurdisch" class="interlanguage-link-target"><span>کوردی</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Loei_(provins)" title="Loei (provins) – Dänisch" lang="da" hreflang="da" data-title="Loei (provins)" data-language-autonym="Dansk" data-language-local-name="Dänisch" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Loei_province" title="Loei province – Englisch" lang="en" hreflang="en" data-title="Loei province" data-language-autonym="English" data-language-local-name="Englisch" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Provincia_de_Loei" title="Provincia de Loei – Spanisch" lang="es" hreflang="es" data-title="Provincia de Loei" data-language-autonym="Español" data-language-local-name="Spanisch" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D8%A7%D8%B3%D8%AA%D8%A7%D9%86_%D9%84%D9%88%D8%A6%DB%8C" title="استان لوئی – Persisch" lang="fa" hreflang="fa" data-title="استان لوئی" data-language-autonym="فارسی" data-language-local-name="Persisch" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Province_de_Loei" title="Province de Loei – Französisch" lang="fr" hreflang="fr" data-title="Province de Loei" data-language-autonym="Français" data-language-local-name="Französisch" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-frr mw-list-item"><a href="https://frr.wikipedia.org/wiki/Prowins_Loei" title="Prowins Loei – Nordfriesisch" lang="frr" hreflang="frr" data-title="Prowins Loei" data-language-autonym="Nordfriisk" data-language-local-name="Nordfriesisch" class="interlanguage-link-target"><span>Nordfriisk</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a href="https://gl.wikipedia.org/wiki/Provincia_de_Loei" title="Provincia de Loei – Galicisch" lang="gl" hreflang="gl" data-title="Provincia de Loei" data-language-autonym="Galego" data-language-local-name="Galicisch" class="interlanguage-link-target"><span>Galego</span></a></li><li class="interlanguage-link interwiki-hi mw-list-item"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B2%E0%A5%8B%E0%A4%87_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%A4" title="लोइ प्रान्त – Hindi" lang="hi" hreflang="hi" data-title="लोइ प्रान्त" data-language-autonym="हिन्दी" data-language-local-name="Hindi" class="interlanguage-link-target"><span>हिन्दी</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Provinsi_Loei" title="Provinsi Loei – Indonesisch" lang="id" hreflang="id" data-title="Provinsi Loei" data-language-autonym="Bahasa Indonesia" data-language-local-name="Indonesisch" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Provincia_di_Loei" title="Provincia di Loei – Italienisch" lang="it" hreflang="it" data-title="Provincia di Loei" data-language-autonym="Italiano" data-language-local-name="Italienisch" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%BC%E3%82%A4%E7%9C%8C" title="ルーイ県 – Japanisch" lang="ja" hreflang="ja" data-title="ルーイ県" data-language-autonym="日本語" data-language-local-name="Japanisch" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ka mw-list-item"><a href="https://ka.wikipedia.org/wiki/%E1%83%9A%E1%83%94%E1%83%98%E1%83%A1_%E1%83%9E%E1%83%A0%E1%83%9D%E1%83%95%E1%83%98%E1%83%9C%E1%83%AA%E1%83%98%E1%83%90" title="ლეის პროვინცია – Georgisch" lang="ka" hreflang="ka" data-title="ლეის პროვინცია" data-language-autonym="ქართული" data-language-local-name="Georgisch" class="interlanguage-link-target"><span>ქართული</span></a></li><li class="interlanguage-link interwiki-km mw-list-item"><a href="https://km.wikipedia.org/wiki/%E1%9E%81%E1%9F%81%E1%9E%8F%E1%9F%92%E1%9E%8F%E1%9E%9B%E1%9E%BE%E1%9E%99" title="ខេត្តលើយ – Khmer" lang="km" hreflang="km" data-title="ខេត្តលើយ" data-language-autonym="ភាសាខ្មែរ" data-language-local-name="Khmer" class="interlanguage-link-target"><span>ភាសាខ្មែរ</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EB%A5%B4%EC%9D%B4%EC%A3%BC" title="르이주 – Koreanisch" lang="ko" hreflang="ko" data-title="르이주" data-language-autonym="한국어" data-language-local-name="Koreanisch" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-lo mw-list-item"><a href="https://lo.wikipedia.org/wiki/%E0%BA%88%E0%BA%B1%E0%BA%87%E0%BA%AB%E0%BA%A7%E0%BA%B1%E0%BA%94%E0%BB%80%E0%BA%A5%E0%BA%B5%E0%BA%8D" title="ຈັງຫວັດເລີຍ – Laotisch" lang="lo" hreflang="lo" data-title="ຈັງຫວັດເລີຍ" data-language-autonym="ລາວ" data-language-local-name="Laotisch" class="interlanguage-link-target"><span>ລາວ</span></a></li><li class="interlanguage-link interwiki-mg mw-list-item"><a href="https://mg.wikipedia.org/wiki/Faritanin%27i_Loei" title="Faritanin&#039;i Loei – Malagasy" lang="mg" hreflang="mg" data-title="Faritanin&#039;i Loei" data-language-autonym="Malagasy" data-language-local-name="Malagasy" class="interlanguage-link-target"><span>Malagasy</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/Loei" title="Loei – Malaiisch" lang="ms" hreflang="ms" data-title="Loei" data-language-autonym="Bahasa Melayu" data-language-local-name="Malaiisch" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Loei_(provincie)" title="Loei (provincie) – Niederländisch" lang="nl" hreflang="nl" data-title="Loei (provincie)" data-language-autonym="Nederlands" data-language-local-name="Niederländisch" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-nn mw-list-item"><a href="https://nn.wikipedia.org/wiki/Loei-fylket" title="Loei-fylket – Norwegisch (Nynorsk)" lang="nn" hreflang="nn" data-title="Loei-fylket" data-language-autonym="Norsk nynorsk" data-language-local-name="Norwegisch (Nynorsk)" class="interlanguage-link-target"><span>Norsk nynorsk</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Loei_(provins)" title="Loei (provins) – Norwegisch (Bokmål)" lang="nb" hreflang="nb" data-title="Loei (provins)" data-language-autonym="Norsk bokmål" data-language-local-name="Norwegisch (Bokmål)" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pa mw-list-item"><a href="https://pa.wikipedia.org/wiki/%E0%A8%B2%E0%A9%8B%E0%A8%88_%E0%A8%AA%E0%A9%8D%E0%A8%B0%E0%A8%BE%E0%A8%82%E0%A8%A4" title="ਲੋਈ ਪ੍ਰਾਂਤ – Punjabi" lang="pa" hreflang="pa" data-title="ਲੋਈ ਪ੍ਰਾਂਤ" data-language-autonym="ਪੰਜਾਬੀ" data-language-local-name="Punjabi" class="interlanguage-link-target"><span>ਪੰਜਾਬੀ</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Prowincja_Loei" title="Prowincja Loei – Polnisch" lang="pl" hreflang="pl" data-title="Prowincja Loei" data-language-autonym="Polski" data-language-local-name="Polnisch" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pnb mw-list-item"><a href="https://pnb.wikipedia.org/wiki/%D8%B5%D9%88%D8%A8%DB%81_%D9%84%D9%88%D8%A6%DB%8C%D8%A6%DB%8C" title="صوبہ لوئیئی – Westliches Panjabi" lang="pnb" hreflang="pnb" data-title="صوبہ لوئیئی" data-language-autonym="پنجابی" data-language-local-name="Westliches Panjabi" class="interlanguage-link-target"><span>پنجابی</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Loei_(prov%C3%ADncia)" title="Loei (província) – Portugiesisch" lang="pt" hreflang="pt" data-title="Loei (província)" data-language-autonym="Português" data-language-local-name="Portugiesisch" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/Provincia_Loei" title="Provincia Loei – Rumänisch" lang="ro" hreflang="ro" data-title="Provincia Loei" data-language-autonym="Română" data-language-local-name="Rumänisch" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%9B%D0%B5%D0%B9_(%D0%BF%D1%80%D0%BE%D0%B2%D0%B8%D0%BD%D1%86%D0%B8%D1%8F)" title="Лей (провинция) – Russisch" lang="ru" hreflang="ru" data-title="Лей (провинция)" data-language-autonym="Русский" data-language-local-name="Russisch" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/Loei_province" title="Loei province – Einfaches Englisch" lang="en-simple" hreflang="en-simple" data-title="Loei province" data-language-autonym="Simple English" data-language-local-name="Einfaches Englisch" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Loei_(provins)" title="Loei (provins) – Schwedisch" lang="sv" hreflang="sv" data-title="Loei (provins)" data-language-autonym="Svenska" data-language-local-name="Schwedisch" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-tg mw-list-item"><a href="https://tg.wikipedia.org/wiki/%D0%92%D0%B8%D0%BB%D0%BE%D1%8F%D1%82%D0%B8_%D0%9B%D1%83%D3%A3" title="Вилояти Луӣ – Tadschikisch" lang="tg" hreflang="tg" data-title="Вилояти Луӣ" data-language-autonym="Тоҷикӣ" data-language-local-name="Tadschikisch" class="interlanguage-link-target"><span>Тоҷикӣ</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a href="https://th.wikipedia.org/wiki/%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%A5%E0%B8%A2" title="จังหวัดเลย – Thailändisch" lang="th" hreflang="th" data-title="จังหวัดเลย" data-language-autonym="ไทย" data-language-local-name="Thailändisch" class="interlanguage-link-target"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-tl mw-list-item"><a href="https://tl.wikipedia.org/wiki/Lalawigan_ng_Loei" title="Lalawigan ng Loei – Tagalog" lang="tl" hreflang="tl" data-title="Lalawigan ng Loei" data-language-autonym="Tagalog" data-language-local-name="Tagalog" class="interlanguage-link-target"><span>Tagalog</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Loei_(il)" title="Loei (il) – Türkisch" lang="tr" hreflang="tr" data-title="Loei (il)" data-language-autonym="Türkçe" data-language-local-name="Türkisch" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-ur mw-list-item"><a href="https://ur.wikipedia.org/wiki/%D9%84%D9%88%D8%A6%DB%8C_%D8%B5%D9%88%D8%A8%DB%81" title="لوئی صوبہ – Urdu" lang="ur" hreflang="ur" data-title="لوئی صوبہ" data-language-autonym="اردو" data-language-local-name="Urdu" class="interlanguage-link-target"><span>اردو</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/Loei" title="Loei – Vietnamesisch" lang="vi" hreflang="vi" data-title="Loei" data-language-autonym="Tiếng Việt" data-language-local-name="Vietnamesisch" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-war mw-list-item"><a href="https://war.wikipedia.org/wiki/Loei_(lalawigan)" title="Loei (lalawigan) – Waray" lang="war" hreflang="war" data-title="Loei (lalawigan)" data-language-autonym="Winaray" data-language-local-name="Waray" class="interlanguage-link-target"><span>Winaray</span></a></li><li class="interlanguage-link interwiki-zh-min-nan mw-list-item"><a href="https://zh-min-nan.wikipedia.org/wiki/Loei_H%C3%BA" title="Loei Hú – Min Nan" lang="nan" hreflang="nan" data-title="Loei Hú" data-language-autonym="閩南語 / Bân-lâm-gí" data-language-local-name="Min Nan" class="interlanguage-link-target"><span>閩南語 / Bân-lâm-gí</span></a></li><li class="interlanguage-link interwiki-zh-yue mw-list-item"><a href="https://zh-yue.wikipedia.org/wiki/%E9%BB%8E%E5%BA%9C" title="黎府 – Kantonesisch" lang="yue" hreflang="yue" data-title="黎府" data-language-autonym="粵語" data-language-local-name="Kantonesisch" class="interlanguage-link-target"><span>粵語</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E9%BB%8E%E5%BA%9C" title="黎府 – Chinesisch" lang="zh" hreflang="zh" data-title="黎府" data-language-autonym="中文" data-language-local-name="Chinesisch" class="interlanguage-link-target"><span>中文</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q275388#sitelinks-wikipedia" title="Links auf Artikel in anderen Sprachen bearbeiten" class="wbc-editpage">Links bearbeiten</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namensräume">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="ca-nstab-main" class="selected mw-list-item vector-tab-noicon"><a data-mw-interface  href="/wiki/Loei_(Provinz)" title="Seiteninhalt anzeigen [c]" accesskey="c" class=""><span>Artikel</span></a>
+</li>
+<li id="ca-talk" class="mw-list-item vector-tab-noicon"><a data-mw-interface  href="/wiki/Diskussion:Loei_(Provinz)" rel="discussion" title="Diskussion zum Seiteninhalt [t]" accesskey="t" class=""><span>Diskussion</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="vector-variants-dropdown" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="vector-variants-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-variants-dropdown" class="vector-dropdown-checkbox " aria-label="Sprachvariante ändern"    >
+	<label id="vector-variants-dropdown-label" for="vector-variants-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Deutsch</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Ansichten">
+			    
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="ca-view" class="selected mw-list-item vector-menu-item--collapsible vector-tab-noicon"><a data-mw-interface  href="/w/index.php?title=Loei_(Provinz)&amp;stable=1" class=""><span>Lesen</span></a>
+</li>
+<li id="ca-current" class="collapsible mw-list-item vector-menu-item--collapsible vector-tab-noicon"><a data-mw-interface  href="/w/index.php?title=Loei_(Provinz)&amp;stable=0&amp;redirect=no" title="Die ungesichteten Änderungen dieser Seite anzeigen [v]" accesskey="v" class=""><span>Ungesichtete Änderungen</span></a>
+</li>
+<li id="ca-ve-edit" class="mw-list-item vector-menu-item--collapsible vector-tab-noicon"><a data-mw-interface  href="/w/index.php?title=Loei_(Provinz)&amp;oldid=269639789&amp;veaction=edit" title="Diese Seite mit dem VisualEditor bearbeiten [v]" accesskey="v" class=""><span>Bearbeiten</span></a>
+</li>
+<li id="ca-edit" class="collapsible mw-list-item vector-menu-item--collapsible vector-tab-noicon"><a data-mw-interface  href="//de.wikipedia.org/w/index.php?title=Loei_(Provinz)&amp;action=edit" title="Den Quelltext dieser Seite bearbeiten [e]" accesskey="e" class=""><span>Quelltext bearbeiten</span></a>
+</li>
+<li id="ca-history" class="mw-list-item vector-menu-item--collapsible vector-tab-noicon"><a data-mw-interface  href="/w/index.php?title=Loei_(Provinz)&amp;action=history" title="Frühere Versionen dieser Seite listen [h]" accesskey="h" class=""><span>Versionsgeschichte</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+			</nav>
+
+							<nav class="vector-page-tools-landmark" aria-label="Seitenwerkzeuge">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Werkzeuge"   >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-verticalEllipsis mw-ui-icon-wikimedia-verticalEllipsis cdx-button__icon"></span>
+
+<span class="vector-dropdown-label-text">Werkzeuge</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Werkzeuge</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin" aria-label="Werkzeuge in die Seitenleiste verschieben">In die Seitenleiste verschieben</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin" aria-label="Verstecke Werkzeuge">Verbergen</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  >
+	<div class="vector-menu-heading">
+		Aktionen
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="ca-view-more" class="selected mw-list-item vector-menu-item--collapsible"><a data-mw-interface  href="/w/index.php?title=Loei_(Provinz)&amp;stable=1" class=""><span>Lesen</span></a>
+</li>
+<li id="ca-current-more" class="collapsible mw-list-item vector-menu-item--collapsible"><a data-mw-interface  href="/w/index.php?title=Loei_(Provinz)&amp;stable=0&amp;redirect=no" title="Die ungesichteten Änderungen dieser Seite anzeigen [v]" accesskey="v" class=""><span>Ungesichtete Änderungen</span></a>
+</li>
+<li id="ca-ve-edit-more" class="mw-list-item vector-menu-item--collapsible"><a data-mw-interface  href="/w/index.php?title=Loei_(Provinz)&amp;oldid=269639789&amp;veaction=edit" title="Diese Seite mit dem VisualEditor bearbeiten [v]" accesskey="v" class=""><span class="vector-icon mw-ui-icon-edit mw-ui-icon-wikimedia-edit cdx-button__icon"></span>
+
+<span>Bearbeiten</span></a>
+</li>
+<li id="ca-edit-more" class="collapsible mw-list-item vector-menu-item--collapsible"><a data-mw-interface  href="//de.wikipedia.org/w/index.php?title=Loei_(Provinz)&amp;action=edit" title="Den Quelltext dieser Seite bearbeiten [e]" accesskey="e" class=""><span class="vector-icon mw-ui-icon-wikiText mw-ui-icon-wikimedia-wikiText cdx-button__icon"></span>
+
+<span>Quelltext bearbeiten</span></a>
+</li>
+<li id="ca-history-more" class="mw-list-item vector-menu-item--collapsible"><a data-mw-interface  href="/w/index.php?title=Loei_(Provinz)&amp;action=history" title="Frühere Versionen dieser Seite listen [h]" accesskey="h" class=""><span class="vector-icon mw-ui-icon-history mw-ui-icon-wikimedia-history cdx-button__icon"></span>
+
+<span>Versionsgeschichte</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		Allgemein
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Spezial:Linkliste/Loei_(Provinz)" title="Liste aller Seiten, die hierher verlinken [j]" accesskey="j"><span>Links auf diese Seite</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Spezial:%C3%84nderungen_an_verlinkten_Seiten/Loei_(Provinz)" rel="nofollow" title="Letzte Änderungen an Seiten, die von hier verlinkt sind [k]" accesskey="k"><span>Änderungen an verlinkten Seiten</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Loei_(Provinz)&amp;oldid=269639789" title="Dauerhafter Link zu dieser Seitenversion"><span>Permanenter Link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Loei_(Provinz)&amp;action=info" title="Weitere Informationen über diese Seite"><span>Seiten­­informationen</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Spezial:Zitierhilfe&amp;page=Loei_%28Provinz%29&amp;id=269639789&amp;wpFormIdentifier=titleform" title="Hinweise, wie diese Seite zitiert werden kann"><span>Artikel zitieren</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Spezial:URL-K%C3%BCrzung&amp;url=https%3A%2F%2Fde.wikipedia.org%2Fwiki%2FLoei_%28Provinz%29"><span>Kurzlink</span></a></li><li class="mw-list-item"><a href="/w/index.php?title=Loei_(Provinz)&amp;useparsoid=0"><span>Zum Legacy-Parser wechseln</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Drucken/​exportieren
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Loei_(Provinz)&amp;printable=yes" title="Druckansicht dieser Seite [p]" accesskey="p"><span>Druckversion</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		In anderen Projekten
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Loei_Province" hreflang="en"><span>Commons</span></a></li><li class="wb-otherproject-link wb-otherproject-wikivoyage mw-list-item"><a href="https://de.wikivoyage.org/wiki/Loei_(Provinz)" hreflang="de"><span>Wikivoyage</span></a></li><li id="t-wikibase" class="wb-otherproject-link wb-otherproject-wikibase-dataitem mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q275388" title="Link zum verbundenen Objekt im Datenrepositorium [g]" accesskey="g"><span>Wikidata-Datenobjekt</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end no-font-mode-scale">
+					<div class="vector-sticky-pinned-container">
+						<nav class="vector-page-tools-landmark" aria-label="Seitenwerkzeuge">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-appearance-landmark" aria-label="Erscheinungsbild">
+							<div id="vector-appearance-pinned-container" class="vector-pinned-container">
+				<div id="vector-appearance" class="vector-appearance vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="appearance-pinned"
+	data-pinnable-element-id="vector-appearance"
+	data-pinned-container-id="vector-appearance-pinned-container"
+	data-unpinned-container-id="vector-appearance-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Erscheinungsbild</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin" aria-label="Erscheinungsbild in die Seitenleiste verschieben">In die Seitenleiste verschieben</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin" aria-label="Verstecke Erscheinungsbild">Verbergen</button>
+</div>
+
+
+</div>
+
+							</div>
+		</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		<div id="mw-indicator-indicator-fr-review-status" class="mw-indicator"><div class="mw-fr-review-status-indicator" id="mw-fr-revision-toggle"><span class="cdx-fr-css-icon-review--status--stable"></span><b>Gesichtet</b></div></div>
+		</div>
+
+						<div id="siteSub" class="noprint">aus Wikipedia, der freien Enzyklopädie</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"><div id="mw-fr-revision-messages"><div id="mw-fr-revision-details" class="mw-fr-revision-details-dialog" style="display:none;"><div tabindex="0"></div><div class="cdx-dialog cdx-dialog--horizontal-actions"><header class="cdx-dialog__header cdx-dialog__header--default"><div class="cdx-dialog__header__title-group"><h2 class="cdx-dialog__header__title">Seitenversionsstatus</h2><p class="cdx-dialog__header__subtitle">Dies ist eine gesichtete Version dieser Seite</p></div><button class="cdx-button cdx-button--action-default cdx-button--weight-quiet&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;cdx-button--size-medium cdx-button--icon-only cdx-dialog__header__close-button" aria-label="Schließen" onclick="document.getElementById(&quot;mw-fr-revision-details&quot;).style.display = &quot;none&quot;;" type="submit"><span class="cdx-icon cdx-icon--medium&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;cdx-fr-css-icon--close"></span></button></header><div class="cdx-dialog__body">Dies ist die <a href="/wiki/Hilfe:Gesichtete_Versionen" title="Hilfe:Gesichtete Versionen">gesichtete Version</a>, die am <i>14. August 2026</i> <a class="external text" data-mw-original-href="//de.wikipedia.org/w/index.php?title=Spezial:Logbuch&amp;type=review&amp;page=Loei_(Provinz)" href="https://de.wikipedia.org/w/index.php?title=Spezial:Logbuch&amp;type=review&amp;page=Loei_(Provinz)">markiert</a> wurde.
+Es existieren <a class="external text" data-mw-original-href="//de.wikipedia.org/w/index.php?title=Loei_(Provinz)&amp;oldid=269639789&amp;diff=cur" href="https://de.wikipedia.org/w/index.php?title=Loei_(Provinz)&amp;oldid=269639789&amp;diff=cur">2 ausstehende Änderungen</a>, die noch gesichtet werden müssen.</div></div><div tabindex="0"></div></div></div></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="de" dir="ltr" data-mw-parsoid-version="0.24.0.0-alpha21" data-mw-html-version="2.8.0"><section data-mw-section-id="0" id="mwAQ"><table class="wikitable infobox toptextcells float-right" style="width:15em;" about="#mwt1" typeof="mw:Transclusion" id="mwAg" data-mw='{"parts":[{"template":{"target":{"wt":"Infobox Provinzen in Thailand\n","href":"./Vorlage:Infobox_Provinzen_in_Thailand"},"params":{"name":{"wt":"Loei"},"thai":{"wt":"{{lang|th|เลย}}"},"siegel":{"wt":"Seal Loei.png"},"Hauptstadt":{"wt":"[[Loei]]"},"Telefon":{"wt":"042"},"Fläche":{"wt":"11.424,6"},"Rang Fläche":{"wt":"14"},"Einwohner":{"wt":"661.000"},"Einwohner Jahr":{"wt":"2011"},"Rang Einwohner":{"wt":"40"},"Bevölkerungsdichte":{"wt":"54"},"Rang Bevölkerungsdichte":{"wt":"70"},"ISO-Code":{"wt":"TH-14 รัฐมนตรีรักษ์ษาการจังหวัดเลย\nทะเบียนบัติ:1429900180512"},"Gouverneur":{"wt":"ETCWISIT TONGMO พันจ่าโทวิศิษฎ์ ทองโม้"},"Karte":{"wt":"Thailand Loei locator map.svg"}},"i":0}}]}'>
+<tbody><tr>
+<th colspan="2" style="background:#ADD8E6; color:#202122; font-size:larger;">Loei</th></tr>
+<tr>
+<td colspan="2" class="hintergrundfarbe-basis" style="font-size:larger; text-align:center;"><style data-mw-deduplicate="TemplateStyles:r184662313" typeof="mw:Extension/templatestyles" about="#mwt2" data-mw='{"name":"templatestyles","attrs":{"src":"Thai/styles.css"},"body":{"extsrc":""}}'>.mw-parser-output .Thai{font-size:115%}</style><span lang="th-Thai" class="Thai">เลย</span>
+<div class="centered" style="background:#ffffff; color:#202122; max-width:fit-content;"><figure class="mw-halign-center" typeof="mw:File"><a href="https://de.wikipedia.org/wiki/Datei:Seal_Loei.png" class="mw-file-description" title="Siegel der Provinz Loei"><img resource="https://de.wikipedia.org/wiki/Datei:Seal_Loei.png" src="//thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Seal_Loei.png/120px-Seal_Loei.png?utm_source=de.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" loading="lazy" srcset="//thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Seal_Loei.png/250px-Seal_Loei.png?utm_source=de.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" alt="" data-file-width="500" data-file-height="500" data-file-type="bitmap" height="100" width="100" class="mw-file-element"/></a><figcaption>Siegel der Provinz Loei</figcaption></figure></div></td></tr>
+<tr>
+<th colspan="2" style="background:#ADD8E6; color:#202122;">Statistik</th></tr>
+<tr>
+<td>Hauptstadt:</td>
+<td><a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Loei" title="Loei">Loei</a></td></tr>
+<tr>
+<td>Telefonvorwahl:</td>
+<td>042</td></tr>
+<tr>
+<td>Fläche:</td>
+<td><span style="white-space:nowrap">11.424,6 km²</span><br/>14.</td></tr>
+<tr>
+<td>Einwohner:</td>
+<td><span style="white-space:nowrap">661.000 <small><i>(2011)</i></small></span><br/>40.</td></tr>
+<tr>
+<td><a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Bevölkerungsdichte" title="Bevölkerungsdichte">Bevölkerungs<span typeof="mw:Entity">­</span>dichte</a>:</td>
+<td>54 E/km²<br/>70.</td></tr>
+<tr>
+<td><a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/ISO_3166-2" title="ISO 3166-2">ISO 3166-2</a>:</td>
+<td>TH-14 รัฐมนตรีรักษ์ษาการจังหวัดเลย
+<p>ทะเบียนบัติ:1429900180512</p></td></tr>
+<tr>
+<td><a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Gouverneur" title="Gouverneur">Gouverneur</a>:</td>
+<td>ETCWISIT TONGMO พันจ่าโทวิศิษฎ์ ทองโม้</td></tr>
+<tr>
+<th colspan="2" style="background:#ADD8E6; color:#202122;">Karte</th></tr>
+<tr>
+<td colspan="2"><figure class="mw-halign-center noresize mw-ext-imagemap-desc-bottom-right" typeof="mw:File mw:Extension/imagemap" about="#mwt3" id="mwAw" data-mw='{"name":"imagemap","attrs":{},"body":{"extsrc":"\nBild:Thailand Loei locator map.svg|180px|center|Karte von Thailand mit der Provinz Loei hervorgehoben\n\npoly 244 1727 323 1714 357 1727 368 1693 404 1715 439 1726 448 1751 473 1771 459 1797 462 1815 477 1821 504 1794 540 1789 568 1793 583 1749 637 1728 716 1783 733 1847 212 1845 [[Malaysia]]\npoly 2 0 352 5 351 15 309 14 272 16 264 39 240 49 199 74 182 93 153 96 143 99 119 80 102 99 84 126 68 153 68 171 65 200 64 226 43 237 18 229 12 236 12 283 54 334 94 381 112 402 145 447 163 485 174 522 200 522 201 536 174 543 167 556 168 629 110 656 137 732 231 814 243 867 230 904 249 966 277 1069 231 1136 170 1227 172 1281 171 1303 135 1339 93 1339 37 1340 48 1099 24 1082 33 1019 74 917 54 777 37 555 0 426 [[Myanmar]]\npoly 365 3 875 2 849 20 928 57 902 124 826 110 814 165 963 246 954 282 1050 380 1046 811 962 776 1011 742 1017 692 1002 660 1025 576 992 571 990 543 941 527 924 490 930 380 874 350 808 256 725 250 695 308 651 320 591 280 482 370 471 364 496 304 477 246 513 188 495 135 489 104 407 118 424 44 [[Laos]]\npoly 878 2 870 19 920 63 923 94 874 114 822 140 830 175 949 240 962 279 995 309 1016 345 1048 376 1050 1086 1035 1095 1040 1123 1043 1142 1050 1144 1049 1182 948 1180 939 1218 896 1240 860 1239 854 1314 843 1366 887 1491 963 1466 1026 1401 1050 1378 1049 0 [[Vietnam]]\npoly 634 868 662 964 687 993 683 1034 695 1077 682 1131 673 1233 671 1317 702 1355 733 1376 796 1396 859 1354 862 1234 925 1214 930 1176 969 1174 990 1171 1027 1160 1040 1179 1045 1138 1024 1084 1049 1083 1042 810 1008 795 993 793 958 778 955 776 950 780 934 780 909 757 877 757 832 760 754 759 736 761 703 785 680 808 667 825 662 831 656 856 630 868 [[Kambodscha]]\n\npoly 523 1787 504 1722 548 1692 606 1739 563 1811 [[Narathiwat (Provinz)|Narathiwat]]\npoly 438 1744 473 1696 504 1693 528 1709 514 1722 508 1745 525 1794 477 1827 457 1801 472 1755 [[Yala (Provinz)]]\npoly 466 1653 478 1702 496 1697 530 1707 554 1696 530 1656 [[Pattani (Provinz)]]\npoly 349 1638 387 1615 358 1549 413 1537 451 1648 466 1664 469 1706 445 1745 424 1715 376 1704 [[Songkhla (Provinz)]]\npoly 272 1666 312 1636 353 1650 377 1673 362 1712 346 1721 323 1708 277 1725 229 1727 [[Satun (Provinz)]]\npoly 228 1629 257 1606 246 1580 266 1565 262 1542 282 1544 286 1547 305 1531 314 1538 348 1647 309 1641 275 1664 247 1665 [[Trang (Provinz)]]\npoly 316 1550 339 1544 364 1555 387 1619 341 1645 [[Phatthalung (Provinz)]]\npoly 188 1558 186 1507 186 1459 195 1452 221 1472 250 1492 263 1505 269 1523 274 1538 273 1550 263 1555 262 1569 260 1576 253 1581 248 1592 239 1616 225 1621 216 1623 [[Krabi (Provinz)]]\npoly 118 1502 168 1524 169 1568 143 1615 107 1592 [[Phuket (Provinz)|Phuket]]\npoly 83 1345 136 1358 168 1374 165 1396 171 1428 180 1442 179 1456 185 1457 185 1471 182 1501 182 1515 187 1524 189 1548 189 1558 177 1558 167 1532 159 1518 139 1505 125 1503 88 1500 54 1489 30 1469 [[Phang-nga (Provinz)]]\npoly 256 1485 265 1466 282 1449 288 1424 317 1417 311 1372 327 1373 350 1418 353 1460 378 1467 396 1539 346 1550 334 1547 310 1550 312 1537 294 1535 292 1551 273 1544 [[Nakhon Si Thammarat (Provinz)]]\npoly 319 1259 281 1303 251 1323 235 1333 209 1321 199 1338 191 1360 161 1380 162 1419 176 1437 177 1457 192 1460 201 1452 224 1478 232 1493 261 1496 258 1466 294 1451 294 1422 314 1408 315 1376 326 1366 343 1379 359 1342 357 1301 338 1264 [[Surat Thani (Provinz)]]\npoly 112 1342 162 1294 181 1288 192 1251 200 1219 193 1201 212 1191 220 1217 212 1241 221 1258 214 1290 191 1309 186 1326 193 1337 196 1356 194 1365 164 1376 [[Ranong (Provinz)]]\npoly 306 1172 241 1166 213 1199 219 1219 212 1242 219 1269 207 1291 177 1320 191 1342 208 1335 214 1329 241 1334 253 1310 312 1261 [[Chumphon (Provinz)]]\npoly 236 1163 282 1093 296 1085 298 1071 272 973 344 969 349 1031 293 1170 [[Prachuap Khiri Khan (Provinz)]]\npoly 251 901 232 904 248 935 259 958 274 970 289 975 349 966 364 908 338 889 330 897 321 884 304 890 301 901 [[Phetchaburi (Provinz)]]\npoly 246 837 245 907 323 892 330 863 345 862 350 845 330 809 [[Ratchaburi (Provinz)]]\npoly 342 894 323 892 333 863 349 861 356 878 [[Samut Songkhram (Provinz)]]\npoly 350 845 346 862 357 873 394 870 383 836 [[Samut Sakhon (Provinz)]]\npoly 380 826 383 844 392 859 395 866 399 865 399 852 404 850 409 837 420 837 418 846 427 842 429 838 446 840 452 822 449 809 429 815 410 808 402 826 [[Bangkok (Provinz)]]\npoly 397 869 398 853 404 850 410 838 415 841 415 845 424 844 433 836 452 844 449 861 442 868 [[Samut Prakan (Provinz)]]\npoly 440 868 454 842 442 835 452 825 447 815 448 809 474 808 482 822 524 822 537 834 553 831 567 851 573 868 578 884 570 897 554 901 544 902 534 884 526 874 508 863 495 857 477 850 462 871 [[Chachoengsao (Provinz)]]\npoly 453 876 478 852 504 870 530 883 538 894 543 904 543 908 533 910 528 916 520 921 512 924 476 916 467 923 461 940 455 960 453 969 452 976 446 981 431 973 420 964 415 953 414 929 437 904 [[Chon Buri (Provinz)]]\npoly 457 986 472 921 490 918 520 918 544 903 555 930 560 944 556 968 552 982 508 990 [[Rayong (Provinz)]]\npoly 542 907 578 884 583 897 591 887 603 894 624 890 640 923 645 946 630 963 628 979 622 974 621 992 622 1006 620 1009 614 1009 592 1003 575 988 560 975 556 967 557 951 560 932 550 919 [[Chanthaburi (Provinz)]]\npoly 629 956 626 974 625 985 622 985 616 1002 610 1011 602 1020 598 1041 604 1067 611 1084 631 1110 647 1121 667 1113 687 1088 687 1069 677 1056 671 1045 666 1026 671 1002 671 989 660 978 648 966 639 959 [[Trat (Provinz)]]\npoly 692 783 592 785 573 802 562 839 566 865 585 897 624 891 620 854 654 856 643 843 659 834 [[Sa Kaeo (Provinz)]]\npoly 479 817 476 801 498 796 498 782 521 767 514 754 515 746 545 759 555 766 561 759 575 760 575 773 577 777 596 786 594 791 584 798 574 800 568 805 566 822 570 838 571 849 567 858 552 851 551 835 545 826 529 833 523 835 [[Prachin Buri (Provinz)]]\npoly 452 770 452 806 477 806 481 793 488 793 495 793 495 785 504 779 505 771 529 770 524 763 512 751 500 742 495 742 493 746 481 757 478 758 465 750 463 752 463 764 454 773 [[Nakhon Nayok (Provinz)]]\npoly 381 788 382 800 399 806 410 810 450 807 454 770 412 787 [[Pathum Thani (Provinz)]]\npoly 374 782 374 804 375 813 384 829 407 828 409 810 393 805 [[Nonthaburi (Provinz)]]\npoly 325 808 323 799 332 790 359 783 375 781 375 797 378 807 381 817 382 825 384 836 383 841 371 844 363 844 352 844 349 844 343 839 337 834 335 832 335 822 334 817 [[Nakhon Pathom (Provinz)]]\npoly 130 677 134 648 152 645 167 641 175 637 177 610 177 605 207 623 217 637 221 651 226 667 235 678 260 680 260 685 258 701 262 705 275 715 283 713 294 710 303 718 309 723 314 728 321 742 321 761 321 777 321 790 324 807 324 812 320 817 314 821 302 827 264 831 244 832 240 832 232 819 219 793 208 779 192 758 178 748 160 729 180 768 174 754 [[Kanchanaburi (Provinz)]]\npoly 257 675 256 686 260 694 260 701 267 708 273 711 284 723 290 714 293 705 304 705 314 712 316 723 317 739 317 753 317 767 317 784 317 793 329 797 335 790 357 787 370 784 375 771 374 758 370 747 365 734 365 724 368 712 368 701 364 692 361 690 357 690 343 692 311 688 299 684 287 683 281 683 276 679 265 677 261 677 [[Suphan Buri (Provinz)]]\npoly 372 742 376 761 373 778 376 784 386 786 408 787 424 783 434 774 435 768 435 758 433 743 428 735 421 735 415 731 412 727 411 718 407 719 403 728 402 738 400 750 391 751 389 738 [[Ayutthaya (Provinz)|Ayutthaya]]\npoly 366 706 364 745 389 741 393 748 405 749 404 718 [[Ang Thong (Provinz)]]\npoly 381 667 369 677 371 686 361 687 366 707 379 709 399 717 396 690 398 678 [[Sing Buri (Provinz)]]\npoly 433 735 410 735 410 726 431 705 446 712 476 711 474 697 495 688 505 676 517 688 510 705 493 710 488 711 482 731 482 744 482 756 482 762 471 754 468 754 463 761 457 768 443 769 [[Saraburi (Provinz)]]\npoly 428 709 421 721 410 724 400 719 393 710 393 699 397 685 395 671 394 665 399 654 412 646 423 627 438 625 457 632 464 640 474 643 485 642 491 638 495 611 501 609 503 621 504 638 506 658 506 669 501 673 489 680 472 690 469 698 463 708 457 708 456 708 436 700 429 703 418 716 [[Lop Buri (Provinz)]]\npoly 504 643 512 700 487 719 486 739 495 744 505 749 513 746 528 747 538 751 548 761 550 764 557 758 573 755 578 755 581 763 581 769 583 774 596 780 601 780 617 780 630 777 642 772 645 767 645 765 642 756 641 749 637 740 632 733 630 733 616 728 615 725 619 724 622 722 630 716 630 712 623 702 623 700 629 695 639 697 643 700 643 691 645 685 647 685 656 686 666 684 672 674 677 663 686 657 691 650 693 634 693 629 693 625 682 620 675 616 669 611 669 608 661 601 655 598 643 598 633 600 627 598 616 585 609 585 598 594 592 606 586 617 585 623 [[Nakhon Ratchasima (Provinz)]]\npoly 677 604 676 615 689 621 694 629 694 643 693 657 692 659 685 663 669 667 665 687 652 689 640 692 637 701 636 711 635 736 648 745 651 756 650 765 642 774 637 777 633 778 697 781 718 767 726 765 727 741 727 715 742 699 753 686 759 662 749 645 740 643 722 640 716 636 710 628 709 622 705 608 691 595 [[Buri Ram (Provinz)]]\npoly 710 622 708 633 719 644 738 644 752 644 753 658 752 674 750 688 741 702 723 715 719 732 724 756 724 757 725 759 731 761 756 756 771 759 777 759 800 764 813 764 820 758 821 739 823 715 816 700 805 698 807 688 815 659 815 653 819 640 822 638 822 635 808 629 781 626 775 626 761 626 751 627 [[Surin (Provinz)]]\npoly 824 613 816 631 818 637 818 645 813 661 813 673 813 690 809 700 812 706 814 713 813 725 812 742 828 758 828 759 846 758 870 757 880 758 913 756 913 756 914 742 918 721 919 711 907 697 904 692 897 678 896 670 894 657 886 647 874 645 863 640 842 630 830 617 [[Si Sa Ket (Provinz)]]\npoly 863 647 861 633 863 616 876 613 886 610 889 595 915 615 924 609 923 597 924 577 936 558 942 544 983 561 979 577 987 586 998 589 1006 599 1008 610 1000 631 996 643 995 661 995 671 995 679 996 686 995 700 995 713 989 745 972 748 959 759 954 766 947 774 936 770 925 760 920 751 917 746 917 730 918 723 919 704 912 690 908 684 901 679 895 652 [[Ubon Ratchathani (Provinz)]]\npoly 222 654 233 636 238 605 242 585 262 603 281 608 288 613 299 600 315 600 321 606 327 612 334 604 339 614 346 620 355 628 356 643 356 647 318 644 315 647 313 659 322 680 322 680 310 683 299 683 269 670 266 669 257 679 241 681 226 670 [[Uthai Thani (Provinz)]]\npoly 350 645 308 645 324 677 311 682 339 691 360 687 367 688 372 688 368 676 383 665 366 633 [[Chai Nat (Provinz)]]\npoly 888 597 881 616 872 611 864 595 875 556 884 546 911 547 911 537 936 523 942 545 940 553 923 614 [[Amnat Charoen (Provinz)]]\npoly 911 549 911 532 900 531 877 520 870 517 862 517 843 528 834 533 829 540 824 553 820 568 816 578 817 581 831 586 833 609 831 622 852 647 864 648 862 620 879 615 872 604 867 582 872 564 880 552 887 546 [[Yasothon (Provinz)]]\npoly 820 562 829 562 830 551 846 527 854 514 854 505 833 507 814 506 803 505 779 505 781 522 782 532 777 534 767 534 761 538 756 549 753 565 751 574 749 583 743 588 729 605 735 616 753 627 753 630 760 628 780 626 792 626 806 626 808 627 825 627 832 612 837 602 829 583 827 583 817 582 819 562 826 559 826 549 [[Roi Et (Provinz)]]\npoly 734 599 737 616 745 618 745 627 742 630 721 626 712 620 696 609 695 601 692 589 679 568 679 552 679 526 684 515 695 502 714 488 729 479 726 496 725 510 735 515 739 518 749 530 759 537 759 545 757 556 757 571 755 586 745 593 [[Maha Sarakham (Provinz)]]\npoly 553 465 551 482 566 484 587 503 624 506 631 514 616 553 626 568 620 589 629 600 659 593 667 602 675 609 685 599 694 584 682 553 676 525 693 507 718 481 716 447 688 457 680 452 677 452 676 435 665 430 653 455 653 466 649 466 638 460 598 447 593 447 583 451 [[Khon Kaen (Provinz)]]\npoly 552 478 523 473 508 518 498 541 499 568 501 593 504 606 505 626 506 644 521 641 574 636 586 619 591 594 603 584 618 583 620 572 620 563 613 556 611 552 630 511 [[Chaiyaphum (Provinz)]]\npoly 524 473 550 480 551 467 540 451 538 431 532 431 524 435 489 430 485 430 480 438 475 446 459 456 444 471 443 483 443 494 434 502 424 512 419 522 418 534 420 546 427 558 429 563 433 586 434 597 433 611 432 621 432 623 438 623 452 633 456 635 468 637 473 637 483 637 491 633 493 628 498 612 510 606 513 592 503 583 500 574 502 559 500 537 503 526 512 516 513 502 515 492 519 483 521 475 522 473 [[Phetchabun (Provinz)]]\npoly 236 587 237 564 316 575 353 539 372 572 436 559 440 624 419 629 399 674 393 674 378 657 364 634 352 631 335 620 334 599 325 601 312 597 292 607 285 615 273 609 [[Nakhon Sawan (Provinz)]]\npoly 344 493 344 521 349 537 365 571 429 564 422 551 422 529 411 494 397 502 383 496 370 493 370 490 [[Phichit (Provinz)]]\npoly 217 499 236 573 314 574 349 538 341 513 347 497 345 490 329 481 326 475 316 471 307 470 284 454 279 451 261 465 253 496 [[Kamphaeng Phet (Provinz)]]\npoly 74 345 103 334 123 372 140 368 152 402 180 406 173 344 192 349 199 385 211 374 224 388 238 392 250 393 256 404 271 426 274 441 274 453 269 461 264 465 255 480 251 493 247 494 234 498 227 508 224 543 236 567 238 593 239 611 231 642 228 650 227 654 215 646 197 622 193 615 179 604 175 600 179 551 210 547 207 506 189 516 187 517 170 490 166 474 166 460 166 441 145 427 135 418 [[Tak (Provinz)|Tak]]\npoly 908 460 846 449 826 454 844 507 846 499 856 521 882 521 891 534 916 535 930 535 931 523 907 492 [[Mukdahan (Provinz)]]\npoly 708 448 723 441 746 458 749 464 752 454 762 425 782 436 796 452 805 464 820 462 823 460 835 473 839 484 840 498 839 508 820 507 803 506 785 506 784 520 783 529 764 530 747 532 727 514 717 511 713 497 712 459 [[Kalasin (Provinz)]]\npoly 589 453 544 466 536 434 520 437 507 430 489 434 480 440 471 453 465 446 458 427 464 411 463 398 447 384 439 371 441 363 468 374 494 364 514 344 531 326 550 312 561 298 578 289 579 289 570 333 573 344 583 358 591 366 591 372 585 378 581 389 582 416 584 434 584 449 [[Loei (Provinz)]]\npoly 586 362 591 379 576 390 587 451 651 465 656 441 634 424 615 360 [[Nong Bua Lam Phu (Provinz)]]\npoly 597 284 592 307 619 333 648 359 657 365 682 355 681 332 691 333 696 338 706 331 712 337 719 339 722 333 725 333 742 330 743 315 738 308 736 304 740 284 732 274 721 285 711 298 696 310 661 329 646 317 [[Nong Khai (Provinz)]]\npoly 584 361 578 339 586 306 644 350 659 368 674 354 685 332 705 336 743 336 747 364 733 390 731 403 774 427 761 427 752 464 744 452 730 442 707 443 705 456 695 457 679 458 671 451 673 439 668 430 659 430 656 436 647 431 641 421 637 413 651 410 651 406 650 404 640 402 626 393 612 375 612 360 [[Udon Thani (Provinz)]]\npoly 732 263 722 276 731 288 737 300 737 307 737 314 747 321 755 309 774 314 792 331 824 345 841 313 824 282 814 268 800 275 767 267 757 261 743 258 [[Bueng Kan (Provinz)]]\npoly 731 398 731 371 744 367 742 336 742 317 766 313 777 327 812 337 820 344 820 352 818 381 816 388 849 387 857 387 859 387 861 392 863 413 862 434 830 449 825 454 813 460 809 460 793 450 783 438 765 425 759 409 739 405 [[Sakon Nakhon (Provinz)]]\npoly 814 338 835 313 860 345 890 369 905 383 908 395 912 414 910 429 907 439 906 453 906 461 849 452 861 435 866 406 863 387 838 389 825 390 824 390 818 388 813 377 823 349 [[Nakhon Phanom (Provinz)]]\npoly 350 493 336 488 317 468 350 459 357 449 342 425 347 414 381 406 396 390 418 379 442 371 448 358 452 357 459 367 449 376 445 380 448 387 467 406 469 410 468 437 462 455 450 465 447 478 444 496 435 510 426 522 426 523 420 519 413 503 413 493 401 494 394 501 384 499 372 487 366 486 351 491 340 486 [[Phitsanulok (Provinz)]]\npoly 333 341 345 357 338 370 338 377 342 384 344 394 341 410 340 421 361 426 373 414 384 388 415 384 429 373 439 353 447 352 450 352 456 348 476 340 476 330 476 318 479 291 478 272 469 276 459 287 453 299 440 314 416 317 389 317 383 327 363 331 355 334 341 339 339 341 339 341 [[Uttaradit (Provinz)]]\npoly 287 345 280 356 278 377 279 400 279 406 272 408 262 408 260 413 281 462 309 476 326 476 354 450 350 436 331 420 330 407 340 386 341 373 338 362 331 339 321 342 318 353 310 349 303 341 298 340 [[Sukhothai (Provinz)]]\npoly 467 269 448 290 442 311 426 317 398 313 389 313 395 270 402 256 389 242 388 215 395 200 413 179 409 146 408 137 412 132 426 134 441 130 453 117 479 120 485 122 488 139 497 179 499 191 491 224 482 245 477 252 [[Nan (Provinz)]]\npoly 305 143 309 168 325 195 349 208 368 215 380 218 394 209 398 188 413 178 414 164 403 146 412 140 413 133 404 126 396 112 373 112 355 125 351 136 346 142 [[Phayao (Provinz)]]\npoly 276 352 271 342 309 310 320 286 338 263 353 238 355 218 384 218 395 259 409 260 396 318 382 327 356 335 330 339 309 344 294 338 [[Phrae (Provinz)]]\npoly 295 145 290 188 273 195 262 177 261 154 257 125 258 110 287 79 287 68 294 40 286 28 310 28 314 28 325 17 349 19 353 40 361 38 370 26 384 30 392 41 404 48 404 78 396 89 390 116 379 119 364 122 349 127 348 144 342 144 315 144 [[Chiang Rai (Provinz)]]\npoly 245 336 227 363 216 360 214 374 216 379 229 390 241 400 250 388 258 401 265 412 278 414 284 400 275 378 277 361 281 357 276 353 259 339 297 315 320 296 336 275 354 246 356 214 338 198 318 184 306 161 306 144 290 143 290 155 290 179 287 188 277 197 269 204 267 207 267 242 247 260 237 278 226 284 227 295 [[Lampang (Provinz)]]\npoly 224 286 243 274 254 258 259 253 253 242 248 232 231 236 216 247 212 255 201 260 196 262 194 267 193 279 194 286 200 296 205 310 207 322 211 332 211 338 202 342 194 345 190 360 192 373 200 379 210 374 216 368 221 358 223 358 234 352 238 339 238 328 [[Lamphun (Provinz)]]\npoly 167 343 176 406 141 406 145 364 122 376 119 366 127 353 113 334 112 322 133 320 135 312 138 303 128 286 122 278 121 263 140 251 140 249 123 232 118 221 121 192 138 175 156 186 173 195 184 189 186 178 180 152 177 117 174 108 207 96 218 101 225 99 230 72 234 58 247 57 274 57 291 56 291 61 274 90 264 113 263 131 263 146 265 164 272 210 269 232 261 251 232 233 186 265 186 277 197 293 203 302 209 317 211 342 178 346 169 342 167 348 [[Chiang Mai (Provinz)]]\npoly 74 346 101 336 112 364 124 357 127 346 106 325 140 313 129 293 119 261 128 251 130 239 122 227 120 205 122 197 129 194 134 188 140 178 140 176 149 184 156 192 186 189 187 177 175 151 174 135 165 110 163 109 144 109 131 112 120 92 111 94 108 108 105 119 98 126 92 137 88 154 87 172 86 180 84 189 76 195 71 205 71 213 74 234 75 245 66 250 59 253 41 256 26 239 22 252 32 268 44 283 54 278 59 280 61 290 70 305 74 314 70 322 66 330 67 341 70 342 [[Mae Hong Son (Provinz)]]\n"}}'><span title="Karte von Thailand mit der Provinz Loei hervorgehoben" id="mwBA"><img resource="https://de.wikipedia.org/wiki/Datei:Thailand_Loei_locator_map.svg" src="//thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Thailand_Loei_locator_map.svg/250px-Thailand_Loei_locator_map.svg.png?utm_source=de.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" loading="lazy" srcset="//thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Thailand_Loei_locator_map.svg/500px-Thailand_Loei_locator_map.svg.png?utm_source=de.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" alt="Karte von Thailand mit der Provinz Loei hervorgehoben" data-file-width="1052" data-file-height="1849" data-file-type="drawing" height="316" width="180" class="mw-file-element" usemap="#ImageMap_e97fa108236ef4d3" id="mwBQ"/></span><map name="ImageMap_e97fa108236ef4d3" id="mwBg"><area href="https://de.wikipedia.org/wiki/Malaysia" shape="poly" coords="42,295,55,293,61,295,63,289,69,293,75,295,77,299,81,303,78,307,79,310,82,311,86,307,92,306,97,307,100,299,109,295,122,305,125,316,36,315" alt="Malaysia" title="Malaysia" id="mwBw"/><area href="https://de.wikipedia.org/wiki/Myanmar" shape="poly" coords="0,0,60,1,60,3,53,2,47,3,45,7,41,8,34,13,31,16,26,16,24,17,20,14,17,17,14,22,12,26,12,29,11,34,11,39,7,41,3,39,2,40,2,48,9,57,16,65,19,69,25,76,28,83,30,89,34,89,34,92,30,93,29,95,29,108,19,112,23,125,39,139,42,148,39,155,43,165,47,183,39,194,29,210,29,219,29,223,23,229,16,229,6,229,8,188,4,185,6,174,13,157,9,133,6,95,0,73" alt="Myanmar" title="Myanmar" id="mwCA"/><area href="https://de.wikipedia.org/wiki/Laos" shape="poly" coords="62,1,150,0,145,3,159,10,154,21,141,19,139,28,165,42,163,48,180,65,179,139,164,133,173,127,174,118,171,113,175,98,170,98,169,93,161,90,158,84,159,65,149,60,138,44,124,43,119,53,111,55,101,48,82,63,81,62,85,52,82,42,88,32,85,23,84,18,70,20,72,8" alt="Laos" title="Laos" id="mwCQ"/><area href="https://de.wikipedia.org/wiki/Vietnam" shape="poly" coords="150,0,149,3,157,11,158,16,149,19,141,24,142,30,162,41,164,48,170,53,174,59,179,64,180,186,177,187,178,192,178,195,180,196,179,202,162,202,161,208,153,212,147,212,146,225,144,234,152,255,165,251,175,240,180,236,179,0" alt="Vietnam" title="Vietnam" id="mwCg"/><area href="https://de.wikipedia.org/wiki/Kambodscha" shape="poly" coords="108,148,113,165,117,170,117,177,119,184,117,193,115,211,115,225,120,232,125,235,136,239,147,232,147,211,158,208,159,201,166,201,169,200,176,198,178,202,179,195,175,185,179,185,178,138,172,136,170,136,164,133,163,133,162,133,160,133,155,129,150,129,142,130,129,130,126,130,120,134,116,138,114,141,113,142,112,146,108,148" alt="Kambodscha" title="Kambodscha" id="mwCw"/><area href="https://de.wikipedia.org/wiki/Narathiwat_(Provinz)" shape="poly" coords="89,306,86,294,94,289,104,297,96,310" alt="Narathiwat" title="Narathiwat" id="mwDA"/><area href="https://de.wikipedia.org/wiki/Yala_(Provinz)" shape="poly" coords="75,298,81,290,86,289,90,292,88,294,87,298,90,307,82,312,78,308,81,300" alt="Yala (Provinz)" title="Yala (Provinz)" id="mwDQ"/><area href="https://de.wikipedia.org/wiki/Pattani_(Provinz)" shape="poly" coords="80,283,82,291,85,290,91,292,95,290,91,283" alt="Pattani (Provinz)" title="Pattani (Provinz)" id="mwDg"/><area href="https://de.wikipedia.org/wiki/Songkhla_(Provinz)" shape="poly" coords="60,280,66,276,61,265,71,263,77,282,80,285,80,292,76,298,72,293,64,291" alt="Songkhla (Provinz)" title="Songkhla (Provinz)" id="mwDw"/><area href="https://de.wikipedia.org/wiki/Satun_(Provinz)" shape="poly" coords="47,285,53,280,60,282,64,286,62,293,59,294,55,292,47,295,39,295" alt="Satun (Provinz)" title="Satun (Provinz)" id="mwEA"/><area href="https://de.wikipedia.org/wiki/Trang_(Provinz)" shape="poly" coords="39,279,44,275,42,270,45,268,45,264,48,264,49,264,52,262,54,263,59,282,53,281,47,285,42,285" alt="Trang (Provinz)" title="Trang (Provinz)" id="mwEQ"/><area href="https://de.wikipedia.org/wiki/Phatthalung_(Provinz)" shape="poly" coords="54,265,58,264,62,266,66,277,58,281" alt="Phatthalung (Provinz)" title="Phatthalung (Provinz)" id="mwEg"/><area href="https://de.wikipedia.org/wiki/Krabi_(Provinz)" shape="poly" coords="32,266,32,258,32,249,33,248,38,252,43,255,45,257,46,260,47,263,47,265,45,266,45,268,44,269,43,270,42,272,41,276,38,277,37,277" alt="Krabi (Provinz)" title="Krabi (Provinz)" id="mwEw"/><area href="https://de.wikipedia.org/wiki/Phuket_(Provinz)" shape="poly" coords="20,257,29,261,29,268,24,276,18,272" alt="Phuket" title="Phuket" id="mwFA"/><area href="https://de.wikipedia.org/wiki/Phang-nga_(Provinz)" shape="poly" coords="14,230,23,232,29,235,28,239,29,244,31,247,31,249,32,249,32,252,31,257,31,259,32,261,32,265,32,266,30,266,29,262,27,260,24,257,21,257,15,256,9,255,5,251" alt="Phang-nga (Provinz)" title="Phang-nga (Provinz)" id="mwFQ"/><area href="https://de.wikipedia.org/wiki/Nakhon_Si_Thammarat_(Provinz)" shape="poly" coords="44,254,45,251,48,248,49,243,54,242,53,235,56,235,60,242,60,250,65,251,68,263,59,265,57,264,53,265,53,263,50,262,50,265,47,264" alt="Nakhon Si Thammarat (Provinz)" title="Nakhon Si Thammarat (Provinz)" id="mwFg"/><area href="https://de.wikipedia.org/wiki/Surat_Thani_(Provinz)" shape="poly" coords="55,215,48,223,43,226,40,228,36,226,34,229,33,233,28,236,28,243,30,246,30,249,33,250,34,248,38,253,40,255,45,256,44,251,50,248,50,243,54,241,54,235,56,234,59,236,61,229,61,222,58,216" alt="Surat Thani (Provinz)" title="Surat Thani (Provinz)" id="mwFw"/><area href="https://de.wikipedia.org/wiki/Ranong_(Provinz)" shape="poly" coords="19,229,28,221,31,220,33,214,34,208,33,205,36,204,38,208,36,212,38,215,37,221,33,224,32,227,33,229,34,232,33,233,28,235" alt="Ranong (Provinz)" title="Ranong (Provinz)" id="mwGA"/><area href="https://de.wikipedia.org/wiki/Chumphon_(Provinz)" shape="poly" coords="52,200,41,199,36,205,37,208,36,212,37,217,35,221,30,226,33,229,36,228,37,227,41,228,43,224,53,216" alt="Chumphon (Provinz)" title="Chumphon (Provinz)" id="mwGQ"/><area href="https://de.wikipedia.org/wiki/Prachuap_Khiri_Khan_(Provinz)" shape="poly" coords="40,199,48,187,51,186,51,183,47,166,59,166,60,176,50,200" alt="Prachuap Khiri Khan (Provinz)" title="Prachuap Khiri Khan (Provinz)" id="mwGg"/><area href="https://de.wikipedia.org/wiki/Phetchaburi_(Provinz)" shape="poly" coords="43,154,40,155,42,160,44,164,47,166,49,167,60,165,62,155,58,152,56,153,55,151,52,152,51,154" alt="Phetchaburi (Provinz)" title="Phetchaburi (Provinz)" id="mwGw"/><area href="https://de.wikipedia.org/wiki/Ratchaburi_(Provinz)" shape="poly" coords="42,143,42,155,55,153,56,148,59,147,60,144,56,138" alt="Ratchaburi (Provinz)" title="Ratchaburi (Provinz)" id="mwHA"/><area href="https://de.wikipedia.org/wiki/Samut_Songkhram_(Provinz)" shape="poly" coords="58,153,55,153,57,148,60,147,61,150" alt="Samut Songkhram (Provinz)" title="Samut Songkhram (Provinz)" id="mwHQ"/><area href="https://de.wikipedia.org/wiki/Samut_Sakhon_(Provinz)" shape="poly" coords="60,144,59,147,61,149,67,149,65,143" alt="Samut Sakhon (Provinz)" title="Samut Sakhon (Provinz)" id="mwHg"/><area href="https://de.wikipedia.org/wiki/Bangkok_(Provinz)" shape="poly" coords="65,141,65,144,67,147,68,148,68,148,68,146,69,145,70,143,72,143,71,145,73,144,73,143,76,144,77,141,77,138,73,139,70,138,69,141" alt="Bangkok (Provinz)" title="Bangkok (Provinz)" id="mwHw"/><area href="https://de.wikipedia.org/wiki/Samut_Prakan_(Provinz)" shape="poly" coords="68,149,68,146,69,145,70,143,71,144,71,144,72,144,74,143,77,144,77,147,76,148" alt="Samut Prakan (Provinz)" title="Samut Prakan (Provinz)" id="mwIA"/><area href="https://de.wikipedia.org/wiki/Chachoengsao_(Provinz)" shape="poly" coords="75,148,78,144,76,143,77,141,76,139,77,138,81,138,82,141,90,141,92,143,95,142,97,146,98,148,99,151,97,153,95,154,93,154,91,151,90,149,87,148,85,147,82,145,79,149" alt="Chachoengsao (Provinz)" title="Chachoengsao (Provinz)" id="mwIQ"/><area href="https://de.wikipedia.org/wiki/Chon_Buri_(Provinz)" shape="poly" coords="77,150,82,146,86,149,91,151,92,153,93,155,93,155,91,156,90,157,89,157,88,158,81,157,80,158,79,161,78,164,77,166,77,167,76,168,74,166,72,165,71,163,71,159,75,155" alt="Chon Buri (Provinz)" title="Chon Buri (Provinz)" id="mwIg"/><area href="https://de.wikipedia.org/wiki/Rayong_(Provinz)" shape="poly" coords="78,169,81,157,84,157,89,157,93,154,95,159,96,161,95,166,94,168,87,169" alt="Rayong (Provinz)" title="Rayong (Provinz)" id="mwIw"/><area href="https://de.wikipedia.org/wiki/Chanthaburi_(Provinz)" shape="poly" coords="93,155,99,151,100,153,101,152,103,153,107,152,109,158,110,162,108,165,107,167,106,167,106,170,106,172,106,173,105,173,101,171,98,169,96,167,95,165,95,163,96,159,94,157" alt="Chanthaburi (Provinz)" title="Chanthaburi (Provinz)" id="mwJA"/><area href="https://de.wikipedia.org/wiki/Trat_(Provinz)" shape="poly" coords="108,163,107,167,107,168,106,168,105,171,104,173,103,174,102,178,103,182,104,185,108,190,111,192,114,190,117,186,117,183,116,181,115,179,114,175,115,171,115,169,113,167,111,165,109,164" alt="Trat (Provinz)" title="Trat (Provinz)" id="mwJQ"/><area href="https://de.wikipedia.org/wiki/Sa_Kaeo_(Provinz)" shape="poly" coords="118,134,101,134,98,137,96,143,97,148,100,153,107,152,106,146,112,146,110,144,113,143" alt="Sa Kaeo (Provinz)" title="Sa Kaeo (Provinz)" id="mwJg"/><area href="https://de.wikipedia.org/wiki/Prachin_Buri_(Provinz)" shape="poly" coords="82,140,81,137,85,136,85,134,89,131,88,129,88,128,93,130,95,131,96,130,98,130,98,132,99,133,102,134,102,135,100,136,98,137,97,138,97,141,97,143,98,145,97,147,94,146,94,143,93,141,90,142,89,143" alt="Prachin Buri (Provinz)" title="Prachin Buri (Provinz)" id="mwJw"/><area href="https://de.wikipedia.org/wiki/Nakhon_Nayok_(Provinz)" shape="poly" coords="77,132,77,138,82,138,82,136,83,136,85,136,85,134,86,133,86,132,90,132,90,130,88,128,85,127,85,127,84,128,82,129,82,130,80,128,79,129,79,131,78,132" alt="Nakhon Nayok (Provinz)" title="Nakhon Nayok (Provinz)" id="mwKA"/><area href="https://de.wikipedia.org/wiki/Pathum_Thani_(Provinz)" shape="poly" coords="65,135,65,137,68,138,70,138,77,138,78,132,70,135" alt="Pathum Thani (Provinz)" title="Pathum Thani (Provinz)" id="mwKQ"/><area href="https://de.wikipedia.org/wiki/Nonthaburi_(Provinz)" shape="poly" coords="64,134,64,137,64,139,66,142,70,142,70,138,67,138" alt="Nonthaburi (Provinz)" title="Nonthaburi (Provinz)" id="mwKg"/><area href="https://de.wikipedia.org/wiki/Nakhon_Pathom_(Provinz)" shape="poly" coords="56,138,55,137,57,135,61,134,64,134,64,136,65,138,65,140,65,141,66,143,65,144,63,144,62,144,60,144,60,144,59,143,58,143,57,142,57,141,57,140" alt="Nakhon Pathom (Provinz)" title="Nakhon Pathom (Provinz)" id="mwKw"/><area href="https://de.wikipedia.org/wiki/Kanchanaburi_(Provinz)" shape="poly" coords="22,116,23,111,26,110,29,110,30,109,30,104,30,103,35,107,37,109,38,111,39,114,40,116,44,116,44,117,44,120,45,121,47,122,48,122,50,121,52,123,53,124,54,124,55,127,55,130,55,133,55,135,55,138,55,139,55,140,54,140,52,141,45,142,42,142,41,142,40,140,37,136,36,133,33,130,30,128,27,125,31,131,30,129" alt="Kanchanaburi (Provinz)" title="Kanchanaburi (Provinz)" id="mwLA"/><area href="https://de.wikipedia.org/wiki/Suphan_Buri_(Provinz)" shape="poly" coords="44,115,44,117,44,119,44,120,46,121,47,122,49,124,50,122,50,121,52,121,54,122,54,124,54,126,54,129,54,131,54,134,54,136,56,136,57,135,61,135,63,134,64,132,64,130,63,128,62,125,62,124,63,122,63,120,62,118,62,118,61,118,59,118,53,118,51,117,49,117,48,117,47,116,45,116,45,116" alt="Suphan Buri (Provinz)" title="Suphan Buri (Provinz)" id="mwLQ"/><area href="https://de.wikipedia.org/wiki/Ayutthaya_(Provinz)" shape="poly" coords="64,127,64,130,64,133,64,134,66,134,70,135,72,134,74,132,74,131,74,130,74,127,73,126,72,126,71,125,70,124,70,123,70,123,69,124,69,126,68,128,67,128,67,126" alt="Ayutthaya" title="Ayutthaya" id="mwLg"/><area href="https://de.wikipedia.org/wiki/Ang_Thong_(Provinz)" shape="poly" coords="63,121,62,127,67,127,67,128,69,128,69,123" alt="Ang Thong (Provinz)" title="Ang Thong (Provinz)" id="mwLw"/><area href="https://de.wikipedia.org/wiki/Sing_Buri_(Provinz)" shape="poly" coords="65,114,63,116,63,117,62,117,63,121,65,121,68,123,68,118,68,116" alt="Sing Buri (Provinz)" title="Sing Buri (Provinz)" id="mwMA"/><area href="https://de.wikipedia.org/wiki/Saraburi_(Provinz)" shape="poly" coords="74,126,70,126,70,124,74,121,76,122,81,122,81,119,85,118,86,116,88,118,87,121,84,121,83,122,82,125,82,127,82,129,82,130,81,129,80,129,79,130,78,131,76,131" alt="Saraburi (Provinz)" title="Saraburi (Provinz)" id="mwMQ"/><area href="https://de.wikipedia.org/wiki/Lop_Buri_(Provinz)" shape="poly" coords="73,121,72,123,70,124,68,123,67,121,67,120,68,117,68,115,67,114,68,112,70,110,72,107,75,107,78,108,79,109,81,110,83,110,84,109,85,104,86,104,86,106,86,109,87,113,87,114,86,115,84,116,81,118,80,119,79,121,78,121,78,121,75,120,73,120,71,122" alt="Lop Buri (Provinz)" title="Lop Buri (Provinz)" id="mwMg"/><area href="https://de.wikipedia.org/wiki/Nakhon_Ratchasima_(Provinz)" shape="poly" coords="86,110,88,120,83,123,83,126,85,127,86,128,88,128,90,128,92,128,94,130,94,131,95,130,98,129,99,129,99,130,99,131,100,132,102,133,103,133,105,133,108,133,110,132,110,131,110,131,110,129,110,128,109,127,108,125,108,125,105,124,105,124,106,124,106,123,108,122,108,122,107,120,107,120,108,119,109,119,110,120,110,118,110,117,111,117,112,117,114,117,115,115,116,113,117,112,118,111,118,108,118,108,118,107,117,106,115,105,114,104,114,104,113,103,112,102,110,102,108,103,107,102,105,100,104,100,102,102,101,104,100,105,100,107" alt="Nakhon Ratchasima (Provinz)" title="Nakhon Ratchasima (Provinz)" id="mwMw"/><area href="https://de.wikipedia.org/wiki/Buri_Ram_(Provinz)" shape="poly" coords="116,103,116,105,118,106,119,108,119,110,118,112,118,113,117,113,114,114,114,117,111,118,109,118,109,120,109,122,109,126,111,127,111,129,111,131,110,132,109,133,108,133,119,134,123,131,124,131,124,127,124,122,127,120,129,117,130,113,128,110,127,110,123,109,122,109,121,107,121,106,121,104,118,102" alt="Buri Ram (Provinz)" title="Buri Ram (Provinz)" id="mwNA"/><area href="https://de.wikipedia.org/wiki/Surin_(Provinz)" shape="poly" coords="121,106,121,108,123,110,126,110,129,110,129,113,129,115,128,118,127,120,124,122,123,125,124,129,124,129,124,130,125,130,129,129,132,130,133,130,137,131,139,131,140,130,140,126,141,122,140,120,138,119,138,118,139,113,139,112,140,109,141,109,141,109,138,108,134,107,133,107,130,107,128,107" alt="Surin (Provinz)" title="Surin (Provinz)" id="mwNQ"/><area href="https://de.wikipedia.org/wiki/Si_Sa_Ket_(Provinz)" shape="poly" coords="141,105,140,108,140,109,140,110,139,113,139,115,139,118,138,120,139,121,139,122,139,124,139,127,142,130,142,130,145,130,149,129,150,130,156,129,156,129,156,127,157,123,157,122,155,119,155,118,153,116,153,115,153,112,151,111,149,110,148,109,144,108,142,105" alt="Si Sa Ket (Provinz)" title="Si Sa Ket (Provinz)" id="mwNg"/><area href="https://de.wikipedia.org/wiki/Ubon_Ratchathani_(Provinz)" shape="poly" coords="148,111,147,108,148,105,150,105,151,104,152,102,156,105,158,104,158,102,158,99,160,95,161,93,168,96,167,99,169,100,171,101,172,102,172,104,171,108,170,110,170,113,170,115,170,116,170,117,170,120,170,122,169,127,166,128,164,130,163,131,162,132,160,132,158,130,157,128,157,128,157,125,157,124,157,120,156,118,155,117,154,116,153,111" alt="Ubon Ratchathani (Provinz)" title="Ubon Ratchathani (Provinz)" id="mwNw"/><area href="https://de.wikipedia.org/wiki/Uthai_Thani_(Provinz)" shape="poly" coords="38,112,40,109,41,103,41,100,45,103,48,104,49,105,51,103,54,103,55,104,56,105,57,103,58,105,59,106,61,107,61,110,61,111,54,110,54,111,54,113,55,116,55,116,53,117,51,117,46,115,45,114,44,116,41,116,39,115" alt="Uthai Thani (Provinz)" title="Uthai Thani (Provinz)" id="mwOA"/><area href="https://de.wikipedia.org/wiki/Chai_Nat_(Provinz)" shape="poly" coords="60,110,53,110,55,116,53,117,58,118,62,117,63,118,64,118,63,116,65,114,63,108" alt="Chai Nat (Provinz)" title="Chai Nat (Provinz)" id="mwOQ"/><area href="https://de.wikipedia.org/wiki/Amnat_Charoen_(Provinz)" shape="poly" coords="152,102,151,105,149,104,148,102,150,95,151,93,156,94,156,92,160,89,161,93,161,95,158,105" alt="Amnat Charoen (Provinz)" title="Amnat Charoen (Provinz)" id="mwOg"/><area href="https://de.wikipedia.org/wiki/Yasothon_(Provinz)" shape="poly" coords="156,94,156,91,154,91,150,89,149,88,147,88,144,90,143,91,142,92,141,95,140,97,140,99,140,99,142,100,142,104,142,106,146,111,148,111,147,106,150,105,149,103,148,100,149,96,150,94,152,93" alt="Yasothon (Provinz)" title="Yasothon (Provinz)" id="mwOw"/><area href="https://de.wikipedia.org/wiki/Roi_Et_(Provinz)" shape="poly" coords="140,96,142,96,142,94,145,90,146,88,146,86,142,87,139,87,137,86,133,86,134,89,134,91,133,91,131,91,130,92,129,94,129,97,128,98,128,100,127,101,125,103,126,105,129,107,129,108,130,107,133,107,135,107,138,107,138,107,141,107,142,105,143,103,142,100,141,100,140,100,140,96,141,96,141,94" alt="Roi Et (Provinz)" title="Roi Et (Provinz)" id="mwPA"/><area href="https://de.wikipedia.org/wiki/Maha_Sarakham_(Provinz)" shape="poly" coords="125,102,126,105,127,106,127,107,127,108,123,107,122,106,119,104,119,103,118,101,116,97,116,94,116,90,117,88,119,86,122,83,125,82,124,85,124,87,126,88,126,89,128,91,130,92,130,93,129,95,129,98,129,100,127,101" alt="Maha Sarakham (Provinz)" title="Maha Sarakham (Provinz)" id="mwPQ"/><area href="https://de.wikipedia.org/wiki/Khon_Kaen_(Provinz)" shape="poly" coords="95,80,94,82,97,83,100,86,107,87,108,88,105,95,107,97,106,101,108,103,113,101,114,103,115,104,117,102,119,100,117,95,116,90,118,87,123,82,122,76,118,78,116,77,116,77,116,74,114,74,112,78,112,80,111,80,109,79,102,76,101,76,100,77" alt="Khon Kaen (Provinz)" title="Khon Kaen (Provinz)" id="mwPg"/><area href="https://de.wikipedia.org/wiki/Chaiyaphum_(Provinz)" shape="poly" coords="94,82,89,81,87,89,85,92,85,97,86,101,86,104,86,107,87,110,89,110,98,109,100,106,101,102,103,100,106,100,106,98,106,96,105,95,104,94,108,87" alt="Chaiyaphum (Provinz)" title="Chaiyaphum (Provinz)" id="mwPw"/><area href="https://de.wikipedia.org/wiki/Phetchabun_(Provinz)" shape="poly" coords="90,81,94,82,94,80,92,77,92,74,91,74,90,74,84,74,83,74,82,75,81,76,78,78,76,81,76,83,76,84,74,86,72,88,72,89,71,91,72,93,73,95,73,96,74,100,74,102,74,104,74,106,74,107,75,107,77,108,78,109,80,109,81,109,83,109,84,108,84,107,85,105,87,104,88,101,86,100,85,98,86,96,85,92,86,90,88,88,88,86,88,84,89,83,89,81,89,81" alt="Phetchabun (Provinz)" title="Phetchabun (Provinz)" id="mwQA"/><area href="https://de.wikipedia.org/wiki/Nakhon_Sawan_(Provinz)" shape="poly" coords="40,100,41,96,54,98,60,92,64,98,75,96,75,107,72,108,68,115,67,115,65,112,62,108,60,108,57,106,57,102,56,103,53,102,50,104,49,105,47,104" alt="Nakhon Sawan (Provinz)" title="Nakhon Sawan (Provinz)" id="mwQQ"/><area href="https://de.wikipedia.org/wiki/Phichit_(Provinz)" shape="poly" coords="59,84,59,89,60,92,62,98,73,96,72,94,72,90,70,84,68,86,65,85,63,84,63,84" alt="Phichit (Provinz)" title="Phichit (Provinz)" id="mwQg"/><area href="https://de.wikipedia.org/wiki/Kamphaeng_Phet_(Provinz)" shape="poly" coords="37,85,40,98,54,98,60,92,58,88,59,85,59,84,56,82,56,81,54,81,52,80,49,78,48,77,45,80,43,85" alt="Kamphaeng Phet (Provinz)" title="Kamphaeng Phet (Provinz)" id="mwQw"/><area href="https://de.wikipedia.org/wiki/Tak_(Provinz)" shape="poly" coords="13,59,18,57,21,64,24,63,26,69,31,69,30,59,33,60,34,66,36,64,38,66,41,67,43,67,44,69,46,73,47,75,47,77,46,79,45,80,44,82,43,84,42,84,40,85,39,87,38,93,40,97,41,101,41,104,39,110,39,111,39,112,37,110,34,106,33,105,31,103,30,103,31,94,36,94,35,87,32,88,32,88,29,84,28,81,28,79,28,75,25,73,23,71" alt="Tak" title="Tak" id="mwRA"/><area href="https://de.wikipedia.org/wiki/Mukdahan_(Provinz)" shape="poly" coords="155,79,145,77,141,78,144,87,145,85,146,89,151,89,152,91,157,91,159,91,159,89,155,84" alt="Mukdahan (Provinz)" title="Mukdahan (Provinz)" id="mwRQ"/><area href="https://de.wikipedia.org/wiki/Kalasin_(Provinz)" shape="poly" coords="121,77,124,75,128,78,128,79,129,78,130,73,134,75,136,77,138,79,140,79,141,79,143,81,143,83,144,85,143,87,140,87,137,87,134,87,134,89,134,90,131,91,128,91,124,88,123,87,122,85,122,78" alt="Kalasin (Provinz)" title="Kalasin (Provinz)" id="mwRg"/><area href="https://de.wikipedia.org/wiki/Loei_(Provinz)" shape="poly" coords="101,77,93,80,92,74,89,75,87,74,84,74,82,75,81,77,80,76,78,73,79,70,79,68,76,66,75,63,75,62,80,64,84,62,88,59,91,56,94,53,96,51,99,49,99,49,97,57,98,59,100,61,101,63,101,64,100,65,99,67,100,71,100,74,100,77" alt="Loei (Provinz)" title="Loei (Provinz)" id="mwRw"/><area href="https://de.wikipedia.org/wiki/Nong_Bua_Lam_Phu_(Provinz)" shape="poly" coords="100,62,101,65,98,67,100,77,111,80,112,75,108,72,105,62" alt="Nong Bua Lam Phu (Provinz)" title="Nong Bua Lam Phu (Provinz)" id="mwSA"/><area href="https://de.wikipedia.org/wiki/Nong_Khai_(Provinz)" shape="poly" coords="102,49,101,52,106,57,111,61,112,62,117,61,116,57,118,57,119,58,121,57,122,58,123,58,123,57,124,57,127,56,127,54,126,53,126,52,127,49,125,47,123,49,122,51,119,53,113,56,110,54" alt="Nong Khai (Provinz)" title="Nong Khai (Provinz)" id="mwSQ"/><area href="https://de.wikipedia.org/wiki/Udon_Thani_(Provinz)" shape="poly" coords="100,62,99,58,100,52,110,60,113,63,115,61,117,57,121,57,127,57,128,62,125,67,125,69,132,73,130,73,129,79,127,77,125,76,121,76,121,78,119,78,116,78,115,77,115,75,114,74,113,74,112,75,111,74,110,72,109,71,111,70,111,69,111,69,109,69,107,67,105,64,105,62" alt="Udon Thani (Provinz)" title="Udon Thani (Provinz)" id="mwSg"/><area href="https://de.wikipedia.org/wiki/Bueng_Kan_(Provinz)" shape="poly" coords="125,45,123,47,125,49,126,51,126,52,126,54,128,55,129,53,132,54,135,57,141,59,144,54,141,48,139,46,137,47,131,46,129,45,127,44" alt="Bueng Kan (Provinz)" title="Bueng Kan (Provinz)" id="mwSw"/><area href="https://de.wikipedia.org/wiki/Sakon_Nakhon_(Provinz)" shape="poly" coords="125,68,125,63,127,63,127,57,127,54,131,54,133,56,139,58,140,59,140,60,140,65,140,66,145,66,147,66,147,66,147,67,148,71,147,74,142,77,141,78,139,79,138,79,136,77,134,75,131,73,130,70,126,69" alt="Sakon Nakhon (Provinz)" title="Sakon Nakhon (Provinz)" id="mwTA"/><area href="https://de.wikipedia.org/wiki/Nakhon_Phanom_(Provinz)" shape="poly" coords="139,58,143,54,147,59,152,63,155,65,155,68,156,71,156,73,155,75,155,77,155,79,145,77,147,74,148,69,148,66,143,67,141,67,141,67,140,66,139,64,141,60" alt="Nakhon Phanom (Provinz)" title="Nakhon Phanom (Provinz)" id="mwTQ"/><area href="https://de.wikipedia.org/wiki/Phitsanulok_(Provinz)" shape="poly" coords="60,84,57,83,54,80,60,78,61,77,58,73,59,71,65,69,68,67,71,65,76,63,77,61,77,61,78,63,77,64,76,65,77,66,80,69,80,70,80,75,79,78,77,80,76,82,76,85,74,87,73,89,73,89,72,89,71,86,71,84,69,84,67,86,66,85,64,83,63,83,60,84,58,83" alt="Phitsanulok (Provinz)" title="Phitsanulok (Provinz)" id="mwTg"/><area href="https://de.wikipedia.org/wiki/Uttaradit_(Provinz)" shape="poly" coords="57,58,59,61,58,63,58,64,58,66,59,67,58,70,58,72,62,73,64,71,66,66,71,66,73,64,75,60,76,60,77,60,78,59,81,58,81,56,81,54,82,50,82,47,80,47,78,49,77,51,75,54,71,54,67,54,65,56,62,57,61,57,58,58,58,58,58,58" alt="Uttaradit (Provinz)" title="Uttaradit (Provinz)" id="mwTw"/><area href="https://de.wikipedia.org/wiki/Sukhothai_(Provinz)" shape="poly" coords="49,59,48,61,48,64,48,68,48,69,47,70,45,70,44,71,48,79,53,81,56,81,61,77,60,75,57,72,56,70,58,66,58,64,58,62,57,58,55,58,54,60,53,60,52,58,51,58" alt="Sukhothai (Provinz)" title="Sukhothai (Provinz)" id="mwUA"/><area href="https://de.wikipedia.org/wiki/Nan_(Provinz)" shape="poly" coords="80,46,77,50,76,53,73,54,68,54,67,54,68,46,69,44,67,41,66,37,68,34,71,31,70,25,70,23,70,23,73,23,75,22,77,20,82,21,83,21,83,24,85,31,85,33,84,38,82,42,82,43" alt="Nan (Provinz)" title="Nan (Provinz)" id="mwUQ"/><area href="https://de.wikipedia.org/wiki/Phayao_(Provinz)" shape="poly" coords="52,24,53,29,56,33,60,36,63,37,65,37,67,36,68,32,71,30,71,28,69,25,70,24,71,23,69,22,68,19,64,19,61,21,60,23,59,24" alt="Phayao (Provinz)" title="Phayao (Provinz)" id="mwUg"/><area href="https://de.wikipedia.org/wiki/Phrae_(Provinz)" shape="poly" coords="47,60,46,58,53,53,55,49,58,45,60,41,61,37,66,37,68,44,70,44,68,54,65,56,61,57,56,58,53,59,50,58" alt="Phrae (Provinz)" title="Phrae (Provinz)" id="mwUw"/><area href="https://de.wikipedia.org/wiki/Chiang_Rai_(Provinz)" shape="poly" coords="50,25,50,32,47,33,45,30,45,26,44,21,44,19,49,14,49,12,50,7,49,5,53,5,54,5,56,3,60,3,60,7,62,6,63,4,66,5,67,7,69,8,69,13,68,15,67,20,65,20,62,21,60,22,59,25,58,25,54,25" alt="Chiang Rai (Provinz)" title="Chiang Rai (Provinz)" id="mwVA"/><area href="https://de.wikipedia.org/wiki/Lampang_(Provinz)" shape="poly" coords="42,57,39,62,37,62,37,64,37,65,39,67,41,68,43,66,44,69,45,70,48,71,49,68,47,65,47,62,48,61,47,60,44,58,51,54,55,51,57,47,61,42,61,37,58,34,54,31,52,28,52,25,50,24,50,27,50,31,49,32,47,34,46,35,46,35,46,41,42,44,41,48,39,49,39,50" alt="Lampang (Provinz)" title="Lampang (Provinz)" id="mwVQ"/><area href="https://de.wikipedia.org/wiki/Lamphun_(Provinz)" shape="poly" coords="38,49,42,47,43,44,44,43,43,41,42,40,39,40,37,42,36,44,34,44,34,45,33,46,33,48,33,49,34,51,35,53,35,55,36,57,36,58,35,58,33,59,32,62,33,64,34,65,36,64,37,63,38,61,38,61,40,60,41,58,41,56" alt="Lamphun (Provinz)" title="Lamphun (Provinz)" id="mwVg"/><area href="https://de.wikipedia.org/wiki/Chiang_Mai_(Provinz)" shape="poly" coords="29,59,30,69,24,69,25,62,21,64,20,63,22,60,19,57,19,55,23,55,23,53,24,52,22,49,21,48,21,45,24,43,24,43,21,40,20,38,21,33,24,30,27,32,30,33,31,32,32,30,31,26,30,20,30,18,35,16,37,17,38,17,39,12,40,10,42,10,47,10,50,10,50,10,47,15,45,19,45,22,45,25,45,28,47,36,46,40,45,43,40,40,32,45,32,47,34,50,35,52,36,54,36,58,30,59,29,58,29,59" alt="Chiang Mai (Provinz)" title="Chiang Mai (Provinz)" id="mwVw"/><area href="https://de.wikipedia.org/wiki/Mae_Hong_Son_(Provinz)" shape="poly" coords="13,59,17,57,19,62,21,61,22,59,18,56,24,54,22,50,20,45,22,43,22,41,21,39,21,35,21,34,22,33,23,32,24,30,24,30,25,31,27,33,32,32,32,30,30,26,30,23,28,19,28,19,25,19,22,19,21,16,19,16,18,18,18,20,17,22,16,23,15,26,15,29,15,31,14,32,13,33,12,35,12,36,13,40,13,42,11,43,10,43,7,44,4,41,4,43,5,46,8,48,9,48,10,48,10,50,12,52,13,54,12,55,11,56,11,58,12,58" alt="Mae Hong Son (Provinz)" title="Mae Hong Son (Provinz)" id="mwWA"/></map><figcaption id="mwWQ">Karte von Thailand mit der Provinz Loei hervorgehoben</figcaption></figure></td></tr>
+</tbody></table>
+<p id="mwWg"><b id="mwWw">Loei</b> (<span style="font-style:normal;font-weight:normal" about="#mwt4" typeof="mw:Transclusion" id="mwXA" data-mw='{"parts":[{"template":{"target":{"wt":"thS","href":"./Vorlage:ThS"},"params":{"1":{"wt":"เลย"},"IPA":{"wt":"lɤ̄ːj"}},"i":0}}]}'><a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Thailändische_Sprache" title="Thailändische Sprache">thailändisch</a></span><span about="#mwt4"> </span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r184662313" about="#mwt4" typeof="mw:Extension/templatestyles" data-mw='{"name":"templatestyles","attrs":{"src":"Thai/styles.css"},"body":{"extsrc":""}}'/><span lang="th-Thai" class="Thai" style="font-style:normal" about="#mwt4">เลย</span><span about="#mwt4"> [</span><style data-mw-deduplicate="TemplateStyles:r227981795" typeof="mw:Extension/templatestyles" about="#mwt4" data-mw='{"name":"templatestyles","attrs":{"src":"IPA/styles.css"}}'>.mw-parser-output .IPA a{text-decoration:none}</style><span class="navigation-not-searchable" about="#mwt4"><span class="IPA"><a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Liste_der_IPA-Zeichen#" title="Liste der IPA-Zeichen"><span title="Aussprache im Internationalen Phonetischen Alphabet (IPA)" lang="zxx">lɤ̄ːj</span></a></span></span><span about="#mwt4">]</span>) ist eine Provinz <i id="mwXQ">(<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Changwat" title="Changwat" id="mwXg">Changwat</a>)</i> in der Nordostregion von <a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Thailand" title="Thailand" id="mwXw">Thailand</a>, dem <a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Isan" title="Isan" id="mwYA">Isan</a>. Die Hauptstadt der Provinz Loei heißt ebenfalls <a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Loei" title="Loei" id="mwYQ">Loei</a>.</p>
+
+<meta property="mw:PageProp/toc" id="mwYg" data-mw='{"autoGenerated":true}'/></section><section data-mw-section-id="1" id="mwYw" aria-labelledby="Geographie"><div class="mw-heading mw-heading2"><h2 id="Geographie">Geographie</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Loei_(Provinz)&amp;veaction=edit&amp;section=1" title="Abschnitt bearbeiten: Geographie" class="mw-editsection-visualeditor"><span>Bearbeiten</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Loei_(Provinz)&amp;action=edit&amp;section=1" title="Quellcode des Abschnitts bearbeiten: Geographie"><span>Quelltext bearbeiten</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mwZA">Die Provinz liegt an der Nordgrenze von Thailand zu <a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Laos" title="Laos" id="mwZQ">Laos</a>, <a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Provinz_Vientiane" title="Provinz Vientiane" id="mwZg">Provinz Vientiane</a>, die im Wesentlichen durch den <a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Mekong" title="Mekong" id="mwZw">Mekong</a> gebildet wird. Die Entfernung zur Hauptstadt <a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Bangkok" title="Bangkok" id="mwaA">Bangkok</a> liegt bei etwas mehr als 500<span typeof="mw:Entity" id="mwaQ"> </span>Kilometer.</p>
+
+<p id="mwag">Die Topographie ist gekennzeichnet durch zwei begrenzende Bergketten und einer zentralen Tiefebene, in der auch die Provinzhauptstadt gelegen ist.</p>
+
+<table class="wikitable" id="mwaw">
+<tbody id="mwbA"><tr id="mwbQ">
+<th colspan="2" id="mwbg">Benachbarte Provinzen und Gebiete:</th></tr>
+<tr id="mwbw">
+<td class="hintergrundfarbe5" id="mwcA">Norden</td>
+<td id="mwcQ"><a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Mekong" title="Mekong" id="mwcg">Mekong</a>, gleichzeitig Landesgrenze zu <a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Laos" title="Laos" id="mwcw">Laos</a></td></tr>
+<tr id="mwdA">
+<td class="hintergrundfarbe5" id="mwdQ">Osten</td>
+<td id="mwdg"><a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Nong_Khai_(Provinz)" title="Nong Khai (Provinz)" id="mwdw">Nong Khai</a>, <a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Udon_Thani_(Provinz)" title="Udon Thani (Provinz)" id="mweA">Udon Thani</a>, <a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Nong_Bua_Lamphu_(Provinz)" title="Nong Bua Lamphu (Provinz)" id="mweQ">Nong Bua Lam Phu</a> und <a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Khon_Kaen_(Provinz)" title="Khon Kaen (Provinz)" id="mweg">Khon Kaen</a></td></tr>
+<tr id="mwew">
+<td class="hintergrundfarbe5" id="mwfA">Süden</td>
+<td id="mwfQ"><a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Phetchabun_(Provinz)" title="Phetchabun (Provinz)" id="mwfg">Phetchabun</a></td></tr>
+<tr id="mwfw">
+<td class="hintergrundfarbe5" id="mwgA">Westen</td>
+<td id="mwgQ"><a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Phitsanulok_(Provinz)" title="Phitsanulok (Provinz)" id="mwgg">Phitsanulok</a></td></tr>
+</tbody></table>
+
+<section data-mw-section-id="2" id="mwgw" aria-labelledby="Wichtige_Flüsse"><div class="mw-heading mw-heading3"><h3 id="Wichtige_Flüsse"><span id="Wichtige_Fl.C3.BCsse" typeof="mw:FallbackId"></span>Wichtige Flüsse</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Loei_(Provinz)&amp;veaction=edit&amp;section=2" title="Abschnitt bearbeiten: Wichtige Flüsse" class="mw-editsection-visualeditor"><span>Bearbeiten</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Loei_(Provinz)&amp;action=edit&amp;section=2" title="Quellcode des Abschnitts bearbeiten: Wichtige Flüsse"><span>Quelltext bearbeiten</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul id="mwhA"><li id="mwhQ"><a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Mekong" title="Mekong" id="mwhg">Mekong</a></li>
+<li id="mwhw"><a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Mae_Nam_Loei" title="Mae Nam Loei" id="mwiA">Mae Nam Loei</a> (Loei-Fluss)</li></ul>
+
+</section><section data-mw-section-id="3" id="mwiQ" aria-labelledby="Klima"><div class="mw-heading mw-heading3"><h3 id="Klima">Klima</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Loei_(Provinz)&amp;veaction=edit&amp;section=3" title="Abschnitt bearbeiten: Klima" class="mw-editsection-visualeditor"><span>Bearbeiten</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Loei_(Provinz)&amp;action=edit&amp;section=3" title="Quellcode des Abschnitts bearbeiten: Klima"><span>Quelltext bearbeiten</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mwig">Das Klima ist <a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Tropen" title="Tropen" id="mwiw">tropisch</a>-<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Monsun" title="Monsun" id="mwjA">monsunal</a>. Die höchste Temperatur lag bei 43,3<span typeof="mw:Entity" id="mwjQ"> </span>°C, die tiefste, in Thailand jemals gemessene Temperatur bei −1,3<span typeof="mw:Entity" id="mwjg"> </span>°C. Die relativ niedrigen Temperaturen der Wintermonate liegen an der Nord-Süd-Ausrichtung der Täler, die den kalten Festlandswinden aus China kaum Schutz bieten.</p>
+
+<p id="mwjw">Daten für 2009: Die Höchsttemperatur im Jahr 2009 betrug 39,4<span typeof="mw:Entity" id="mwkA"> </span>°C, die tiefste Temperatur wurde mit 7,0<span typeof="mw:Entity" id="mwkQ"> </span>°C gemessen. An 125 Regentagen fielen in demselben Jahr 1347,8<span typeof="mw:Entity" id="mwkg"> </span><a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Meter#Gebräuchliche_dezimale_Vielfache" title="Meter" id="mwkw">mm</a> Niederschlag.</p>
+
+</section></section><section data-mw-section-id="4" id="mwlA" aria-labelledby="Wirtschaft_und_Bedeutung"><div class="mw-heading mw-heading2"><h2 id="Wirtschaft_und_Bedeutung">Wirtschaft und Bedeutung</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Loei_(Provinz)&amp;veaction=edit&amp;section=4" title="Abschnitt bearbeiten: Wirtschaft und Bedeutung" class="mw-editsection-visualeditor"><span>Bearbeiten</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Loei_(Provinz)&amp;action=edit&amp;section=4" title="Quellcode des Abschnitts bearbeiten: Wirtschaft und Bedeutung"><span>Quelltext bearbeiten</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mwlQ">Im Jahr 2011 (2010) betrug das „Gross Provincial Product“ (<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Bruttoinlandsprodukt" title="Bruttoinlandsprodukt" id="mwlg">Bruttoinlandsprodukt</a>) der Provinz 35.240 (30.067)
+<span typeof="mw:Entity" id="mwlw"> </span>Millionen <a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Baht" title="Baht" id="mwmA">Baht</a>, das GPP per Capita betrug 2011 53.279 Baht.<sup about="#mwt14" class="mw-ref reference" id="cite_ref-1" rel="dc:references" typeof="mw:Extension/ref" data-mw='{"name":"ref","attrs":{},"body":{"id":"mw-reference-text-cite_note-1"}}'><a href="#cite_note-1" id="mwmQ"><span class="mw-reflink-text" id="mwmg"><span class="cite-bracket" id="mwmw">[</span>1<span class="cite-bracket" id="mwnA">]</span></span></a></sup></p>
+
+<p id="mwnQ">Der Mindestlohn in der Provinz beträgt 347 Baht pro Tag (etwa 9,27 €; Stichtag 1. Januar 2025).</p>
+
+<section data-mw-section-id="5" id="mwng" aria-labelledby="Daten"><div class="mw-heading mw-heading3"><h3 id="Daten">Daten</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Loei_(Provinz)&amp;veaction=edit&amp;section=5" title="Abschnitt bearbeiten: Daten" class="mw-editsection-visualeditor"><span>Bearbeiten</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Loei_(Provinz)&amp;action=edit&amp;section=5" title="Quellcode des Abschnitts bearbeiten: Daten"><span>Quelltext bearbeiten</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mwnw">Die unten stehende Tabelle zeigt den Anteil der Wirtschaftszweige am <i id="mwoA">Gross Provincial Product</i> in Prozent.</p>
+<table class="wikitable" id="mwoQ">
+<tbody id="mwog"><tr id="mwow">
+<th id="mwpA">Wirtschaftszweig</th>
+<th id="mwpQ">2006</th>
+<th id="mwpg">2007</th>
+<th id="mwpw">2008</th></tr>
+<tr id="mwqA">
+<td id="mwqQ">Landwirtschaft</td><td id="mwqg">33,1</td><td id="mwqw">35,4</td><td id="mwrA">35,7</td></tr>
+<tr id="mwrQ">
+<td id="mwrg">Industrie</td><td id="mwrw">2,6</td><td id="mwsA">3,1</td><td id="mwsQ">3,0</td></tr>
+<tr id="mwsg">
+<td id="mwsw">Andere</td><td id="mwtA">64,3</td><td id="mwtQ">61,5</td><td id="mwtg">61,3</td></tr>
+</tbody></table>
+<p id="mwtw"><small id="mwuA">Alle Angaben in<span typeof="mw:DisplaySpace" id="mwuQ"> </span>%<sup about="#mwt15" class="mw-ref reference" id="cite_ref-AlphaResearch_2-0" rel="dc:references" typeof="mw:Extension/ref" data-mw='{"name":"ref","attrs":{"name":"AlphaResearch"},"body":{"id":"mw-reference-text-cite_note-AlphaResearch-2"}}'><a href="#cite_note-AlphaResearch-2" id="mwug"><span class="mw-reflink-text" id="mwuw"><span class="cite-bracket" id="mwvA">[</span>2<span class="cite-bracket" id="mwvQ">]</span></span></a></sup></small></p>
+
+</section><section data-mw-section-id="6" id="mwvg" aria-labelledby="Landnutzung"><div class="mw-heading mw-heading3"><h3 id="Landnutzung">Landnutzung</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Loei_(Provinz)&amp;veaction=edit&amp;section=6" title="Abschnitt bearbeiten: Landnutzung" class="mw-editsection-visualeditor"><span>Bearbeiten</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Loei_(Provinz)&amp;action=edit&amp;section=6" title="Quellcode des Abschnitts bearbeiten: Landnutzung"><span>Quelltext bearbeiten</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mwvw">Für die Provinz ist die folgende Landnutzung dokumentiert:<sup about="#mwt16" class="mw-ref reference" id="cite_ref-AlphaResearch_2-1" rel="dc:references" typeof="mw:Extension/ref" data-mw='{"name":"ref","attrs":{"name":"AlphaResearch"}}'><a href="#cite_note-AlphaResearch-2" id="mwwA"><span class="mw-reflink-text" id="mwwQ"><span class="cite-bracket" id="mwwg">[</span>2<span class="cite-bracket" id="mwww">]</span></span></a></sup></p>
+<ul id="mwxA"><li id="mwxQ">Waldfläche: 2.454.052 <a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Rai_(Einheit)" title="Rai (Einheit)" id="mwxg">Rai</a> (1.533,8<span typeof="mw:Entity" id="mwxw"> </span>km²), 34,4<span typeof="mw:DisplaySpace" id="mwyA"> </span>% der Gesamtfläche</li>
+<li id="mwyQ">Landwirtschaftlich genutzte Fläche: 2.712.082 Rai (1.695,1<span typeof="mw:Entity" id="mwyg"> </span>km²), 38,0<span typeof="mw:DisplaySpace" id="mwyw"> </span>% der Gesamtfläche</li>
+<li id="mwzA">Nicht klassifizierte Fläche: 1.974.249 Rai (1.233,9<span typeof="mw:Entity" id="mwzQ"> </span>km²), 27,7<span typeof="mw:DisplaySpace" id="mwzg"> </span>% der Gesamtfläche</li></ul>
+
+<p id="mwzw">Die Provinz Loei hat insgesamt 325 <a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Feuchtgebiet" title="Feuchtgebiet" id="mw0A">Feuchtgebiete</a> mit einer Fläche von 19,5<span typeof="mw:Entity" id="mw0Q"> </span>km², die mehr oder weniger intensiv für die <a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Landwirtschaft" title="Landwirtschaft" id="mw0g">Landwirtschaft</a> genutzt werden.<sup about="#mwt17" class="mw-ref reference" id="cite_ref-3" rel="dc:references" typeof="mw:Extension/ref" data-mw='{"name":"ref","attrs":{},"body":{"id":"mw-reference-text-cite_note-3"}}'><a href="#cite_note-3" id="mw0w"><span class="mw-reflink-text" id="mw1A"><span class="cite-bracket" id="mw1Q">[</span>3<span class="cite-bracket" id="mw1g">]</span></span></a></sup></p>
+
+<p id="mw1w">Wichtige Produkte sind neben dem <a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Reis" title="Reis" id="mw2A">Reis</a>: <a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Mais" title="Mais" id="mw2Q">Mais</a>, <a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Zuckerrübe" title="Zuckerrübe" id="mw2g">Zuckerrüben</a>, <a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Tapioka" title="Tapioka" id="mw2w">Tapioka</a>, <a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Baumwolle" title="Baumwolle" id="mw3A">Baumwolle</a>, <a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Sojabohne" title="Sojabohne" id="mw3Q">Soja</a>, <a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Mungbohne" title="Mungbohne" id="mw3g">Mungbohnen</a>, <a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Tamarinde" title="Tamarinde" id="mw3w">Tamarinde</a>, <a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Longan" title="Longan" id="mw4A">Longan</a> und <a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Litschibaum" title="Litschibaum" id="mw4Q">Litschi</a>. Auch gibt es mehrere große Weinanbaugebiete.
+Seit einigen Jahren wird der Anbau von Gummibäumen zur Ernte von Rohgummi als einträglicher Erwerbszweig genutzt.</p>
+
+</section></section><section data-mw-section-id="7" id="mw4g" aria-labelledby="Verkehr"><div class="mw-heading mw-heading2"><h2 id="Verkehr">Verkehr</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Loei_(Provinz)&amp;veaction=edit&amp;section=7" title="Abschnitt bearbeiten: Verkehr" class="mw-editsection-visualeditor"><span>Bearbeiten</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Loei_(Provinz)&amp;action=edit&amp;section=7" title="Quellcode des Abschnitts bearbeiten: Verkehr"><span>Quelltext bearbeiten</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul id="mw4w"><li id="mw5A"><a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Flughafen_Loei" title="Flughafen Loei" id="mw5Q">Flughafen Loei</a></li>
+<li id="mw5g">Loei Bus Terminal</li></ul>
+
+<p id="mw5w"><b id="mw6A">Fernstraßen</b></p>
+<ul id="mw6Q"><li id="mw6g"><a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Thailand_Route_201" title="Thailand Route 201" id="mw6w">Route 201</a></li>
+<li id="mw7A"><a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Thailand_Route_203?action=edit&amp;redlink=1" title="Thailand Route 203 (Seite nicht vorhanden)" class="new" typeof="mw:LocalizedAttrs" id="mw7Q" data-mw-i18n='{"title":{"lang":"x-page","key":"red-link-title","params":["Thailand Route 203"]}}'>Route 203</a></li>
+<li id="mw7g"><a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Thailand_Route_210?action=edit&amp;redlink=1" title="Thailand Route 210 (Seite nicht vorhanden)" class="new" typeof="mw:LocalizedAttrs" id="mw7w" data-mw-i18n='{"title":{"lang":"x-page","key":"red-link-title","params":["Thailand Route 210"]}}'>Route 210</a></li>
+<li id="mw8A"><a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Thailand_Route_211?action=edit&amp;redlink=1" title="Thailand Route 211 (Seite nicht vorhanden)" class="new" typeof="mw:LocalizedAttrs" id="mw8Q" data-mw-i18n='{"title":{"lang":"x-page","key":"red-link-title","params":["Thailand Route 211"]}}'>Route 211</a></li></ul>
+
+</section><section data-mw-section-id="8" id="mw8g" aria-labelledby="Bildungseinrichtungen"><div class="mw-heading mw-heading2"><h2 id="Bildungseinrichtungen">Bildungseinrichtungen</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Loei_(Provinz)&amp;veaction=edit&amp;section=8" title="Abschnitt bearbeiten: Bildungseinrichtungen" class="mw-editsection-visualeditor"><span>Bearbeiten</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Loei_(Provinz)&amp;action=edit&amp;section=8" title="Quellcode des Abschnitts bearbeiten: Bildungseinrichtungen"><span>Quelltext bearbeiten</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul id="mw8w"><li id="mw9A"><a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Rajabhat-Universität_Loei" title="Rajabhat-Universität Loei" id="mw9Q">Loei Rajabhat University</a></li>
+<li id="mw9g">Loei Technical College</li>
+<li id="mw9w">Loei Vocation College</li></ul>
+
+</section><section data-mw-section-id="9" id="mw-A" aria-labelledby="Gesundheitseinrichtungen"><div class="mw-heading mw-heading2"><h2 id="Gesundheitseinrichtungen">Gesundheitseinrichtungen</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Loei_(Provinz)&amp;veaction=edit&amp;section=9" title="Abschnitt bearbeiten: Gesundheitseinrichtungen" class="mw-editsection-visualeditor"><span>Bearbeiten</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Loei_(Provinz)&amp;action=edit&amp;section=9" title="Quellcode des Abschnitts bearbeiten: Gesundheitseinrichtungen"><span>Quelltext bearbeiten</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul id="mw-Q"><li id="mw-g">Chiang Khan Hospital in Chiang Khan</li>
+<li id="mw-w">Tha Li Hospital in Tha Li</li>
+<li id="mw_A">Loei Hospital in Loei</li>
+<li id="mw_Q">Loei Ram Hospital in Loei</li>
+<li id="mw_g">Chittawet Loei Hospital in Loei</li>
+<li id="mw_w">Wang Saphung Hospital in Wang Saphung</li>
+<li id="mwAQA">Pha Khao Hospital in Pha Khao</li></ul>
+
+</section><section data-mw-section-id="10" id="mwAQE" aria-labelledby="Geschichte"><div class="mw-heading mw-heading2"><h2 id="Geschichte">Geschichte</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Loei_(Provinz)&amp;veaction=edit&amp;section=10" title="Abschnitt bearbeiten: Geschichte" class="mw-editsection-visualeditor"><span>Bearbeiten</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Loei_(Provinz)&amp;action=edit&amp;section=10" title="Quellcode des Abschnitts bearbeiten: Geschichte"><span>Quelltext bearbeiten</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mwAQI">Die Gegend war in der geschichtlichen Zeit Teil des laotischen Königreiches <a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Lan_Xang" title="Lan Xang" id="mwAQM">Lan Xang</a>.</p>
+
+<p id="mwAQQ">Die Provinzhauptstadt wurde 1853 von König <a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Mongkut" title="Mongkut" id="mwAQU">Mongkut</a> <i id="mwAQY">(Rama IV.)</i> nach sorgfältiger Planung gegründet, um die wachsende Bevölkerung der Umgegend ausreichend verwalten zu können. Im Zuge der großen Verwaltungsreform von König <a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Chulalongkorn" title="Chulalongkorn" id="mwAQc">Chulalongkorn</a> <i id="mwAQg">(Rama V.)</i> wurde Loei 1907 als Provinz (<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Changwat" title="Changwat" id="mwAQk">Changwat</a>) etabliert.</p>
+
+</section><section data-mw-section-id="11" id="mwAQo" aria-labelledby="Sehenswürdigkeiten"><div class="mw-heading mw-heading2"><h2 id="Sehenswürdigkeiten"><span id="Sehensw.C3.BCrdigkeiten" typeof="mw:FallbackId"></span>Sehenswürdigkeiten</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Loei_(Provinz)&amp;veaction=edit&amp;section=11" title="Abschnitt bearbeiten: Sehenswürdigkeiten" class="mw-editsection-visualeditor"><span>Bearbeiten</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Loei_(Provinz)&amp;action=edit&amp;section=11" title="Quellcode des Abschnitts bearbeiten: Sehenswürdigkeiten"><span>Quelltext bearbeiten</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<figure class="mw-default-size" typeof="mw:File/Thumb" id="mwAQs"><a href="https://de.wikipedia.org/wiki/Datei:Chiang_Khan.jpg" class="mw-file-description" id="mwAQw"><img resource="https://de.wikipedia.org/wiki/Datei:Chiang_Khan.jpg" src="//thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Chiang_Khan.jpg/250px-Chiang_Khan.jpg?utm_source=de.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" loading="lazy" srcset="//thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Chiang_Khan.jpg/500px-Chiang_Khan.jpg?utm_source=de.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" data-file-width="1024" data-file-height="768" data-file-type="bitmap" height="188" width="250" class="mw-file-element" id="mwAQ0"/></a><figcaption id="mwAQ4">Altstadt von Chiang Khan am Mekong</figcaption></figure>
+<figure class="mw-default-size" typeof="mw:File/Thumb" id="mwAQ8"><a href="https://de.wikipedia.org/wiki/Datei:Thailand_484_song_khon.jpg" class="mw-file-description" id="mwARA"><img resource="https://de.wikipedia.org/wiki/Datei:Thailand_484_song_khon.jpg" src="//thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Thailand_484_song_khon.jpg/250px-Thailand_484_song_khon.jpg?utm_source=de.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" loading="lazy" srcset="//thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Thailand_484_song_khon.jpg/500px-Thailand_484_song_khon.jpg?utm_source=de.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" data-file-width="1024" data-file-height="768" data-file-type="bitmap" height="188" width="250" class="mw-file-element" id="mwARE"/></a><figcaption id="mwARI">Wasserfall Song Khon, Amphoe Dan Sai</figcaption></figure>
+
+<p id="mwARM">(<i id="mwARQ">Siehe auch entsprechenden Eintrag in <a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Loei" title="Loei" id="mwARU">Loei</a>)</i></p>
+<ul id="mwARY"><li id="mwARc">Der Waldtempel <a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Wat_Pa_Huai_Lat" title="Wat Pa Huai Lat" id="mwARg">Wat Pa Huai Lat</a> in Tambon San Tom, <a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Amphoe_Phu_Ruea" title="Amphoe Phu Ruea" id="mwARk">Amphoe Phu Ruea</a></li>
+<li id="mwARo"><a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Phra_That_Si_Song_Rak?action=edit&amp;redlink=1" title="Phra That Si Song Rak (Seite nicht vorhanden)" class="new" typeof="mw:LocalizedAttrs" id="mwARs" data-mw-i18n='{"title":{"lang":"x-page","key":"red-link-title","params":["Phra That Si Song Rak"]}}'>Phra That Si Song Rak</a> – (<i id="mwARw">siehe <a rel="mw:WikiLink" href="#Symbole" class="mw-selflink-fragment" id="mwAR0">Siegel</a></i>), am <a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Mae_Nam_Man?action=edit&amp;redlink=1" title="Mae Nam Man (Seite nicht vorhanden)" class="new" typeof="mw:LocalizedAttrs" id="mwAR4" data-mw-i18n='{"title":{"lang":"x-page","key":"red-link-title","params":["Mae Nam Man"]}}'>Mae Nam Man</a> (Thai: <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r184662313" about="#mwt18" typeof="mw:Extension/templatestyles mw:Transclusion" id="mwAR8" data-mw='{"name":"templatestyles","attrs":{"src":"Thai/styles.css"},"body":{"extsrc":""},"parts":[{"template":{"target":{"wt":"lang","href":"./Vorlage:Lang"},"params":{"1":{"wt":"th"},"2":{"wt":"แม่น้ำหมัน"}},"i":0}}]}'/><span lang="th-Thai" class="Thai" about="#mwt18" id="mwASA">แม่น้ำหมัน</span> – <i id="mwASE">Man-Fluss</i>) im <a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Amphoe_Dan_Sai" title="Amphoe Dan Sai" id="mwASI">Amphoe Dan Sai</a> gelegene Ruine, mit einem Chedi von etwa 30<span typeof="mw:Entity" id="mwASM"> </span>Metern Höhe</li>
+<li id="mwASQ">Kaeng Khut Khu (Thai: <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r184662313" about="#mwt20" typeof="mw:Extension/templatestyles mw:Transclusion" id="mwASU" data-mw='{"name":"templatestyles","attrs":{"src":"Thai/styles.css"},"body":{"extsrc":""},"parts":[{"template":{"target":{"wt":"lang","href":"./Vorlage:Lang"},"params":{"1":{"wt":"th"},"2":{"wt":"แก่งคุดคู้"}},"i":0}}]}'/><span lang="th-Thai" class="Thai" about="#mwt20" id="mwASY">แก่งคุดคู้</span> – „Gewundene Stromschnelle“) – <a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Stromschnelle" title="Stromschnelle" id="mwASc">Stromschnelle</a> im <a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Mekong" title="Mekong" id="mwASg">Mekong</a> (<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Amphoe_Chiang_Khan" title="Amphoe Chiang Khan" id="mwASk">Amphoe Chiang Khan</a>) mit vielfarbigen, glattgeschliffenen Felsen</li>
+<li id="mwASo">die Stadt Chiang Khan am Mekong – sehr schöne alte Holzbauten</li>
+<li id="mwASs">Feste:
+<ul id="mwASw"><li id="mwAS0"><a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Baumwolle" title="Baumwolle" id="mwAS4">Baumwollblüte</a> – im Februar, mit <a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Prozession" title="Prozession" id="mwAS8">Prozession</a> in malerischen Baumwollgewändern und -kostümen sowie einem Schönheitswettbewerb</li></ul></li>
+<li id="mwATA"><a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Nationalparks_in_Thailand" title="Nationalparks in Thailand" id="mwATE">Nationalparks</a> und Naturschutzgebiete:
+<ul id="mwATI"><li id="mwATM"><a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Nationalpark_Phu_Kradueng" title="Nationalpark Phu Kradueng" id="mwATQ">Phu Kradueng</a> – Hochplateau, außergewöhnlich in Thailand wegen des gemäßigten Klimas und den damit einhergehenden Vegetationsformen, etwa 70<span typeof="mw:Entity" id="mwATU"> </span>Kilometer von Loei entfernt im <a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Amphoe_Phu_Kradueng" title="Amphoe Phu Kradueng" id="mwATY">Amphoe Phu Kradueng</a> auf einer durchschnittlichen Höhe von 1325<span typeof="mw:Entity" id="mwATc"> </span>Metern</li>
+<li id="mwATg">Phu Luang Wildreservat <i id="mwATk">(Phu Luang Wildlife Sanctuary)</i> mit zahlreichen Tierarten, unter anderem Elefanten, Tiger, Bären, liegt etwa 1550<span typeof="mw:Entity" id="mwATo"> </span>Meter über dem Meeresspiegel</li></ul></li></ul>
+
+</section><section data-mw-section-id="12" id="mwATs" aria-labelledby="Symbole"><div class="mw-heading mw-heading2"><h2 id="Symbole">Symbole</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Loei_(Provinz)&amp;veaction=edit&amp;section=12" title="Abschnitt bearbeiten: Symbole" class="mw-editsection-visualeditor"><span>Bearbeiten</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Loei_(Provinz)&amp;action=edit&amp;section=12" title="Quellcode des Abschnitts bearbeiten: Symbole"><span>Quelltext bearbeiten</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<figure class="mw-default-size" typeof="mw:File/Thumb" id="mwATw"><a href="https://de.wikipedia.org/wiki/Datei:พระธาตุศรีสองรัก_1.jpg" class="mw-file-description" id="mwAT0"><img resource="https://de.wikipedia.org/wiki/Datei:พระธาตุศรีสองรัก_1.jpg" src="//thumb.wikimedia.org/wikipedia/commons/thumb/d/de/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%81_1.jpg/250px-%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%81_1.jpg?utm_source=de.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" loading="lazy" srcset="//thumb.wikimedia.org/wikipedia/commons/thumb/d/de/%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%81_1.jpg/500px-%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B1%E0%B8%81_1.jpg?utm_source=de.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" data-file-width="1066" data-file-height="1600" data-file-type="bitmap" height="285" width="190" class="mw-file-element mw-file-upright" style="--mw-file-upright: 0.75" id="mwAT4"/></a><figcaption id="mwAT8">Chedi des Wat Phra That Si Song Rak, Wahrzeichen der Provinz</figcaption></figure>
+<p id="mwAUA">Das Siegel der Provinz zeigt den <a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Chedi" title="Chedi" id="mwAUE">Chedi</a> Phra That Si Song Rak, der 1560 von König <a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Chakkraphat" title="Chakkraphat" id="mwAUI">Chakkraphat</a> von <a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Königreich_Ayutthaya" title="Königreich Ayutthaya" id="mwAUM">Ayutthaya</a> und König <a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Setthathirath" title="Setthathirath" id="mwAUQ">Sai Setthathirath I.</a> von <a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Lan_Xang" title="Lan Xang" id="mwAUU">Lan Xang</a> erbaut wurde, um ihre Kooperation zu demonstrieren und auch die Grenze zwischen beiden Reichen zu markieren.</p>
+
+<p id="mwAUY">Der lokale Baum ist die <a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Kiefern" title="Kiefern" id="mwAUc">Kiefer</a> <i id="mwAUg"><a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Pinus_kesiya" title="Pinus kesiya" id="mwAUk">Pinus kesiya</a></i>.</p>
+
+<p id="mwAUo">Der Wahlspruch der Provinz Loei lautet:</p><!-- wie lautet das Original ??? -->
+<dl id="mwAUs"><dd id="mwAUw">Loei, die Provinz in hohen Bergketten,</dd>
+<dd id="mwAU0">Schöne Blumen blühen in Winter, Sommer und Regenzeit,</dd>
+<dd id="mwAU4">Die kühlste Stadt, wo die Temperaturen immer fallen,</dd>
+<dd id="mwAU8">bis nahe an den Gefrierpunkt, was uns abkühlt.</dd></dl>
+
+</section><section data-mw-section-id="13" id="mwAVA" aria-labelledby="Verwaltungseinheiten"><div class="mw-heading mw-heading2"><h2 id="Verwaltungseinheiten">Verwaltungseinheiten</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Loei_(Provinz)&amp;veaction=edit&amp;section=13" title="Abschnitt bearbeiten: Verwaltungseinheiten" class="mw-editsection-visualeditor"><span>Bearbeiten</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Loei_(Provinz)&amp;action=edit&amp;section=13" title="Quellcode des Abschnitts bearbeiten: Verwaltungseinheiten"><span>Quelltext bearbeiten</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<section data-mw-section-id="14" id="mwAVE" aria-labelledby="Provinzverwaltung"><div class="mw-heading mw-heading3"><h3 id="Provinzverwaltung">Provinzverwaltung</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Loei_(Provinz)&amp;veaction=edit&amp;section=14" title="Abschnitt bearbeiten: Provinzverwaltung" class="mw-editsection-visualeditor"><span>Bearbeiten</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Loei_(Provinz)&amp;action=edit&amp;section=14" title="Quellcode des Abschnitts bearbeiten: Provinzverwaltung"><span>Quelltext bearbeiten</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mwAVI">Die Provinz Loei ist in 14 <i id="mwAVM"><a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Amphoe" title="Amphoe" id="mwAVQ">Amphoe</a></i> („Bezirke“ oder „Landkreise“) gegliedert. Diese sind weiter unterteilt in 89 <i id="mwAVU"><a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Tambon" title="Tambon" id="mwAVY">Tambon</a></i> („Unterbezirke“ oder „Gemeinden“) und 839 <i id="mwAVc"><a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Muban" title="Muban" id="mwAVg">Muban</a></i> („Dörfer“).</p>
+<table id="mwAVk">
+<tbody id="mwAVo"><tr id="mwAVs"><td id="mwAVw">
+<table class="wikitable" id="mwAV0">
+<tbody id="mwAV4"><tr id="mwAV8"><th id="mwAWA">Nr.</th>
+<th id="mwAWE"><i id="mwAWI">Amphoe</i></th>
+<th id="mwAWM">Thai</th>
+<th id="mwAWQ">Nr.</th>
+<th id="mwAWU"><i id="mwAWY">Amphoe</i></th>
+<th id="mwAWc">Thai</th></tr>
+<tr id="mwAWg">
+<td id="mwAWk"><span style="visibility:hidden;" about="#mwt22" typeof="mw:Transclusion" id="mwAWo" data-mw='{"parts":[{"template":{"target":{"wt":"0","href":"./Vorlage:0"},"params":{},"i":0}}]}'>0</span>1</td><td id="mwAWs"><a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Amphoe_Mueang_Loei" title="Amphoe Mueang Loei" id="mwAWw">Amphoe Mueang Loei</a></td><td id="mwAW0"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r184662313" about="#mwt23" typeof="mw:Extension/templatestyles mw:Transclusion" id="mwAW4" data-mw='{"name":"templatestyles","attrs":{"src":"Thai/styles.css"},"body":{"extsrc":""},"parts":[{"template":{"target":{"wt":"lang","href":"./Vorlage:Lang"},"params":{"1":{"wt":"th"},"2":{"wt":"อำเภอเมืองเลย"}},"i":0}}]}'/><span lang="th-Thai" class="Thai" about="#mwt23" id="mwAW8">อำเภอเมืองเลย</span></td>
+<td id="mwAXA"><span style="visibility:hidden;" about="#mwt25" typeof="mw:Transclusion" id="mwAXE" data-mw='{"parts":[{"template":{"target":{"wt":"0","href":"./Vorlage:0"},"params":{},"i":0}}]}'>0</span>8</td><td id="mwAXI"><a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Amphoe_Tha_Li" title="Amphoe Tha Li" id="mwAXM">Tha Li</a></td><td id="mwAXQ"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r184662313" about="#mwt26" typeof="mw:Extension/templatestyles mw:Transclusion" id="mwAXU" data-mw='{"name":"templatestyles","attrs":{"src":"Thai/styles.css"},"body":{"extsrc":""},"parts":[{"template":{"target":{"wt":"lang","href":"./Vorlage:Lang"},"params":{"1":{"wt":"th"},"2":{"wt":"อำเภอท่าลี่"}},"i":0}}]}'/><span lang="th-Thai" class="Thai" about="#mwt26" id="mwAXY">อำเภอท่าลี่</span></td></tr>
+<tr id="mwAXc">
+<td id="mwAXg"><span style="visibility:hidden;" about="#mwt28" typeof="mw:Transclusion" id="mwAXk" data-mw='{"parts":[{"template":{"target":{"wt":"0","href":"./Vorlage:0"},"params":{},"i":0}}]}'>0</span>2</td><td id="mwAXo"><a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Amphoe_Na_Duang" title="Amphoe Na Duang" id="mwAXs">Na Duang</a></td><td id="mwAXw"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r184662313" about="#mwt29" typeof="mw:Extension/templatestyles mw:Transclusion" id="mwAX0" data-mw='{"name":"templatestyles","attrs":{"src":"Thai/styles.css"},"body":{"extsrc":""},"parts":[{"template":{"target":{"wt":"lang","href":"./Vorlage:Lang"},"params":{"1":{"wt":"th"},"2":{"wt":"อำเภอนาด้วง"}},"i":0}}]}'/><span lang="th-Thai" class="Thai" about="#mwt29" id="mwAX4">อำเภอนาด้วง</span></td>
+<td id="mwAX8"><span style="visibility:hidden;" about="#mwt31" typeof="mw:Transclusion" id="mwAYA" data-mw='{"parts":[{"template":{"target":{"wt":"0","href":"./Vorlage:0"},"params":{},"i":0}}]}'>0</span>9</td><td id="mwAYE"><a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Amphoe_Wang_Saphung" title="Amphoe Wang Saphung" id="mwAYI">Wang Saphung</a></td><td id="mwAYM"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r184662313" about="#mwt32" typeof="mw:Extension/templatestyles mw:Transclusion" id="mwAYQ" data-mw='{"name":"templatestyles","attrs":{"src":"Thai/styles.css"},"body":{"extsrc":""},"parts":[{"template":{"target":{"wt":"lang","href":"./Vorlage:Lang"},"params":{"1":{"wt":"th"},"2":{"wt":"อำเภอวังสะพุง"}},"i":0}}]}'/><span lang="th-Thai" class="Thai" about="#mwt32" id="mwAYU">อำเภอวังสะพุง</span></td></tr>
+<tr id="mwAYY">
+<td id="mwAYc"><span style="visibility:hidden;" about="#mwt34" typeof="mw:Transclusion" id="mwAYg" data-mw='{"parts":[{"template":{"target":{"wt":"0","href":"./Vorlage:0"},"params":{},"i":0}}]}'>0</span>3</td><td id="mwAYk"><a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Amphoe_Chiang_Khan" title="Amphoe Chiang Khan" id="mwAYo">Chiang Khan</a></td><td id="mwAYs"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r184662313" about="#mwt35" typeof="mw:Extension/templatestyles mw:Transclusion" id="mwAYw" data-mw='{"name":"templatestyles","attrs":{"src":"Thai/styles.css"},"body":{"extsrc":""},"parts":[{"template":{"target":{"wt":"lang","href":"./Vorlage:Lang"},"params":{"1":{"wt":"th"},"2":{"wt":"อำเภอเชียงคาน"}},"i":0}}]}'/><span lang="th-Thai" class="Thai" about="#mwt35" id="mwAY0">อำเภอเชียงคาน</span></td>
+<td id="mwAY4">10</td><td id="mwAY8"><a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Amphoe_Phu_Kradueng" title="Amphoe Phu Kradueng" id="mwAZA">Phu Kradueng</a></td><td id="mwAZE"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r184662313" about="#mwt37" typeof="mw:Extension/templatestyles mw:Transclusion" id="mwAZI" data-mw='{"name":"templatestyles","attrs":{"src":"Thai/styles.css"},"body":{"extsrc":""},"parts":[{"template":{"target":{"wt":"lang","href":"./Vorlage:Lang"},"params":{"1":{"wt":"th"},"2":{"wt":"อำเภอภูกระดึง"}},"i":0}}]}'/><span lang="th-Thai" class="Thai" about="#mwt37" id="mwAZM">อำเภอภูกระดึง</span></td></tr>
+<tr id="mwAZQ">
+<td id="mwAZU"><span style="visibility:hidden;" about="#mwt39" typeof="mw:Transclusion" id="mwAZY" data-mw='{"parts":[{"template":{"target":{"wt":"0","href":"./Vorlage:0"},"params":{},"i":0}}]}'>0</span>4</td><td id="mwAZc"><a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Amphoe_Pak_Chom" title="Amphoe Pak Chom" id="mwAZg">Pak Chom</a></td><td id="mwAZk"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r184662313" about="#mwt40" typeof="mw:Extension/templatestyles mw:Transclusion" id="mwAZo" data-mw='{"name":"templatestyles","attrs":{"src":"Thai/styles.css"},"body":{"extsrc":""},"parts":[{"template":{"target":{"wt":"lang","href":"./Vorlage:Lang"},"params":{"1":{"wt":"th"},"2":{"wt":"อำเภอปากชม"}},"i":0}}]}'/><span lang="th-Thai" class="Thai" about="#mwt40" id="mwAZs">อำเภอปากชม</span></td>
+<td id="mwAZw">11</td><td id="mwAZ0"><a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Amphoe_Phu_Luang" title="Amphoe Phu Luang" id="mwAZ4">Phu Luang</a></td><td id="mwAZ8"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r184662313" about="#mwt42" typeof="mw:Extension/templatestyles mw:Transclusion" id="mwAaA" data-mw='{"name":"templatestyles","attrs":{"src":"Thai/styles.css"},"body":{"extsrc":""},"parts":[{"template":{"target":{"wt":"lang","href":"./Vorlage:Lang"},"params":{"1":{"wt":"th"},"2":{"wt":"อำเภอภูหลวง"}},"i":0}}]}'/><span lang="th-Thai" class="Thai" about="#mwt42" id="mwAaE">อำเภอภูหลวง</span></td></tr>
+<tr id="mwAaI">
+<td id="mwAaM"><span style="visibility:hidden;" about="#mwt44" typeof="mw:Transclusion" id="mwAaQ" data-mw='{"parts":[{"template":{"target":{"wt":"0","href":"./Vorlage:0"},"params":{},"i":0}}]}'>0</span>5</td><td id="mwAaU"><a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Amphoe_Dan_Sai" title="Amphoe Dan Sai" id="mwAaY">Dan Sai</a></td><td id="mwAac"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r184662313" about="#mwt45" typeof="mw:Extension/templatestyles mw:Transclusion" id="mwAag" data-mw='{"name":"templatestyles","attrs":{"src":"Thai/styles.css"},"body":{"extsrc":""},"parts":[{"template":{"target":{"wt":"lang","href":"./Vorlage:Lang"},"params":{"1":{"wt":"th"},"2":{"wt":"อำเภอด่านซ้าย"}},"i":0}}]}'/><span lang="th-Thai" class="Thai" about="#mwt45" id="mwAak">อำเภอด่านซ้าย</span></td>
+<td id="mwAao">12</td><td id="mwAas"><a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Amphoe_Pha_Khao" title="Amphoe Pha Khao" id="mwAaw">Pha Khao</a></td><td id="mwAa0"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r184662313" about="#mwt47" typeof="mw:Extension/templatestyles mw:Transclusion" id="mwAa4" data-mw='{"name":"templatestyles","attrs":{"src":"Thai/styles.css"},"body":{"extsrc":""},"parts":[{"template":{"target":{"wt":"lang","href":"./Vorlage:Lang"},"params":{"1":{"wt":"th"},"2":{"wt":"อำเภอผาขาว"}},"i":0}}]}'/><span lang="th-Thai" class="Thai" about="#mwt47" id="mwAa8">อำเภอผาขาว</span></td></tr>
+<tr id="mwAbA">
+<td id="mwAbE"><span style="visibility:hidden;" about="#mwt49" typeof="mw:Transclusion" id="mwAbI" data-mw='{"parts":[{"template":{"target":{"wt":"0","href":"./Vorlage:0"},"params":{},"i":0}}]}'>0</span>6</td><td id="mwAbM"><a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Amphoe_Na_Haeo" title="Amphoe Na Haeo" id="mwAbQ">Na Haeo</a></td><td id="mwAbU"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r184662313" about="#mwt50" typeof="mw:Extension/templatestyles mw:Transclusion" id="mwAbY" data-mw='{"name":"templatestyles","attrs":{"src":"Thai/styles.css"},"body":{"extsrc":""},"parts":[{"template":{"target":{"wt":"lang","href":"./Vorlage:Lang"},"params":{"1":{"wt":"th"},"2":{"wt":"อำเภอนาแห้ว"}},"i":0}}]}'/><span lang="th-Thai" class="Thai" about="#mwt50" id="mwAbc">อำเภอนาแห้ว</span></td>
+<td id="mwAbg">13</td><td id="mwAbk"><a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Amphoe_Erawan" title="Amphoe Erawan" id="mwAbo">Erawan</a></td><td id="mwAbs"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r184662313" about="#mwt52" typeof="mw:Extension/templatestyles mw:Transclusion" id="mwAbw" data-mw='{"name":"templatestyles","attrs":{"src":"Thai/styles.css"},"body":{"extsrc":""},"parts":[{"template":{"target":{"wt":"lang","href":"./Vorlage:Lang"},"params":{"1":{"wt":"th"},"2":{"wt":"อำเภอเอราวัณ"}},"i":0}}]}'/><span lang="th-Thai" class="Thai" about="#mwt52" id="mwAb0">อำเภอเอราวัณ</span></td></tr>
+<tr id="mwAb4">
+<td id="mwAb8"><span style="visibility:hidden;" about="#mwt54" typeof="mw:Transclusion" id="mwAcA" data-mw='{"parts":[{"template":{"target":{"wt":"0","href":"./Vorlage:0"},"params":{},"i":0}}]}'>0</span>7</td><td id="mwAcE"><a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Amphoe_Phu_Ruea" title="Amphoe Phu Ruea" id="mwAcI">Phu Ruea</a></td><td id="mwAcM"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r184662313" about="#mwt55" typeof="mw:Extension/templatestyles mw:Transclusion" id="mwAcQ" data-mw='{"name":"templatestyles","attrs":{"src":"Thai/styles.css"},"body":{"extsrc":""},"parts":[{"template":{"target":{"wt":"lang","href":"./Vorlage:Lang"},"params":{"1":{"wt":"th"},"2":{"wt":"อำเภอภูเรือ"}},"i":0}}]}'/><span lang="th-Thai" class="Thai" about="#mwt55" id="mwAcU">อำเภอภูเรือ</span></td>
+<td id="mwAcY">14</td><td id="mwAcc"><a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Amphoe_Nong_Hin" title="Amphoe Nong Hin" id="mwAcg">Nong Hin</a></td><td id="mwAck"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r184662313" about="#mwt57" typeof="mw:Extension/templatestyles mw:Transclusion" id="mwAco" data-mw='{"name":"templatestyles","attrs":{"src":"Thai/styles.css"},"body":{"extsrc":""},"parts":[{"template":{"target":{"wt":"lang","href":"./Vorlage:Lang"},"params":{"1":{"wt":"th"},"2":{"wt":"อำเภอหนองหิน"}},"i":0}}]}'/><span lang="th-Thai" class="Thai" about="#mwt57" id="mwAcs">อำเภอหนองหิน</span></td></tr>
+</tbody></table></td>
+<td id="mwAcw"><figure class="mw-default-size" typeof="mw:File/Thumb" id="mwAc0"><a href="https://de.wikipedia.org/wiki/Datei:Amphoe_Loei.svg" class="mw-file-description" id="mwAc4"><img resource="https://de.wikipedia.org/wiki/Datei:Amphoe_Loei.svg" src="//thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Amphoe_Loei.svg/250px-Amphoe_Loei.svg.png?utm_source=de.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" loading="lazy" srcset="//thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Amphoe_Loei.svg/500px-Amphoe_Loei.svg.png?utm_source=de.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" data-file-width="1593" data-file-height="1671" data-file-type="drawing" height="199" width="190" class="mw-file-element mw-file-upright" style="--mw-file-upright: 0.75" id="mwAc8"/></a><figcaption id="mwAdA">Karte der Amphoe</figcaption></figure></td></tr>
+</tbody></table>
+
+</section><section data-mw-section-id="15" id="mwAdE" aria-labelledby="Lokalverwaltung"><div class="mw-heading mw-heading3"><h3 id="Lokalverwaltung">Lokalverwaltung</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Loei_(Provinz)&amp;veaction=edit&amp;section=15" title="Abschnitt bearbeiten: Lokalverwaltung" class="mw-editsection-visualeditor"><span>Bearbeiten</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Loei_(Provinz)&amp;action=edit&amp;section=15" title="Quellcode des Abschnitts bearbeiten: Lokalverwaltung"><span>Quelltext bearbeiten</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mwAdI">Für das ganze Gebiet der Provinz besteht eine <a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Verwaltungsgliederung_Thailands#Lokalverwaltung" title="Verwaltungsgliederung Thailands" id="mwAdM">Provinz-Verwaltungsorganisation</a> (<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r184662313" about="#mwt59" typeof="mw:Extension/templatestyles mw:Transclusion" id="mwAdQ" data-mw='{"name":"templatestyles","attrs":{"src":"Thai/styles.css"},"body":{"extsrc":""},"parts":[{"template":{"target":{"wt":"lang","href":"./Vorlage:Lang"},"params":{"1":{"wt":"th"},"2":{"wt":"องค์การบริหารส่วนจังหวัด"}},"i":0}}]}'/><span lang="th-Thai" class="Thai" about="#mwt59" id="mwAdU">องค์การบริหารส่วนจังหวัด</span>, kurz <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r184662313" about="#mwt61" typeof="mw:Extension/templatestyles mw:Transclusion" id="mwAdY" data-mw='{"name":"templatestyles","attrs":{"src":"Thai/styles.css"},"body":{"extsrc":""},"parts":[{"template":{"target":{"wt":"lang","href":"./Vorlage:Lang"},"params":{"1":{"wt":"th"},"2":{"wt":"อบจ."}},"i":0}}]}'/><span lang="th-Thai" class="Thai" about="#mwt61" id="mwAdc">อบจ.</span>, <i id="mwAdg">Ongkan Borihan suan Changwat</i>; englisch <i id="mwAdk">Provincial Administrative Organization</i>, PAO). In der Provinz gibt es zwei <a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Thesaban#Stadt" title="Thesaban" id="mwAdo">Thesaban Mueang</a> (<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r184662313" about="#mwt63" typeof="mw:Extension/templatestyles mw:Transclusion" id="mwAds" data-mw='{"name":"templatestyles","attrs":{"src":"Thai/styles.css"},"body":{"extsrc":""},"parts":[{"template":{"target":{"wt":"lang","href":"./Vorlage:Lang"},"params":{"1":{"wt":"th"},"2":{"wt":"เทศบาลเมือง"}},"i":0}}]}'/><span lang="th-Thai" class="Thai" about="#mwt63" id="mwAdw">เทศบาลเมือง</span> – „Städte“): <a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Loei" title="Loei" id="mwAd0">Loei</a> (<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r184662313" about="#mwt65" typeof="mw:Extension/templatestyles mw:Transclusion" id="mwAd4" data-mw='{"name":"templatestyles","attrs":{"src":"Thai/styles.css"},"body":{"extsrc":""},"parts":[{"template":{"target":{"wt":"lang","href":"./Vorlage:Lang"},"params":{"1":{"wt":"th"},"2":{"wt":"เทศบาลเมืองเลย"}},"i":0}}]}'/><span lang="th-Thai" class="Thai" about="#mwt65" id="mwAd8">เทศบาลเมืองเลย</span>) und Wang Saphung (<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r184662313" about="#mwt67" typeof="mw:Extension/templatestyles mw:Transclusion" id="mwAeA" data-mw='{"name":"templatestyles","attrs":{"src":"Thai/styles.css"},"body":{"extsrc":""},"parts":[{"template":{"target":{"wt":"lang","href":"./Vorlage:Lang"},"params":{"1":{"wt":"th"},"2":{"wt":"เทศบาลเมืองวังสะพุง"}},"i":0}}]}'/><span lang="th-Thai" class="Thai" about="#mwt67" id="mwAeE">เทศบาลเมืองวังสะพุง</span>). Daneben gibt es 19 <a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Thesaban#Kleinstadt" title="Thesaban" id="mwAeI">Thesaban Tambon</a> (<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r184662313" about="#mwt69" typeof="mw:Extension/templatestyles mw:Transclusion" id="mwAeM" data-mw='{"name":"templatestyles","attrs":{"src":"Thai/styles.css"},"body":{"extsrc":""},"parts":[{"template":{"target":{"wt":"lang","href":"./Vorlage:Lang"},"params":{"1":{"wt":"th"},"2":{"wt":"เทศบาลตำบล"}},"i":0}}]}'/><span lang="th-Thai" class="Thai" about="#mwt69" id="mwAeQ">เทศบาลตำบล</span> – „Kleinstädte“).<sup about="#mwt71" class="mw-ref reference" id="cite_ref-4" rel="dc:references" typeof="mw:Extension/ref" data-mw='{"name":"ref","attrs":{},"body":{"id":"mw-reference-text-cite_note-4"}}'><a href="#cite_note-4" id="mwAeU"><span class="mw-reflink-text" id="mwAeY"><span class="cite-bracket" id="mwAec">[</span>4<span class="cite-bracket" id="mwAeg">]</span></span></a></sup></p>
+
+</section></section><section data-mw-section-id="16" id="mwAek" aria-labelledby="Literatur"><div class="mw-heading mw-heading2"><h2 id="Literatur">Literatur</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Loei_(Provinz)&amp;veaction=edit&amp;section=16" title="Abschnitt bearbeiten: Literatur" class="mw-editsection-visualeditor"><span>Bearbeiten</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Loei_(Provinz)&amp;action=edit&amp;section=16" title="Quellcode des Abschnitts bearbeiten: Literatur"><span>Quelltext bearbeiten</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ul id="mwAeo"><li id="mwAes"><i id="mwAew">Thailand in Figures 2011.</i> Nonthaburi: Alpha Research 13. A. 2011, <a href="https://de.wikipedia.org/wiki/Special:BookSources/9786169021193" rel="mw:WikiLink" class="internal mw-magiclink mw-magiclink-isbn" id="mwAe0">ISBN 978-616902119-3</a>.</li></ul>
+
+</section><section data-mw-section-id="17" id="mwAe4" aria-labelledby="Weblinks"><div class="mw-heading mw-heading2"><h2 id="Weblinks">Weblinks</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Loei_(Provinz)&amp;veaction=edit&amp;section=17" title="Abschnitt bearbeiten: Weblinks" class="mw-editsection-visualeditor"><span>Bearbeiten</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Loei_(Provinz)&amp;action=edit&amp;section=17" title="Quellcode des Abschnitts bearbeiten: Weblinks"><span>Quelltext bearbeiten</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<div class="sisterproject" style="margin:0.1em 0 0 0;" about="#mwt72" typeof="mw:Transclusion" id="mwAe8" data-mw='{"parts":[{"template":{"target":{"wt":"Commonscat","href":"./Vorlage:Commonscat"},"params":{"1":{"wt":"Loei Province"},"2":{"wt":"Loei"}},"i":0}}]}'><div class="noresize noviewer" style="display:inline-block; line-height:10px;
+min-width:1.6em; text-align:center;" aria-hidden="true" role="presentation"><span typeof="mw:File" data-mw='{"caption":"Commons"}'><span title="Commons"><img resource="https://de.wikipedia.org/wiki/Datei:Commons-logo.svg" src="//thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/20px-Commons-logo.svg.png?utm_source=de.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" loading="lazy" srcset="//thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png?utm_source=de.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" alt="" data-file-width="1024" data-file-height="1376" data-file-type="drawing" height="16" width="12" class="mw-file-element"/></span></span></div><b><a rel="mw:ExtLink" href="https://commons.wikimedia.org/wiki/Category:Loei_Province?uselang=de" class="external text"><span lang="en">Commons</span>: Loei</a></b><span typeof="mw:Entity"> </span>– Sammlung von Bildern, Videos und Audiodateien</div>
+<ul id="mwAfA"><li id="mwAfE"><a rel="mw:ExtLink nofollow" href="http://www.loei.go.th/" class="external text" id="mwAfI">Website der Provinz</a> (Thai)</li>
+<li id="mwAfM"><a rel="mw:ExtLink nofollow" href="http://www.mapofthailand.org/wp-content/uploads/2010/01/LOEI-TOURIST-MAP.gif" class="external text" id="mwAfQ">Übersichtskarte der Provinz</a> (Bezeichnungen auf Englisch und Thai) [abgerufen am 13. November 2013]</li>
+<li id="mwAfU"><a rel="mw:ExtLink nofollow" href="http://de.tourismthailand.org/Where-to-Go/Loei" class="external text" id="mwAfY">Touristische Informationen zur Provinz Loei</a> – Seite der <a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Tourism_Authority_of_Thailand" title="Tourism Authority of Thailand" id="mwAfc">Tourism Authority of Thailand</a> TAT (englisch)</li></ul>
+
+</section><section data-mw-section-id="18" id="mwAfg" aria-labelledby="Einzelnachweise"><div class="mw-heading mw-heading2"><h2 id="Einzelnachweise">Einzelnachweise</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Loei_(Provinz)&amp;veaction=edit&amp;section=18" title="Abschnitt bearbeiten: Einzelnachweise" class="mw-editsection-visualeditor"><span>Bearbeiten</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Loei_(Provinz)&amp;action=edit&amp;section=18" title="Quellcode des Abschnitts bearbeiten: Einzelnachweise"><span>Quelltext bearbeiten</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ol class="mw-references references" typeof="mw:Extension/references" about="#mwt73" id="mwAfk" data-mw='{"name":"references","attrs":{}}'><li about="#cite_note-1" id="cite_note-1" data-mw-footnote-number="1"><span class="mw-cite-backlink" id="mwAfo"><a href="#cite_ref-1" rel="mw:referencedBy" id="mwAfs"><span class="mw-linkback-text" id="mwAfw">↑</span></a></span> <span id="mw-reference-text-cite_note-1" class="mw-reference-text reference-text"><style data-mw-deduplicate="TemplateStyles:r261891140" typeof="mw:Extension/templatestyles mw:Transclusion" about="#mwt11" id="mwAf0" data-mw='{"name":"templatestyles","attrs":{"src":"Webarchiv/styles.css"},"parts":[{"template":{"target":{"wt":"Webarchiv ","href":"./Vorlage:Webarchiv"},"params":{"url":{"wt":"http://www.nesdb.go.th/Portals/0/eco_datas/account/gpp/TS_Data/All%20regions_1995-2011.rar"},"text":{"wt":"Gross Regional and Provincial Product 1995–2011: Komplette Daten als zip."},"wayback":{"wt":"20131005184715"},"archiv-bot":{"wt":"2019-04-28 04:49:29 InternetArchiveBot"}},"i":0}}]}'>.mw-parser-output .webarchiv-memento a{color:inherit}</style><a rel="mw:ExtLink nofollow" href="https://web.archive.org/web/20131005184715/http://www.nesdb.go.th/Portals/0/eco_datas/account/gpp/TS_Data/All%20regions_1995-2011.rar" about="#mwt11" class="external text" id="mwAf4">Gross Regional and Provincial Product 1995–2011: Komplette Daten als zip.</a><span about="#mwt11" id="mwAf8"> (</span><span class="webarchiv-memento" about="#mwt11" id="mwAgA"><a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Webarchivierung#Begrifflichkeiten" title="Webarchivierung" id="mwAgE">Memento</a></span><span typeof="mw:Entity" about="#mwt11" id="mwAgI"> </span><span about="#mwt11" id="mwAgM">des </span><style data-mw-deduplicate="TemplateStyles:r250917974" typeof="mw:Extension/templatestyles" about="#mwt11" id="mwAgQ" data-mw='{"name":"templatestyles","attrs":{"src":"Vorlage:IconExternal/styles.css"}}'>.mw-parser-output .dewiki-iconexternal>a{background-position:center right!important;background-repeat:no-repeat!important}body.skin-minerva .mw-parser-output .dewiki-iconexternal>a{background-image:url("https://upload.wikimedia.org/wikipedia/commons/a/a4/OOjs_UI_icon_external-link-ltr-progressive.svg")!important;background-size:10px!important;padding-right:13px!important}body.skin-timeless .mw-parser-output .dewiki-iconexternal>a,body.skin-monobook .mw-parser-output .dewiki-iconexternal>a{background-image:url("https://upload.wikimedia.org/wikipedia/commons/3/30/MediaWiki_external_link_icon.svg")!important;padding-right:13px!important}body.skin-vector .mw-parser-output .dewiki-iconexternal>a{background-image:url("https://upload.wikimedia.org/wikipedia/commons/9/96/Link-external-small-ltr-progressive.svg")!important;background-size:0.857em!important;padding-right:1em!important}</style><span class="dewiki-iconexternal" about="#mwt11" id="mwAgU"><a rel="mw:ExtLink" href="https://redirecter.toolforge.org/?url=http%3A%2F%2Fwww.nesdb.go.th%2FPortals%2F0%2Feco_datas%2Faccount%2Fgpp%2FTS_Data%2FAll%2520regions_1995-2011.rar" class="external text" id="mwAgY">Originals</a></span><span about="#mwt11" id="mwAgc"> vom 5. Oktober 2013 im </span><i about="#mwt11" id="mwAgg"><a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Internet_Archive" title="Internet Archive" id="mwAgk">Internet Archive</a></i><span about="#mwt11" id="mwAgo">)</span><span typeof="mw:Entity" about="#mwt11" id="mwAgs"> </span><small class="archiv-bot" about="#mwt11" id="mwAgw"><span class="wp_boppel noviewer" aria-hidden="true" role="presentation" id="mwAg0"><span typeof="mw:File" id="mwAg4" data-mw='{"caption":"i"}'><span title="i" id="mwAg8"><img resource="https://de.wikipedia.org/wiki/Datei:Pictogram_voting_info.svg" src="//thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Pictogram_voting_info.svg/20px-Pictogram_voting_info.svg.png?utm_source=de.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" loading="lazy" srcset="//thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Pictogram_voting_info.svg/40px-Pictogram_voting_info.svg.png?utm_source=de.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" alt="" data-file-width="250" data-file-height="250" data-file-type="drawing" height="15" width="15" class="mw-file-element" id="mwAhA"/></span></span></span><span typeof="mw:Entity" id="mwAhE"> </span><b id="mwAhI">Info:</b> Der Archivlink wurde automatisch eingesetzt und noch nicht geprüft. Bitte prüfe Original- und Archivlink gemäß <a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Benutzer:InternetArchiveBot/Anleitung/Archivlink" title="Benutzer:InternetArchiveBot/Anleitung/Archivlink" id="mwAhM">Anleitung</a> und entferne dann diesen Hinweis.</small><span style="display:none" about="#mwt11" id="mwAhQ"><a rel="mw:ExtLink nofollow" href="http://IABotmemento.invalid/http://www.nesdb.go.th/Portals/0/eco_datas/account/gpp/TS_Data/All%20regions_1995-2011.rar" class="external text" id="mwAhU">@1</a></span><span style="display:none" about="#mwt11" id="mwAhY"><a rel="mw:ExtLink nofollow" href="http://www.nesdb.go.th/Portals/0/eco_datas/account/gpp/TS_Data/All%20regions_1995-2011.rar" class="external text" id="mwAhc">@2</a></span><span style="display:none" about="#mwt11" id="mwAhg"><a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Vorlage:Webachiv/IABot/www.nesdb.go.th?action=edit&amp;redlink=1" title="Vorlage:Webachiv/IABot/www.nesdb.go.th (Seite nicht vorhanden)" class="new" typeof="mw:LocalizedAttrs" id="mwAhk" data-mw-i18n='{"title":{"lang":"x-page","key":"red-link-title","params":["Vorlage:Webachiv/IABot/www.nesdb.go.th"]}}'>Vorlage:Webachiv/IABot/www.nesdb.go.th</a></span><link rel="mw:PageProp/Category" href="./Kategorie:Wikipedia:Defekte_Weblinks/Ungeprüfte_Archivlinks_2019-04" about="#mwt11" id="mwAho"/></span></li>
+<li about="#cite_note-AlphaResearch-2" id="cite_note-AlphaResearch-2" data-mw-footnote-number="2"><span rel="mw:referencedBy" class="mw-cite-backlink" id="mwAhs"><a href="#cite_ref-AlphaResearch_2-0" id="mwAhw"><span class="mw-linkback-text" id="mwAh0">1</span></a> <a href="#cite_ref-AlphaResearch_2-1" id="mwAh4"><span class="mw-linkback-text" id="mwAh8">2</span></a></span> <span id="mw-reference-text-cite_note-AlphaResearch-2" class="mw-reference-text reference-text"><i id="mwAiA">Thailand in Figures 2011</i>. Nonthaburi: Alpha Research 13. A. 2011. <a href="https://de.wikipedia.org/wiki/Special:BookSources/9786169021193" rel="mw:WikiLink" class="internal mw-magiclink mw-magiclink-isbn" id="mwAiE">ISBN 978-616902119-3</a></span></li>
+<li about="#cite_note-3" id="cite_note-3" data-mw-footnote-number="3"><span class="mw-cite-backlink" id="mwAiI"><a href="#cite_ref-3" rel="mw:referencedBy" id="mwAiM"><span class="mw-linkback-text" id="mwAiQ">↑</span></a></span> <span id="mw-reference-text-cite_note-3" class="mw-reference-text reference-text">Edmund J. V. Oh, Blake D. Ratner, Simon Bush, Komathi Kolandai, Terence Y. Too (Hrsg.): <i id="mwAiU">Wetlands Governance in the Mekong Region<span typeof="mw:DisplaySpace" id="mwAiY"> </span>: country reports on the legal-institutional framework and economic valuation of aquatic resources.</i> 2005.</span></li>
+<li about="#cite_note-4" id="cite_note-4" data-mw-footnote-number="4"><span class="mw-cite-backlink" id="mwAic"><a href="#cite_ref-4" rel="mw:referencedBy" id="mwAig"><span class="mw-linkback-text" id="mwAik">↑</span></a></span> <span id="mw-reference-text-cite_note-4" class="mw-reference-text reference-text"><a rel="mw:ExtLink nofollow" href="http://stat.dopa.go.th/xstat/p5542_01.html" class="external text" id="mwAio">Department of Provincial Administration</a>: Stand 2012 (auf Thai)</span></li>
+</ol>
+
+<span class="mw-empty-elt" about="#mwt74" typeof="mw:Transclusion" id="mwAis" data-mw='{"parts":[{"template":{"target":{"wt":"Navigationsleiste Provinzen in Thailand","href":"./Vorlage:Navigationsleiste_Provinzen_in_Thailand"},"params":{},"i":0}}]}'><style data-mw-deduplicate="TemplateStyles:r267773889" typeof="mw:Extension/templatestyles" about="#mwt75" data-mw='{"name":"templatestyles","attrs":{"src":"Vorlage:Klappleiste/styles.css"}}'>.mw-parser-output div.klappleiste{border:1px solid var(--dewiki-rahmenfarbe1);clear:both;font-size:95%;box-sizing:border-box;margin-top:1.5em;padding:2px}.mw-parser-output div.klappleiste:after{clear:both;content:"";display:block}.mw-parser-output div.klappleiste-bild{float:left;padding:2px}.mw-parser-output div.klappleiste-kopf{background:var(--dewiki-hintergrundfarbe5);color:var(--color-base,#202122);text-align:center;font-weight:bold}.mw-parser-output div.klappleiste.mw-collapsed .klappleiste-bild{display:none}.mw-parser-output div.klappleiste+div.klappleiste,.mw-parser-output div.klappleiste+link+div.klappleiste,.mw-parser-output div.klappleiste+link+link+div.klappleiste,.mw-parser-output div.klappleiste+link+style+div.klappleiste,.mw-parser-output div.klappleiste+style+div.klappleiste,.mw-parser-output div.klappleiste+style+style+div.klappleiste,.mw-parser-output div.klappleiste+style+link+div.klappleiste{margin-top:-1px}.mw-parser-output div.klappleiste+span+div.klappleiste{margin-top:-1px}@media screen{html.skin-theme-clientpref-night .mw-parser-output .klappleiste-bild span[typeof="mw:File"]:not(.skin-invert-image) img{background-color:#c8ccd1}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .klappleiste-bild span[typeof="mw:File"]:not(.skin-invert-image) img{background-color:#c8ccd1}}</style></span><div class="klappleiste mw-collapsible  navileiste navigation-not-searchable center" role="navigation" about="#mwt74" id="mwAiw">
+<div class="klappleiste-bild nomobile noviewer" aria-hidden="true" role="presentation"><span typeof="mw:File" data-mw='{"caption":"Thailändische Flagge"}'><a href="https://de.wikipedia.org/wiki/Datei:Flag_of_Thailand.svg" class="mw-file-description" title="Thailändische Flagge"><img resource="https://de.wikipedia.org/wiki/Datei:Flag_of_Thailand.svg" src="//thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/60px-Flag_of_Thailand.svg.png?utm_source=de.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" loading="lazy" srcset="//thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/120px-Flag_of_Thailand.svg.png?utm_source=de.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" alt="Thailändische Flagge" data-file-width="900" data-file-height="600" data-file-type="drawing" height="33" width="50" class="mw-file-element"/></a></span></div>
+<div class="klappleiste-kopf "><a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Liste_der_Provinzen_Thailands" title="Liste der Provinzen Thailands">Provinzen</a> <a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Thailand" title="Thailand">Thailands</a></div>
+<div class="klappleiste-inhalt mw-collapsible-content ">
+<div class="centered" style="display: table">
+<p><b><a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Nordthailand" title="Nordthailand">Norden</a>:</b>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Chiang_Mai_(Provinz)" title="Chiang Mai (Provinz)">Chiang Mai</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Chiang_Rai_(Provinz)" title="Chiang Rai (Provinz)">Chiang Rai</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Kamphaeng_Phet_(Provinz)" title="Kamphaeng Phet (Provinz)">Kamphaeng Phet</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Lampang_(Provinz)" title="Lampang (Provinz)">Lampang</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Lamphun_(Provinz)" title="Lamphun (Provinz)">Lamphun</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Mae_Hong_Son_(Provinz)" title="Mae Hong Son (Provinz)">Mae Hong Son</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Nakhon_Sawan_(Provinz)" title="Nakhon Sawan (Provinz)">Nakhon Sawan</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Nan_(Provinz)" title="Nan (Provinz)">Nan</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Phayao_(Provinz)" title="Phayao (Provinz)">Phayao</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Phetchabun_(Provinz)" title="Phetchabun (Provinz)">Phetchabun</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Phichit_(Provinz)" title="Phichit (Provinz)">Phichit</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Phitsanulok_(Provinz)" title="Phitsanulok (Provinz)">Phitsanulok</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Phrae_(Provinz)" title="Phrae (Provinz)">Phrae</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Sukhothai_(Provinz)" title="Sukhothai (Provinz)">Sukhothai</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Tak_(Provinz)" title="Tak (Provinz)">Tak</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Uthai_Thani_(Provinz)" title="Uthai Thani (Provinz)">Uthai Thani</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Uttaradit_(Provinz)" title="Uttaradit (Provinz)">Uttaradit</a></p>
+
+<p><b><a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Isan" title="Isan">Nordosten</a>:</b>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Amnat_Charoen_(Provinz)" title="Amnat Charoen (Provinz)">Amnat Charoen</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Bueng_Kan_(Provinz)" title="Bueng Kan (Provinz)">Bueng Kan</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Buri_Ram_(Provinz)" title="Buri Ram (Provinz)">Buri Ram</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Chaiyaphum_(Provinz)" title="Chaiyaphum (Provinz)">Chaiyaphum</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Kalasin_(Provinz)" title="Kalasin (Provinz)">Kalasin</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Khon_Kaen_(Provinz)" title="Khon Kaen (Provinz)">Khon Kaen</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Loei_(Provinz)" class="mw-selflink selflink">Loei</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Maha_Sarakham_(Provinz)" title="Maha Sarakham (Provinz)">Maha Sarakham</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Mukdahan_(Provinz)" title="Mukdahan (Provinz)">Mukdahan</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Nakhon_Phanom_(Provinz)" title="Nakhon Phanom (Provinz)">Nakhon Phanom</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Nakhon_Ratchasima_(Provinz)" title="Nakhon Ratchasima (Provinz)">Nakhon Ratchasima</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Nong_Bua_Lamphu_(Provinz)" title="Nong Bua Lamphu (Provinz)">Nong Bua Lam Phu</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Nong_Khai_(Provinz)" title="Nong Khai (Provinz)">Nong Khai</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Roi_Et_(Provinz)" title="Roi Et (Provinz)">Roi Et</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Sakon_Nakhon_(Provinz)" title="Sakon Nakhon (Provinz)">Sakon Nakhon</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Si_Sa_Ket_(Provinz)" title="Si Sa Ket (Provinz)">Si Sa Ket</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Surin_(Provinz)" title="Surin (Provinz)">Surin</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Ubon_Ratchathani_(Provinz)" title="Ubon Ratchathani (Provinz)">Ubon Ratchathani</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Udon_Thani_(Provinz)" title="Udon Thani (Provinz)">Udon Thani</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Yasothon_(Provinz)" title="Yasothon (Provinz)">Yasothon</a></p>
+
+<p><b><a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Zentralthailand" title="Zentralthailand">Zentral</a>:</b>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Ang_Thong_(Provinz)" title="Ang Thong (Provinz)">Ang Thong</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Ayutthaya_(Provinz)" title="Ayutthaya (Provinz)">Ayutthaya</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Bangkok" title="Bangkok">Bangkok</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Chachoengsao_(Provinz)" title="Chachoengsao (Provinz)">Chachoengsao</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Chai_Nat_(Provinz)" title="Chai Nat (Provinz)">Chai Nat</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Chanthaburi_(Provinz)" title="Chanthaburi (Provinz)">Chanthaburi</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Chon_Buri_(Provinz)" title="Chon Buri (Provinz)">Chon Buri</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Kanchanaburi_(Provinz)" title="Kanchanaburi (Provinz)">Kanchanaburi</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Lop_Buri_(Provinz)" title="Lop Buri (Provinz)">Lop Buri</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Nakhon_Nayok_(Provinz)" title="Nakhon Nayok (Provinz)">Nakhon Nayok</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Nakhon_Pathom_(Provinz)" title="Nakhon Pathom (Provinz)">Nakhon Pathom</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Nonthaburi_(Provinz)" title="Nonthaburi (Provinz)">Nonthaburi</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Pathum_Thani_(Provinz)" title="Pathum Thani (Provinz)">Pathum Thani</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Phetchaburi_(Provinz)" title="Phetchaburi (Provinz)">Phetchaburi</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Prachin_Buri_(Provinz)" title="Prachin Buri (Provinz)">Prachin Buri</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Prachuap_Khiri_Khan_(Provinz)" title="Prachuap Khiri Khan (Provinz)">Prachuap Khiri Khan</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Ratchaburi_(Provinz)" title="Ratchaburi (Provinz)">Ratchaburi</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Rayong_(Provinz)" title="Rayong (Provinz)">Rayong</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Sa_Kaeo_(Provinz)" title="Sa Kaeo (Provinz)">Sa Kaeo</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Samut_Prakan_(Provinz)" title="Samut Prakan (Provinz)">Samut Prakan</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Samut_Sakhon_(Provinz)" title="Samut Sakhon (Provinz)">Samut Sakhon</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Samut_Songkhram_(Provinz)" title="Samut Songkhram (Provinz)">Samut Songkhram</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Saraburi_(Provinz)" title="Saraburi (Provinz)">Saraburi</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Sing_Buri_(Provinz)" title="Sing Buri (Provinz)">Sing Buri</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Suphan_Buri_(Provinz)" title="Suphan Buri (Provinz)">Suphan Buri</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Trat_(Provinz)" title="Trat (Provinz)">Trat</a></p>
+
+<p><b><a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Südthailand" title="Südthailand">Süden</a>:</b>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Chumphon_(Provinz)" title="Chumphon (Provinz)">Chumphon</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Krabi_(Provinz)" title="Krabi (Provinz)">Krabi</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Nakhon_Si_Thammarat_(Provinz)" title="Nakhon Si Thammarat (Provinz)">Nakhon Si Thammarat</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Narathiwat_(Provinz)" title="Narathiwat (Provinz)">Narathiwat</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Pattani_(Provinz)" title="Pattani (Provinz)">Pattani</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Phang-nga_(Provinz)" title="Phang-nga (Provinz)">Phang-nga</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Phatthalung_(Provinz)" title="Phatthalung (Provinz)">Phatthalung</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Phuket_(Provinz)" title="Phuket (Provinz)">Phuket</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Ranong_(Provinz)" title="Ranong (Provinz)">Ranong</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Satun_(Provinz)" title="Satun (Provinz)">Satun</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Songkhla_(Provinz)" title="Songkhla (Provinz)">Songkhla</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Surat_Thani_(Provinz)" title="Surat Thani (Provinz)">Surat Thani</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Trang_(Provinz)" title="Trang (Provinz)">Trang</a><span typeof="mw:Entity"> </span><span typeof="mw:Entity">|</span>
+<a rel="mw:WikiLink" href="https://de.wikipedia.org/wiki/Yala_(Provinz)" title="Yala (Provinz)">Yala</a></p>
+</div>
+</div></div>
+
+<p id="mwAi0"><span class="geo noexcerpt" style="display:none" about="#mwt76" typeof="mw:Transclusion" id="mwAi4" data-mw='{"parts":[{"template":{"target":{"wt":"Coordinate","href":"./Vorlage:Coordinate"},"params":{"article":{"wt":"/"},"NS":{"wt":"17/29/12/N"},"EW":{"wt":"101/43/10/E"},"type":{"wt":"adm1st"},"region":{"wt":"TH-42"}},"i":0}}]}'><span class="body"></span><span class="latitude">17.486666666667</span><span class="longitude">101.71944444444</span><span class="elevation"></span></span><span id="coordinates" class="coordinates plainlinks-print" about="#mwt76"><span title="Koordinatensystem WGS84">Koordinaten: </span><a rel="mw:ExtLink" href="https://geohack.toolforge.org/geohack.php?pagename=Loei_(Provinz)&amp;language=de&amp;params=17.486666666667_N_101.71944444444_E_region:TH-42_type:adm1st" class="external text"><span title="Breitengrad">17°<span typeof="mw:Entity"> </span>29′<span typeof="mw:Entity"> </span><abbr title="Nord">N</abbr></span>, <span title="Längengrad">101°<span typeof="mw:Entity"> </span>43′<span typeof="mw:Entity"> </span><abbr title="Ost">O</abbr></span></a></span></p>
+
+<link rel="mw:PageProp/Category" href="./Kategorie:Thailändische_Provinz" id="mwAi8"/>
+<link rel="mw:PageProp/Category" href="./Kategorie:Provinz_Loei#%20" id="mwAjA"/>
+<link rel="mw:PageProp/Category" href="./Kategorie:Mekong" id="mwAjE"/>
+<link rel="mw:PageProp/Category" href="./Kategorie:Isan" id="mwAjI"/></section>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐d7b74dd99‐fkg28
+Cached time: 20260906072346
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc, use‐parsoid]
+CPU time usage: 0.594 seconds
+Real time usage: 0.759 seconds
+Preprocessor visited node count: 1504/1000000
+Revision size: 11400/2097152 bytes
+Post‐expand include size: 35135/2097152 bytes
+Template argument size: 8355/2097152 bytes
+Highest expansion depth: 21/100
+Expensive parser function count: 9/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 25930/5000000 bytes
+Lua time usage: 0.069/10.000 seconds
+Lua memory usage: 4458334/52428800 bytes
+Number of Wikibase entities loaded: 0/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  599.371      1 -total
+ 13.55%   81.217     23 Vorlage:Lang
+ 11.78%   70.587      1 Vorlage:Infobox_Provinzen_in_Thailand
+  6.62%   39.691      1 Vorlage:Webarchiv
+  4.52%   27.091      1 Vorlage:Coordinate
+  4.22%   25.279      1 Vorlage:CoordinateComplex
+  3.80%   22.765      1 Vorlage:CoordinateMain
+  2.84%   17.012      1 Vorlage:Commonscat
+  2.84%   17.011      1 Vorlage:Webarchiv/Wayback
+  2.00%   11.967      1 Vorlage:Webarchiv/archiv-bot
+-->
+
+<!-- Render ID e58af01c-a9c3-11f1-9522-5703947612e8 -->
+
+<!-- Saved in parser cache with key dewiki:stable-parsoid-pcache:54705:|#|:idhash:useParsoid=1 and timestamp 20260906072346 and revision id 269639789. Rendering was triggered because: unknown
+ -->
+
+<!-- Parsoid 0.24.0.0-alpha21 -->
+</div><!--
+Post‐processing cache key dewiki:stable‐parsoid‐pcache‐postproc:54705:|#|:idhash:injectTOC=0!postproc=1!skin=vector‐2022!useParsoid=1, generated at 20260906072346
+--><noscript><img src="https://de.wikipedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Abgerufen von „<a dir="ltr" href="https://de.wikipedia.org/w/index.php?title=Loei_(Provinz)&amp;oldid=269639789">https://de.wikipedia.org/w/index.php?title=Loei_(Provinz)&amp;oldid=269639789</a>“</div></div>
+					<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Wikipedia:Kategorien" title="Wikipedia:Kategorien">Kategorien</a>: <ul><li><a href="/wiki/Kategorie:Thail%C3%A4ndische_Provinz" title="Kategorie:Thailändische Provinz">Thailändische Provinz</a></li><li><a href="/wiki/Kategorie:Provinz_Loei" title="Kategorie:Provinz Loei">Provinz Loei</a></li><li><a href="/wiki/Kategorie:Mekong" title="Kategorie:Mekong">Mekong</a></li><li><a href="/wiki/Kategorie:Isan" title="Kategorie:Isan">Isan</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Versteckte Kategorie: <ul><li><a href="/wiki/Kategorie:Wikipedia:Defekte_Weblinks/Ungepr%C3%BCfte_Archivlinks_2019-04" title="Kategorie:Wikipedia:Defekte Weblinks/Ungeprüfte Archivlinks 2019-04">Wikipedia:Defekte Weblinks/Ungeprüfte Archivlinks 2019-04</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			<footer id="footer" class="mw-footer" >
+				<ul id="footer-info" class="mw-portlet mw-portlet-footer-info">
+	<li id="footer-info-lastmod"> Diese Seite wurde zuletzt am 14. August 2026 um 10:14 Uhr bearbeitet.</li>
+	<li id="footer-info-renderedwith">Die Seite wurde mit <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid" class="extiw" title="mw:Special:MyLanguage/Parsoid">Parsoid</a> gerendert.</li>
+	<li id="footer-info-copyright"><div id="footer-info-copyright-stats" class="noprint"><a rel="nofollow" class="external text" href="https://pageviews.wmcloud.org/?pages=Loei_(Provinz)&amp;project=de.wikipedia.org&amp;uselang=de">Abrufstatistik</a>&#160;· <a rel="nofollow" class="external text" href="https://xtools.wmcloud.org/authorship/de.wikipedia.org/Loei_(Provinz)?uselang=de">Autoren</a> </div><div id="footer-info-copyright-separator"><br /></div><div id="footer-info-copyright-info">
+<p>Der Text ist unter der Lizenz <a rel="nofollow" class="external text" href="https://creativecommons.org/licenses/by-sa/4.0/deed.de">„Creative-Commons Namensnennung – Weitergabe unter gleichen Bedingungen“</a> verfügbar; Informationen zu den Urhebern und zum Lizenzstatus eingebundener Mediendateien (etwa Bilder oder Videos) können im Regelfall durch Anklicken dieser abgerufen werden. Möglicherweise unterliegen die Inhalte jeweils zusätzlichen Bedingungen. Durch die Nutzung dieser Website erklären Sie sich mit den <span class="plainlinks"><a class="external text" href="https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/de">Nutzungsbedingungen</a> und der <a class="external text" href="https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/de">Datenschutzrichtlinie</a></span> einverstanden.<br />
+</p>
+Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.</div></li>
+</ul>
+
+				<ul id="footer-places" class="mw-portlet mw-portlet-footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/de">Datenschutz</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:%C3%9Cber_Wikipedia">Über Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:Haftungsausschluss">Haftungsausschluss</a></li>
+	<li id="footer-places-legal-safety-contacts"><a href="https://foundation.wikimedia.org/wiki/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information/de">Impressum / Sicherheit</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Verhaltenskodex</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Entwickler</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/de.wikipedia.org">Statistiken</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Stellungnahme zu Cookies</a></li>
+	<li id="footer-places-mobileview"><a href="//de.wikipedia.org/w/index.php?title=Loei_(Provinz)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile Ansicht</a></li>
+</ul>
+
+				<ul id="footer-icons" class="mw-portlet mw-portlet-footer-icons noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+			</footer>
+		</div>
+	</div> 
+</div> 
+<div class="vector-header-container vector-sticky-header-container no-font-mode-scale">
+	<div id="vector-sticky-header" class="vector-sticky-header">
+		<div class="vector-sticky-header-start">
+			<div class="vector-sticky-header-icon-start vector-button-flush-left" aria-hidden="true">
+				<button class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-sticky-header-search-toggle" tabindex="-1" data-event-name="ui.vector-sticky-search-form.icon"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search cdx-button__icon"></span>
+
+<span>Suche</span>
+			</button>
+		</div>
+			
+		<div role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box">
+			<div class="vector-typeahead-search-container">
+				<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail">
+					<form action="/w/index.php" id="vector-sticky-search-form" class="cdx-search-input cdx-search-input--has-end-button">
+						<div  class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+							<div class="cdx-text-input cdx-text-input--has-start-icon">
+								<input
+									class="cdx-text-input__input mw-searchInput" autocomplete="off"
+									
+									type="search" name="search" placeholder="Wikipedia durchsuchen">
+								<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+							</div>
+							<input type="hidden" name="title" value="Spezial:Suche">
+						</div>
+						<button class="cdx-button cdx-search-input__end-button">Suchen</button>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-context-bar">
+				<nav aria-label="Inhaltsverzeichnis" class="vector-toc-landmark">
+						
+					<div id="vector-sticky-header-toc" class="vector-dropdown mw-portlet mw-portlet-sticky-header-toc vector-sticky-header-toc vector-button-flush-left"  >
+						<input type="checkbox" id="vector-sticky-header-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-sticky-header-toc" class="vector-dropdown-checkbox "  aria-label="Inhaltsverzeichnis umschalten"   >
+						<label id="vector-sticky-header-toc-label" for="vector-sticky-header-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet cdx-button__icon"></span>
+
+<span class="vector-dropdown-label-text">Inhaltsverzeichnis umschalten</span>
+						</label>
+						<div class="vector-dropdown-content">
+					
+						<div id="vector-sticky-header-toc-unpinned-container" class="vector-unpinned-container">
+						</div>
+					
+						</div>
+					</div>
+			</nav>
+				<div class="vector-sticky-header-context-bar-primary" aria-hidden="true" ><span lang="de" dir="ltr"><span class="mw-page-title-main">Loei (Provinz)</span></span></div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-end" aria-hidden="true">
+			<div class="vector-sticky-header-icons">
+				<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-talk-sticky-header" tabindex="-1" data-event-name="talk-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbles mw-ui-icon-wikimedia-speechBubbles cdx-button__icon"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-subject-sticky-header" tabindex="-1" data-event-name="subject-sticky-header"><span class="vector-icon mw-ui-icon-article mw-ui-icon-wikimedia-article cdx-button__icon"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-history-sticky-header" tabindex="-1" data-event-name="history-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-history mw-ui-icon-wikimedia-wikimedia-history cdx-button__icon"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink" id="ca-watchstar-sticky-header" tabindex="-1" data-event-name="watch-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-star mw-ui-icon-wikimedia-wikimedia-star cdx-button__icon"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-ve-edit-sticky-header" tabindex="-1" data-event-name="ve-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-edit mw-ui-icon-wikimedia-wikimedia-edit cdx-button__icon"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-edit-sticky-header" tabindex="-1" data-event-name="wikitext-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-wikiText mw-ui-icon-wikimedia-wikimedia-wikiText cdx-button__icon"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-viewsource-sticky-header" tabindex="-1" data-event-name="ve-edit-protected-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-editLock mw-ui-icon-wikimedia-wikimedia-editLock cdx-button__icon"></span>
+
+<span></span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-buttons">
+				<button class="cdx-button cdx-button--weight-quiet mw-interlanguage-selector" id="p-lang-btn-sticky-header" tabindex="-1" data-event-name="ui.dropdown-p-lang-btn-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-language mw-ui-icon-wikimedia-wikimedia-language cdx-button__icon"></span>
+
+<span>48 Sprachen</span>
+			</button>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive" id="ca-addsection-sticky-header" tabindex="-1" data-event-name="addsection-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbleAdd-progressive mw-ui-icon-wikimedia-speechBubbleAdd-progressive cdx-button__icon"></span>
+
+<span>Abschnitt hinzufügen</span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-icon-end">
+				<div class="vector-user-links">
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-d7b74dd99-fkg28","wgBackendResponseTime":979,"wgPageParseReport":{"limitreport":{"cputime":"0.594","walltime":"0.759","ppvisitednodes":{"value":1504,"limit":1000000},"revisionsize":{"value":11400,"limit":2097152},"postexpandincludesize":{"value":35135,"limit":2097152},"templateargumentsize":{"value":8355,"limit":2097152},"expansiondepth":{"value":21,"limit":100},"expensivefunctioncount":{"value":9,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":25930,"limit":5000000},"entityaccesscount":{"value":0,"limit":500},"timingprofile":["100.00%  599.371      1 -total"," 13.55%   81.217     23 Vorlage:Lang"," 11.78%   70.587      1 Vorlage:Infobox_Provinzen_in_Thailand","  6.62%   39.691      1 Vorlage:Webarchiv","  4.52%   27.091      1 Vorlage:Coordinate","  4.22%   25.279      1 Vorlage:CoordinateComplex","  3.80%   22.765      1 Vorlage:CoordinateMain","  2.84%   17.012      1 Vorlage:Commonscat","  2.84%   17.011      1 Vorlage:Webarchiv/Wayback","  2.00%   11.967      1 Vorlage:Webarchiv/archiv-bot"]},"scribunto":{"limitreport-timeusage":{"value":"0.069","limit":"10.000"},"limitreport-memusage":{"value":4458334,"limit":52428800}},"cachereport":{"origin":"mw-web.eqiad.main-d7b74dd99-fkg28","timestamp":"20260906072346","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Loei (Provinz)","url":"https:\/\/de.wikipedia.org\/wiki\/Loei_(Provinz)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q275388","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q275388","author":{"@type":"Organization","name":"Autoren der Wikimedia-Projekte"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-08-29T08:07:02Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/10\/Thailand_Loei_locator_map.svg?utm_source=de.wikipedia.org&utm_campaign=index&utm_content=original","headline":"Provinz im Nordosten Thailands"}</script>
+</body>
+</html>
+topping.truemoney.com##A#buy-button--bestseller-package-2051.n3tzom-10.z1hkz7-1.cFHRwg.kcsTho
 # Creating GitHub Copilot Spaces
 
 Create spaces to organize and centralize relevant content that grounds Copilot's responses in the right context for a specific task.
