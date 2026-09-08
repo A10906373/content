@@ -1,91 +1,250 @@
+
 # https://github.com/nathanchenstudio/Marionfl
 # https://github.com/nathanchenstudio/A58Spider
 # https://github.com/nathanchenstudio/DnbSpider
 # https://github.com/nathanchenstudio/ShoesCrawler
 # https://github.com/B38834-24-0448/pea.go.th/blob/Electricity/131246/B38834-24-0448.yaml
-{{short description|National radio station in Laos}}
-{{Infobox radio network
-| name         = Lao National Radio
-| country      = [[Laos]]
-| languages    = [[English language|English]], [[French language|French]], [[Khmer language|Khmer]], [[Thai language|Thai]], [[Lao language|Lao]]
-| network_type = [[State media|State]] [[radio network]]
-| available    = [[Laos]]
-| owner        = [[Government of Laos]]
-| launch_date  = {{Start date and age|df=yes|1960|08|13}}<ref>[https://www.abu.org.my/portfolio-item/lao-national-radio/?doing_wp_cron=1617441816.8105649948120117187500 Portfolio on ABU's website]</ref>
-| website      = {{URL|https://lnr.org.la}}
-}}
+# Guidelines for Legal Requests of User Data
 
-'''Lao National Radio''' (officially abbreviated as '''LNR''', {{langx|lo|ວິທະຍຸກະຈາຍສຽງແຫ່ງຊາດລາວ|Vithanyu Kachaisiang Haeng Sat Lao}}) is the national radio station for the country of [[Laos]]. It was founded on 13 August 1960 and became a national broadcaster in 1975.<ref>[https://www.abu.org.my/portfolio-item/lao-national-radio/?doing_wp_cron=1617441816.8105649948120117187500 Portfolio on ABU's website]</ref>
+Are you a law enforcement officer conducting an investigation that may involve user content hosted on GitHub?
+Or maybe you're a privacy-conscious person who would like to know what information we share with law enforcement and under what circumstances.
+Either way, you're on the right page.
 
-Between 1983 and 1993, Lao National Radio was administered jointly with [[Lao National Television]].
+In these guidelines, we provide a little background about what GitHub is, the types of data we have, and the conditions under which we will disclose private user information.
+Before we get into the details, however, here are a few important details you may want to know:
 
-==History==
-On 13 August 1960, the station was founded by [[Pathet Lao]] with its coverage at the time limited to north-eastern Laos. In 1975, after Pathet Lao took over the government, it also took over Royal Lao Radio's infrastructure, which was also set up in 1960, the same year as the Lao PLA-backed station.<ref name="a">{{cite journal |author1=阿芳 |title=老挝新闻业现状及存在问题浅析 |journal=《新闻传播》 |date=2013 |issue=3 |pages=257–258 |url=http://www.cnki.com.cn/Article/CJFDTOTAL-YWCB201303206.htm |accessdate=2023-09-24 |url-status=dead}}</ref> On 1 December 1983, it began sharing its administration with that of [[Lao National Television]], things remained that way until 1993, when LNTV became independent from LNR.<ref name="CRI2011">{{cite web|url=http://gb.cri.cn/27824/2011/11/18/1545s3441405.htm|title=present media|publisher=国际在线|accessdate=2015-12-01|date=2011-11-18|archive-date=2017-10-21|archive-url=https://web.archive.org/web/20171021191851/http://gb.cri.cn/27824/2011/11/18/1545s3441405.htm|url-status=live}}</ref>
+* We will [**notify affected users**](#we-will-notify-any-affected-account-owners) about any requests for their account information, unless prohibited from doing so by law or court order.
+* We will not disclose **location-tracking data**, such as IP address logs, without a [valid court order or search warrant](#with-a-court-order-or-a-search-warrant).
+* We will not disclose any **private user content**, including the contents of private repositories, without a valid [search warrant](#only-with-a-search-warrant).
 
-Its headquarters are based in [[Vientiane]] and it airs programs in Laotian, Hmong, Khmer, Vietnamese, French, English, Thai and Chinese.<ref>{{cite web|url=http://www.china.com.cn/chinese/zhuanti/zgdm/444606.htm|title=老挝的经济与外交状况|publisher=中国网|accessdate=2015-12-01|date=|archive-date=2016-03-05|archive-url=https://web.archive.org/web/20160305043525/http://www.china.com.cn/chinese/zhuanti/zgdm/444606.htm|url-status=live}}</ref> Cooperation with [[China Radio International]] ramped up on 4 December 2015 when it and LNR teamed up for a joint Mandarin service.<ref>{{cite news|url=http://news.xinhuanet.com/world/2015-12/01/c_1117319667.htm|title=老挝国家广播电台开播汉语节目|publisher=新华网|accessdate=2015-12-01|date=2015-12-01|archive-date=2015-12-08|archive-url=https://web.archive.org/web/20151208105049/http://news.xinhuanet.com/world/2015-12/01/c_1117319667.htm|url-status=live}}</ref><ref name="LNRen1130">{{cite web|url=http://www.tudou.com/programs/view/uiKZI6ezl4o/|title=Ceremony to open News in Chinese Language Service holds to mark coming National Day（为庆祝即将到来的国庆节，华语广播开播典礼举行）|publisher=土豆网|author=Lao National Radio|accessdate=2015-12-02|date=2015-11-30|archive-date=2020-11-30|archive-url=https://web.archive.org/web/20201130150203/http://www.tudou.com/programs/view/uiKZI6ezl4o/|url-status=live}}</ref>
+## About these guidelines
 
-==Frequencies==
-Lao National Radio can be heard on the following frequencies:
-* 567&nbsp;kHz AM (Lao National Radio Program 1)
-* 103.7&nbsp;MHz FM (Lao National Radio Program 1)
+Our users trust us with their software projects and code—often some of their most valuable business or personal assets.
+Maintaining that trust is essential to us, which means keeping user data safe, secure, and private.
 
-==See also==
-* [[Lao News Agency]]
-* [[Vientiane Times]]
-* [[List of radio stations in Asia]]
+While the overwhelming majority of our users use GitHub's services to create new businesses, build new technologies, and for the general betterment of humankind, we recognize that with millions of users spread all over the world, there are bound to be a few bad apples in the bunch.
+In those cases, we want to help law enforcement serve their legitimate interest in protecting the public.
 
-==References==
-{{Reflist}}
+By providing guidelines for law enforcement personnel, we hope to strike a balance between the often competing interests of user privacy and justice.
+We hope these guidelines will help to set expectations on both sides, as well as to add transparency to GitHub's internal processes.
+Our users should know that we value their private information and that we do what we can to protect it.
+At a minimum, this means only releasing data to third-parties when the appropriate legal requirements have been satisfied.
+By the same token, we also hope to educate law enforcement professionals about GitHub's systems so that they can more efficiently tailor their data requests and target just that information needed to conduct their investigation.
 
-==References==
-* [https://lnr.org.la// Official website]
+## GitHub terminology
 
-{{ASEAN TV}}
-{{authority control}}
+Before asking us to disclose data, it may be useful to understand how our system is implemented.
+GitHub hosts millions of data repositories using the [Git version control system](https://git-scm.com/video/what-is-version-control).
+Repositories on GitHub—which may be public or private—are most commonly used for software development projects, but are also often used to work on content of all kinds.
 
-{{coord missing|Laos}}
+* [**Users**](/en/get-started/learning-about-github/github-glossary#user):
+  Users are represented in our system as personal GitHub accounts.
+  Each user has a personal profile, and can own multiple repositories.
+  Users can create or be invited to join organizations or to collaborate on another user's repository.
 
-[[Category:Radio stations in Laos]]
-[[Category:Multilingual broadcasters]]
-[[Category:Radio stations established in 1960]]
-[[Category:1960 establishments in Laos]]
-[[Category:Publicly funded broadcasters]]
-[[Category:Government-owned companies of Asia]]
+* [**Collaborators**](/en/get-started/learning-about-github/github-glossary#collaborator):
+  A collaborator is a user with read and write access to a repository who has been invited to contribute by the repository owner.
 
+* [**Organizations**](/en/get-started/learning-about-github/github-glossary#organization):
+  Organizations are a group of two or more users that typically mirror real-world organizations, such as businesses or projects.
+  They are administered by users and can contain both repositories and teams of users.
 
+* [**Repositories**](/en/get-started/learning-about-github/github-glossary#repository):
+  A repository is one of the most basic GitHub elements.
+  They may be easiest to imagine as a project's folder.
+  A repository contains all of the project files (including documentation), and stores each file's revision history.
+  Repositories can have multiple collaborators and, at its administrators' discretion, may be publicly viewable or not.
 
-# software.opensuse.org
+* [**Pages**](/en/pages/getting-started-with-github-pages/what-is-github-pages):
+  GitHub Pages are public webpages freely hosted by GitHub that users can easily publish through code stored in their repositories.
+  If a user or organization has a GitHub Page, it can usually be found at a URL such as `https://username.github.io` or they may have the webpage mapped to their own custom domain name.
 
-![Build Status](https://github.com/openSUSE/software-o-o/actions/workflows/tests.yml/badge.svg?event=push)
+* [**Gists**](/en/get-started/writing-on-github/editing-and-sharing-content-with-gists/creating-gists):
+  Gists are snippets of source code or other text that users can use to store ideas or share with friends.
+  Like regular GitHub repositories, Gists are created with Git, so they are automatically versioned, forkable and downloadable.
+  Gists can either be public or secret (accessible only through a known URL). Public Gists cannot be converted into secret Gists.
 
-Ruby on Rails application powering [https://software.opensuse.org](https://software.opensuse.org)
+## User data on GitHub.com
 
-# What, how why?
+Here is a non-exhaustive list of the kinds of data we maintain about users and projects on GitHub.
 
-This application has three different workflows:
+* <a name="public-account-data"></a>
+  **Public account data:**
+  There is a variety of information publicly available on GitHub about users and their repositories.
+  User profiles can be found at a URL such as `https://github.com/username`.
+  User profiles display information about when the user created their account as well their public activity on GitHub.com and social interactions.
+  Public user profiles can also include additional information that a user may have chosen to share publicly.
+  All user public profiles display:
+  * Username
+  * The repositories that the user has starred
+  * The other GitHub users the user follows
+  * The users that follow them
 
-1. View a package and download it
-1. Browse categories of [AppStream](https://www.freedesktop.org/wiki/Distributions/AppStream/) data from distributions to get to a package
-1. Search for binary packages published by OBS to get to a package
+    Optionally, a user may also choose to share the following information publicly:
+  * Their real name
+  * An avatar
+  * An affiliated company
+  * Their location
+  * A public email address
+  * Their personal web page
+  * Organizations to which the user is a member (*depending on either the organizations' or the users' preferences*)
 
-## Contribute
+* <a name="private-account-data"></a>
+  **Private account data:**
+  GitHub also collects and maintains certain private information about users as outlined in our [Privacy Policy](/en/site-policy/privacy-policies/github-general-privacy-statement).
+  This may include:
+  * Private email addresses
+  * Payment details
+  * Security access logs
+  * Data about interactions with private repositories
 
-We hope you'll get involved.
-Read our [Contributors' Guide](https://github.com/openSUSE/software-o-o/blob/master/CONTRIBUTING.md) for details.
+    To get a sense of the type of private account information that GitHub collects, you can visit your [personal dashboard](https://github.com/dashboard) and browse through the sections in the left-hand menubar.
 
-Thank you in advance! :green_heart: :green_heart: :green_heart:
+* <a name="organization-account-data"></a>
+  **Organization account data:**
+  Information about organizations, their administrative users and repositories is publicly available on GitHub.
+  Organization profiles can be found at a URL such as `https://github.com/organization`.
+  Public organization profiles can also include additional information that the owners have chosen to share publicly.
+  All organization public profiles display:
+  * The organization name
+  * The repositories that the owners have starred
+  * All GitHub users that are owners of the organization
 
-## Code of Conduct
+    Optionally, administrative users may also choose to share the following information publicly:
+  * An avatar
+  * An affiliated company
+  * Their location
+  * Direct Members and Teams
+  * Collaborators
 
-This application is part of the openSUSE project. We follow all the
-[openSUSE Guiding Principles!](http://en.opensuse.org/openSUSE:Guiding_principles)
-If you think someone doesn't do that, please let the [openSUSE Board](https://en.opensuse.org/openSUSE:Board)
-know.
+* <a name="public-repository-data"></a>
+  **Public repository data:**
+  GitHub is home to millions of public, open-source software projects.
+  You can browse almost any public repository (for example, the [GitHub Docs](https://github.com/github/docs)) to get a sense for the information that GitHub collects and maintains about repositories.
+  This can include:
 
-## Contact
+  * The code itself
+  * Previous versions of the code
+  * Stable release versions of the project
+  * Information about collaborators, contributors and repository members
+  * Logs of Git operations such as commits, branching, pushing, pulling, forking and cloning
+  * Conversations related to Git operations such as comments on pull requests or commits
+  * Project documentation such as Issues and Wiki pages
+  * Statistics and graphs showing contributions to the project and the network of contributors
 
-GitHub issues and pull requests are the primary way for communicating. If you
-have other questions feel free to subscribe to the
-[opensuse-web@opensuse.org](http://lists.opensuse.org/opensuse-web/)
-mailinglist, contributors are on that list. Additionally you can chat with us on
-[matrix.io](https://matrix.to/#/#software-o-o:opensuse.org).
+* <a name="private-repository-data"></a>
+  **Private repository data:**
+  GitHub collects and maintains the same type of data for private repositories that can be seen for public repositories, except only specifically invited users may access private repository data.
+
+* <a name="other-data"></a>
+  **Other data:**
+  Additionally, GitHub collects analytics data such as page visits and information occasionally volunteered by our users (such as communications with our support team, survey information and/or site registrations).
+
+## We will notify any affected account owners
+
+It is our policy to notify users about any pending requests regarding their accounts or repositories, unless we are prohibited by law or court order from doing so. Before disclosing user information, we will make a reasonable effort to notify any affected account owner(s) by sending a message to their verified email address providing them with a copy of the subpoena, court order, or warrant so that they can have an opportunity to challenge the legal process if they wish. In (rare) exigent circumstances, we may delay notification if we determine delay is necessary to prevent death or serious harm or due to an ongoing investigation.
+
+## Disclosure of non-public information
+
+It is our policy to disclose non-public user information in connection with a civil or criminal investigation only with user consent or upon receipt of a valid subpoena, civil investigative demand, court order, search warrant, or other similar valid legal process. In certain exigent circumstances (see below), we also may share limited information but only corresponding to the nature of the circumstances, and would require legal process for anything beyond that.
+GitHub reserves the right to object to any requests for non-public information.
+Where GitHub agrees to produce non-public information in response to a lawful request, we will conduct a reasonable search for the requested information.
+Here are the kinds of information we will agree to produce, depending on the kind of legal process we are served with:
+
+* <a name="with-user-consent"></a>
+  **With user consent:**
+  GitHub will provide private account information, if requested, directly to the user (or an owner, in the case of an organization account), or to a designated third party with the user's written consent once GitHub is satisfied that the user has verified his or her identity.
+
+* <a name="with-a-subpoena"></a>
+  **With a subpoena:**
+  If served with a valid subpoena, civil investigative demand, or similar legal process issued in connection with an official criminal or civil investigation, we can provide certain non-public account information, which may include:
+
+  * Name(s) associated with the account
+  * Email address(es) associated with the account
+  * Billing information
+  * Registration date and termination date
+  * IP address, date, and time at the time of account registration
+  * IP address(es) used to access the account at a specified time or event relevant to the investigation
+
+In the case of organization accounts, we can provide the name(s) and email address(es) of the account owner(s) as well as the date and IP address at the time of creation of the organization account. We will not produce information about other members or contributors, if any, to the organization account or any additional information regarding the identified account owner(s) without a follow-up request for those specific users.
+
+Please note that the information available will vary from case to case. Some of the information is optional for users to provide. In other cases, we may not have collected or retained the information.
+
+* <a name="with-a-court-order-or-a-search-warrant"></a>
+  **With a court order *or* a search warrant:** We will not disclose account access logs unless compelled to do so by either
+  (i) a court order issued under 18 U.S.C. Section 2703(d), upon a showing of specific and articulable facts showing that there are reasonable grounds to believe that the information sought is relevant and material to an ongoing criminal investigation; or
+  (ii) a search warrant issued under the procedures described in the Federal Rules of Criminal Procedure or equivalent state warrant procedures, upon a showing of probable cause.
+  In addition to the non-public account information listed above, we can provide account access logs in response to a court order or search warrant, which may include:
+
+  * Any logs which would reveal a user's movements over a period of time
+  * Account or private repository settings (for example, which users have certain permissions, etc.)
+  * User- or IP-specific analytic data such as browsing history
+  * Security access logs other than account creation or for a specific time and date
+
+* <a name="only-with-a-search-warrant"></a>
+  **Only with a search warrant:**
+  We will not disclose the private contents of any account unless compelled to do so under a search warrant issued under the procedures described in the Federal Rules of Criminal Procedure or equivalent state warrant procedures upon a showing of probable cause.
+  In addition to the non-public account information and account access logs mentioned above, we will also provide private account contents in response to a search warrant, which may include:
+
+  * Contents of secret Gists
+  * Source code or other content in private repositories
+  * Contribution and collaboration records for private repositories
+  * Communications or documentation (such as Issues or Wikis) in private repositories
+  * Any security keys used for authentication or encryption
+
+* <a name="in-exigent-circumstances"></a>
+  **Under exigent circumstances:**
+  If we receive a request for information under certain exigent circumstances (where we believe the disclosure is necessary to prevent an emergency involving danger of death or serious physical injury to a person), we may disclose limited information that we determine necessary to enable law enforcement to address the emergency. For any information beyond that, we would require a subpoena, search warrant, or court order, as described above. For example, we will not disclose contents of private repositories without a search warrant. Before disclosing information, we confirm that the request came from a law enforcement agency, an authority sent an official notice summarizing the emergency, and how the information requested will assist in addressing the emergency.
+
+## Cost reimbursement
+
+Under state and federal law, GitHub can seek reimbursement for costs associated with compliance with a valid legal demand, such as a subpoena, court order or search warrant. We only charge to recover some costs, and these reimbursements cover only a portion of the costs we actually incur to comply with legal orders.
+
+While we do not charge in emergency situations or in other exigent circumstances, we seek reimbursement for all other legal requests in accordance with the following schedule, unless otherwise required by law:
+
+* Initial search of up to 25 identifiers: Free
+* Production of subscriber information/data for up to 5 accounts: Free
+* Production of subscriber information/data for more than 5 accounts: $20 per account
+* Secondary searches: $10 per search
+
+## Data preservation
+
+We will take steps to preserve account records for up to 90 days upon formal request from U.S. law enforcement in connection with official criminal investigations, and pending the issuance of a court order or other process.
+
+## Submitting requests
+
+Please serve requests to:
+
+```text
+GitHub, Inc.
+c/o Corporation Service Company
+2710 Gateway Oaks Drive, Suite 150N
+Sacramento, CA 95833-3505
+```
+
+Courtesy copies may be emailed to <legal-support@github.com>
+
+Please make your requests as specific and narrow as possible, including the following information:
+
+* Full information about authority issuing the request for information
+* The name and badge/ID of the responsible agent
+* An official email address and contact phone number
+* The user, organization, repository name(s) of interest
+* The URLs of any pages, gists or files of interest
+* The description of the types of records you need
+
+Please allow at least two weeks for us to be able to look into your request.
+
+### California Assembly Bill 1242 Notice
+
+By submitting legal process to GitHub, you attest that the legal process does not relate to the violation of any law that creates liability for abortion-related conduct that is lawful in California.
+
+## Requests from foreign law enforcement
+
+As a United States company based in California, GitHub is not required to provide data to foreign governments in response to legal process issued by foreign authorities.
+Foreign law enforcement officials wishing to request information from GitHub should contact the United States Department of Justice Criminal Division's Office of International Affairs.
+GitHub will promptly respond to requests that are issued via U.S. court by way of a mutual legal assistance treaty (“MLAT”) or letter rogatory.
+
+## Questions
+
+Do you have other questions, comments or suggestions? Please contact us through the [GitHub Support portal](https://support.github.com).
