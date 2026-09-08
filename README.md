@@ -1,3 +1,1742 @@
+https://th.wikipedia.org/wiki/%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89:Www.pea.or.th
+Content-Type	application/x-www-form-urlencoded
+accept-ch	
+age	0
+cache-control	private, s-maxage=0, max-age=0, must-revalidate, no-transform
+content-encoding	gzip
+content-language	th
+content-security-policy	script-src 'unsafe-eval' blob
+content-type	text/html; charset=UTF-8
+date	Tue, 08 Sep 2026 05
+expires	Thu, 01 Jan 1970 00
+last-modified	Mon, 07 Sep 2026 02
+nel	{ "report_to"
+report-to	{ "group"
+reporting-endpoints	csp-report-to-endpoint='/w/api.php?action=cspreport&format=json';
+server	ATS/9.2.15
+server-timing	cache;desc="pass", host;desc="cp5021",co_id;desc="879743582"
+strict-transport-security	max-age=106384710; includeSubDomains; preload
+vary	Accept-Encoding,X-Subdomain,Cookie,Authorization,User-Agent
+x-cache	cp5021 miss, cp5021 pass
+x-cache-status	pass
+x-client-ip	223.24.196.92
+x-content-type-options	nosniff
+x-request-id	021536f2-6567-495b-882c-358122c1052e
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard" lang="th" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>ผู้ใช้:Www.pea.or.th - วิกิพีเดีย</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard";var cookie=document.cookie.match(/(?:^|; )thwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"thai","wgMonthNames":["","มกราคม","กุมภาพันธ์","มีนาคม","เมษายน","พฤษภาคม","มิถุนายน","กรกฎาคม","สิงหาคม","กันยายน","ตุลาคม","พฤศจิกายน","ธันวาคม"],"wgRequestId":"80e26461-7edb-4c9f-9174-6f984bcbe4f4","wgCanonicalNamespace":"User","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":2,"wgPageName":"ผู้ใช้:Www.pea.or.th","wgTitle":"Www.pea.or.th","wgCurRevisionId":13250402,"wgRevisionId":13250402,"wgArticleId":1568102,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["หน้าที่มีการคัดค้านการแจ้งลบ","Webarchive template wayback links","หน้าที่ถูกแจ้งลบ"],"wgPageViewLanguage":"th","wgPageContentLanguage":"th","wgPageContentModel":"wikitext","wgRelevantPageName":"ผู้ใช้:Www.pea.or.th","wgRelevantArticleId":1568102,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRelevantUserName":"Www.pea.or.th","wgNoticeProject":"wikipedia","wgConfirmEditCaptchaNeededForGenericEdit":"hcaptcha","wgConfirmEditForceShowCaptcha":false,"wgConfirmEditHCaptchaSiteKey":"5d0c670e-a5f4-4258-ad16-1f42792c9c62","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgMediaViewerMobileBeta":false,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"th","pageLanguageDir":"ltr","pageVariantFallbacks":"th"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":50000,"wgParsoidHtmlVersion":"2.8.0","parsermigration-parsoid":true,"wgTestKitchenUserExperiments":{"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[]},"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgULSLanguageSelectorV2Enabled":true,"wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"],"wgPersonalDashboardMenuVisible":false};
+RLSTATE={"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.inputBox.styles":"ready","ext.cite.parsoid.styles":"ready","ext.cite.styles":"ready","mediawiki.skinning.content.parsoid":"ready","ext.wikimediamessages.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.page.media","ext.scribunto.logs","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.urlShortener.toolbar","ext.centralauth.centralautologin","ext.testKitchen","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","wikibase.databox.fromWikidata","ext.checkUser.clientHints"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=th&amp;modules=ext.cite.parsoid.styles%7Cext.cite.styles%7Cext.inputBox.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediamessages.styles%7Cjquery.makeCollapsible.styles%7Cmediawiki.skinning.content.parsoid%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=th&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=th&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector-2022">
+<link rel="stylesheet" href="/w/load.php?lang=th&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.47.0-wmf.18">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="noindex,nofollow,max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1120">
+<meta property="og:title" content="ผู้ใช้:Www.pea.or.th - วิกิพีเดีย">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//thumb.wikimedia.org">
+<link rel="alternate" type="application/x-wiki" title="แก้ไข" href="/w/index.php?title=%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89:Www.pea.or.th&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/rest.php/v1/search" title="วิกิพีเดีย (th)">
+<link rel="EditURI" type="application/rsd+xml" href="//th.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://th.wikipedia.org/wiki/%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89:Www.pea.or.th">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.th">
+<link rel="alternate" type="application/atom+xml" title="ฟีดอะตอม วิกิพีเดีย" href="/w/index.php?title=%E0%B8%9E%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9:%E0%B8%9B%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%9B%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B8%B8%E0%B8%94&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="auth.wikimedia.org">
+</head>
+<body class="skin--responsive skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-2 ns-subject mw-editable page-ผู้ใช้_Www_pea_or_th rootpage-ผู้ใช้_Www_pea_or_th skin-vector-2022 action-view">
+<div id="mw-aria-live-region" class="mw-aria-live-region" aria-live="polite"></div><a class="mw-jump-link" href="#bodyContent">ข้ามไปเนื้อหา</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header no-font-mode-scale">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="ไซต์">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  title="เมนูหลัก" >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="เมนูหลัก"   >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu cdx-button__icon"></span>
+
+<span class="vector-dropdown-label-text">เมนูหลัก</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">เมนูหลัก</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin" aria-label="Move เมนูหลัก to sidebar">ย้ายเมนูไปที่แถบด้านข้าง</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin" aria-label="Hide เมนูหลัก">ซ่อน</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		การนำทาง
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage" class="mw-list-item"><a href="/wiki/%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81" title="เยี่ยมชมหน้าหลัก [z]" accesskey="z"><span>หน้าหลัก</span></a></li><li id="n-ask" class="mw-list-item"><a href="/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B4%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2:%E0%B8%96%E0%B8%B2%E0%B8%A1%E0%B8%84%E0%B8%B3%E0%B8%96%E0%B8%B2%E0%B8%A1"><span>ถามคำถาม</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%99%E0%B8%B5%E0%B8%A2%E0%B9%88%E0%B8%AD%E0%B8%A2:%E0%B9%80%E0%B8%AB%E0%B8%95%E0%B8%B8%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B8%9B%E0%B8%B1%E0%B8%88%E0%B8%88%E0%B8%B8%E0%B8%9A%E0%B8%B1%E0%B8%99" title="ค้นหาข้อมูลเบื้องหลังในเหตุการณ์ปัจจุบัน"><span>เหตุการณ์ปัจจุบัน</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%E0%B8%9E%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9:%E0%B8%AA%E0%B8%B8%E0%B9%88%E0%B8%A1" title="โหลดหน้าแบบสุ่ม [x]" accesskey="x"><span>สุ่มบทความ</span></a></li><li id="n-about" class="mw-list-item"><a href="/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B4%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2:%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%9A" title="ทำความรู้จักวิกิพีเดีย"><span>เกี่ยวกับวิกิพีเดีย</span></a></li><li id="n-contact" class="mw-list-item"><a href="/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B4%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2:%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B9%88%E0%B8%AD" title="วิธีการติดต่อวิกิพีเดีย"><span>ติดต่อเรา</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		มีส่วนร่วม
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B9%83%E0%B8%8A%E0%B9%89:%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%9A%E0%B8%B1%E0%B8%8D" title="ข้อแนะนำการใช้และแก้ไขวิกิพีเดีย"><span>คำอธิบาย</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B4%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2:%E0%B8%AA%E0%B8%AD%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99"><span>เริ่มต้นเขียน</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B4%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2:%E0%B8%A8%E0%B8%B2%E0%B8%A5%E0%B8%B2%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%8A%E0%B8%B2%E0%B8%84%E0%B8%A1" title="เกี่ยวกับโครงการ สิ่งที่คุณทำได้ และวิธีการค้นหา"><span>ศาลาประชาคม</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%E0%B8%9E%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9:%E0%B8%9B%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%9B%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B8%B8%E0%B8%94" title="รายการเปลี่ยนแปลงล่าสุดในวิกินี้ [r]" accesskey="r"><span>ปรับปรุงล่าสุด</span></a></li><li id="n-discord" class="mw-list-item"><a href="/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B4%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2:%E0%B8%94%E0%B8%B4%E0%B8%AA%E0%B8%84%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%94"><span>ดิสคอร์ด</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%81" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/thwiki-temp25.svg" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container skin-invert">
+		<img class="mw-logo-wordmark" alt="วิกิพีเดีย" src="/static/images/mobile/copyright/wikipedia-wordmark-th-temp25.svg" style="width: 7.6875em; height: 1.8125em;">
+		<img class="mw-logo-tagline" alt="สารานุกรมเสรี" src="/static/images/mobile/copyright/wikipedia-tagline-th-temp25.svg" width="123" height="14" style="width: 7.6875em; height: 0.875em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/%E0%B8%9E%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9:%E0%B8%84%E0%B9%89%E0%B8%99%E0%B8%AB%E0%B8%B2" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" title="ค้นหาวิกิ [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search cdx-button__icon"></span>
+
+<span>ค้นหา</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input mw-searchInput" autocomplete="off"
+							 type="search" name="search" placeholder="ค้นหาใน วิกิพีเดีย" aria-label="ค้นหาใน วิกิพีเดีย" autocapitalize="none" spellcheck="false" title="ค้นหาวิกิ [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="พิเศษ:ค้นหา">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">ค้นหา</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="เครื่องมือส่วนตัว">
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-appearance-landmark" aria-label="หน้าตา">
+		
+<div id="vector-appearance-dropdown" class="vector-dropdown "  title="เปลี่ยนหน้าตาของขนาดอักษร ความกว้าง และสีของหน้า" >
+	<input type="checkbox" id="vector-appearance-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-appearance-dropdown" class="vector-dropdown-checkbox "  aria-label="หน้าตา"   >
+	<label id="vector-appearance-dropdown-label" for="vector-appearance-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-appearance mw-ui-icon-wikimedia-appearance cdx-button__icon"></span>
+
+<span class="vector-dropdown-label-text">หน้าตา</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+			<div id="vector-appearance-unpinned-container" class="vector-unpinned-container">
+				
+			</div>
+		
+	</div>
+</div>
+
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport-2" class="mw-list-item vector-menu-item--collapsible"><a data-mw-interface  href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=th.wikipedia.org&amp;uselang=th" data-mw-donate-attempt="top_link" class=""><span>บริจาคให้วิกิพีเดีย</span></a>
+</li>
+<li id="pt-createaccount-2" class="mw-list-item vector-menu-item--collapsible"><a data-mw-interface  href="/w/index.php?title=%E0%B8%9E%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9:%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%B5%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88&amp;returnto=%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89%3AWww.pea.or.th" title="แนะนำให้คุณสร้างบัญชีและเข้าสู่ระบบ แต่ไม่บังคับ" class=""><span>สร้างบัญชี</span></a>
+</li>
+<li id="pt-login-2" class="mw-list-item vector-menu-item--collapsible"><a data-mw-interface  href="/w/index.php?title=%E0%B8%9E%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9:%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B8%AD%E0%B8%B4%E0%B8%99&amp;returnto=%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89%3AWww.pea.or.th" title="แนะนำให้คุณเข้าสู่ระบบ แต่ไม่บังคับ [o]" accesskey="o" class=""><span>เข้าสู่ระบบ</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out vector-user-links-dropdown--collapsible"  title="ตัวเลือกเพิ่มเติม" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="เครื่องมือส่วนตัว"   >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-userAvatar mw-ui-icon-wikimedia-userAvatar cdx-button__icon"></span>
+
+<span class="vector-dropdown-label-text">เครื่องมือส่วนตัว</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal"  title="เมนูผู้ใช้" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-sitesupport" class="mw-list-item vector-menu-item--collapsible"><a data-mw-interface  href="https://donate.wikimedia.org/?wmf_source=donate&amp;wmf_medium=sidebar&amp;wmf_campaign=th.wikipedia.org&amp;uselang=th" data-mw-donate-attempt="top_link" class=""><span class="vector-icon mw-ui-icon-heart mw-ui-icon-wikimedia-heart cdx-button__icon"></span>
+
+<span>บริจาคให้วิกิพีเดีย</span></a>
+</li>
+<li id="pt-createaccount" class="mw-list-item vector-menu-item--collapsible"><a data-mw-interface  href="/w/index.php?title=%E0%B8%9E%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9:%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%9A%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%B5%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88&amp;returnto=%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89%3AWww.pea.or.th" title="แนะนำให้คุณสร้างบัญชีและเข้าสู่ระบบ แต่ไม่บังคับ" class=""><span class="vector-icon mw-ui-icon-userAvatar mw-ui-icon-wikimedia-userAvatar cdx-button__icon"></span>
+
+<span>สร้างบัญชี</span></a>
+</li>
+<li id="pt-login" class="mw-list-item vector-menu-item--collapsible"><a data-mw-interface  href="/w/index.php?title=%E0%B8%9E%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9:%E0%B8%A5%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B8%AD%E0%B8%B4%E0%B8%99&amp;returnto=%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89%3AWww.pea.or.th" title="แนะนำให้คุณเข้าสู่ระบบ แต่ไม่บังคับ [o]" accesskey="o" class=""><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn cdx-button__icon"></span>
+
+<span>เข้าสู่ระบบ</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="ไซต์">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" aria-label="สารบัญ" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	data-pinned-container-id="vector-toc-pinned-container"
+	data-unpinned-container-id="vector-toc-unpinned-container"
+>
+	<h2 class="vector-pinnable-header-label">สารบัญ</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin" aria-label="Move สารบัญ to sidebar">ย้ายเมนูไปที่แถบด้านข้าง</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin" aria-label="Hide สารบัญ">ซ่อน</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">บทนำ</div>
+			</a>
+		</li>
+		<li id="toc-การจัดระเบียบบริหารราชการส่วนภูมิภาค"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#การจัดระเบียบบริหารราชการส่วนภูมิภาค">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">1</span>
+				<span>การจัดระเบียบบริหารราชการส่วนภูมิภาค</span>
+			</div>
+		</a>
+		
+			<button aria-controls="toc-การจัดระเบียบบริหารราชการส่วนภูมิภาค-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle การจัดระเบียบบริหารราชการส่วนภูมิภาค subsection</span>
+			</button>
+		
+		<ul id="toc-การจัดระเบียบบริหารราชการส่วนภูมิภาค-sublist" class="vector-toc-list">
+			<li id="toc-จังหวัด"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#จังหวัด">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">1.1</span>
+					<span>จังหวัด</span>
+				</div>
+			</a>
+			
+			<ul id="toc-จังหวัด-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-อำเภอ"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#อำเภอ">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">1.2</span>
+					<span>อำเภอ</span>
+				</div>
+			</a>
+			
+			<ul id="toc-อำเภอ-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-ความสัมพันธ์ระหว่างราชการบริหารส่วนกลางกับส่วนภูมิภาค"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#ความสัมพันธ์ระหว่างราชการบริหารส่วนกลางกับส่วนภูมิภาค">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">2</span>
+				<span>ความสัมพันธ์ระหว่างราชการบริหารส่วนกลางกับส่วนภูมิภาค</span>
+			</div>
+		</a>
+		
+			<button aria-controls="toc-ความสัมพันธ์ระหว่างราชการบริหารส่วนกลางกับส่วนภูมิภาค-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle ความสัมพันธ์ระหว่างราชการบริหารส่วนกลางกับส่วนภูมิภาค subsection</span>
+			</button>
+		
+		<ul id="toc-ความสัมพันธ์ระหว่างราชการบริหารส่วนกลางกับส่วนภูมิภาค-sublist" class="vector-toc-list">
+			<li id="toc-ส่วนราชการภูมิภาคสังกัดสำนักนายกรัฐมนตรี_และกระทรวง/ทบวง"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#ส่วนราชการภูมิภาคสังกัดสำนักนายกรัฐมนตรี_และกระทรวง/ทบวง">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">2.1</span>
+					<span>ส่วนราชการภูมิภาคสังกัดสำนักนายกรัฐมนตรี และกระทรวง/ทบวง</span>
+				</div>
+			</a>
+			
+			<ul id="toc-ส่วนราชการภูมิภาคสังกัดสำนักนายกรัฐมนตรี_และกระทรวง/ทบวง-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-การจัดระเบียบบริหารราชการส่วนภูมิภาคแบบเฉพาะ"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#การจัดระเบียบบริหารราชการส่วนภูมิภาคแบบเฉพาะ">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">3</span>
+				<span>การจัดระเบียบบริหารราชการส่วนภูมิภาคแบบเฉพาะ</span>
+			</div>
+		</a>
+		
+			<button aria-controls="toc-การจัดระเบียบบริหารราชการส่วนภูมิภาคแบบเฉพาะ-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle การจัดระเบียบบริหารราชการส่วนภูมิภาคแบบเฉพาะ subsection</span>
+			</button>
+		
+		<ul id="toc-การจัดระเบียบบริหารราชการส่วนภูมิภาคแบบเฉพาะ-sublist" class="vector-toc-list">
+			<li id="toc-ส่วนราชการของกระทรวงกลาโหมในส่วนภูมิภาค"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#ส่วนราชการของกระทรวงกลาโหมในส่วนภูมิภาค">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">3.1</span>
+					<span>ส่วนราชการของกระทรวงกลาโหมในส่วนภูมิภาค</span>
+				</div>
+			</a>
+			
+			<ul id="toc-ส่วนราชการของกระทรวงกลาโหมในส่วนภูมิภาค-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-ส่วนราชการของกระทรวงศึกษาธิการในส่วนภูมิภาค"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#ส่วนราชการของกระทรวงศึกษาธิการในส่วนภูมิภาค">
+				<div class="vector-toc-text">
+					<span class="vector-toc-numb">3.2</span>
+					<span>ส่วนราชการของกระทรวงศึกษาธิการในส่วนภูมิภาค</span>
+				</div>
+			</a>
+			
+			<ul id="toc-ส่วนราชการของกระทรวงศึกษาธิการในส่วนภูมิภาค-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-แนวคิดปฏิรูป"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#แนวคิดปฏิรูป">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">4</span>
+				<span>แนวคิดปฏิรูป</span>
+			</div>
+		</a>
+		
+		<ul id="toc-แนวคิดปฏิรูป-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-อ้างอิง"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#อ้างอิง">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">5</span>
+				<span>อ้างอิง</span>
+			</div>
+		</a>
+		
+		<ul id="toc-อ้างอิง-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-อรรถาธิบาย"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#อรรถาธิบาย">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">6</span>
+				<span>อรรถาธิบาย</span>
+			</div>
+		</a>
+		
+		<ul id="toc-อรรถาธิบาย-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-ตัวอย่างการนำไปใช้ในประเทศไทย"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#ตัวอย่างการนำไปใช้ในประเทศไทย">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">7</span>
+				<span>ตัวอย่างการนำไปใช้ในประเทศไทย</span>
+			</div>
+		</a>
+		
+		<ul id="toc-ตัวอย่างการนำไปใช้ในประเทศไทย-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-อ้างอิง_2"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#อ้างอิง_2">
+			<div class="vector-toc-text">
+				<span class="vector-toc-numb">8</span>
+				<span>อ้างอิง</span>
+			</div>
+		</a>
+		
+		<ul id="toc-อ้างอิง_2-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body">
+				<header class="mw-body-header vector-page-titlebar no-font-mode-scale">
+					<nav aria-label="สารบัญ" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  title="สารบัญ" >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"   >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet cdx-button__icon"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span lang="th" dir="ltr"><span class="mw-page-title-namespace">ผู้ใช้</span><span class="mw-page-title-separator">:</span><span class="mw-page-title-main">Www.pea.or.th</span></span></h1>
+			
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector"  aria-label="เพิ่มภาษา" aria-description="บทความนี้มีเฉพาะในภาษานี้ เพิ่มบทความสำหรับภาษาอื่น ๆ"  >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-0" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive cdx-button__icon"></span>
+
+<span class="vector-dropdown-label-text">เพิ่มภาษา</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="uls-after-portlet-link"></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="เนมสเปซ">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="ca-nstab-user" class="selected mw-list-item vector-tab-noicon"><a data-mw-interface  href="/wiki/%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89:Www.pea.or.th" title="ดูหน้าผู้ใช้ [c]" accesskey="c" class=""><span>หน้าผู้ใช้</span></a>
+</li>
+<li id="ca-talk" class="mw-list-item vector-tab-noicon"><a data-mw-interface  href="/wiki/%E0%B8%84%E0%B8%B8%E0%B8%A2%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89:Www.pea.or.th" rel="discussion" title="อภิปรายเกี่ยวกับหน้าเนื้อหา [t]" accesskey="t" class=""><span>อภิปราย</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="vector-variants-dropdown" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="vector-variants-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-variants-dropdown" class="vector-dropdown-checkbox " aria-label="เปลี่ยนรูปแบบภาษา"    >
+	<label id="vector-variants-dropdown-label" for="vector-variants-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">ไทย</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="ดู">
+			    
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="ca-view" class="selected mw-list-item vector-menu-item--collapsible vector-tab-noicon"><a data-mw-interface  href="/wiki/%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89:Www.pea.or.th" class=""><span>อ่าน</span></a>
+</li>
+<li id="ca-edit" class="mw-list-item vector-menu-item--collapsible vector-tab-noicon"><a data-mw-interface  href="/w/index.php?title=%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89:Www.pea.or.th&amp;action=edit" title="แก้ไขรหัสต้นฉบับของหน้านี้ [e]" accesskey="e" class=""><span>แก้ไข</span></a>
+</li>
+<li id="ca-history" class="mw-list-item vector-menu-item--collapsible vector-tab-noicon"><a data-mw-interface  href="/w/index.php?title=%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89:Www.pea.or.th&amp;action=history" title="แก้ไขเก่าของหน้านี้ [h]" accesskey="h" class=""><span>ดูประวัติ</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+			</nav>
+
+							<nav class="vector-page-tools-landmark" aria-label="หน้าเครื่องมือ">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="เครื่องมือ"   >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-verticalEllipsis mw-ui-icon-wikimedia-verticalEllipsis cdx-button__icon"></span>
+
+<span class="vector-dropdown-label-text">เครื่องมือ</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">เครื่องมือ</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin" aria-label="Move เครื่องมือ to sidebar">ย้ายเมนูไปที่แถบด้านข้าง</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin" aria-label="Hide เครื่องมือ">ซ่อน</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  >
+	<div class="vector-menu-heading">
+		การกระทำ
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="ca-view-more" class="selected mw-list-item vector-menu-item--collapsible"><a data-mw-interface  href="/wiki/%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89:Www.pea.or.th" class=""><span class="vector-icon mw-ui-icon-eye mw-ui-icon-wikimedia-eye cdx-button__icon"></span>
+
+<span>อ่าน</span></a>
+</li>
+<li id="ca-edit-more" class="mw-list-item vector-menu-item--collapsible"><a data-mw-interface  href="/w/index.php?title=%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89:Www.pea.or.th&amp;action=edit" title="แก้ไขรหัสต้นฉบับของหน้านี้ [e]" accesskey="e" class=""><span class="vector-icon mw-ui-icon-edit mw-ui-icon-wikimedia-edit cdx-button__icon"></span>
+
+<span>แก้ไข</span></a>
+</li>
+<li id="ca-history-more" class="mw-list-item vector-menu-item--collapsible"><a data-mw-interface  href="/w/index.php?title=%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89:Www.pea.or.th&amp;action=history" title="แก้ไขเก่าของหน้านี้ [h]" accesskey="h" class=""><span class="vector-icon mw-ui-icon-history mw-ui-icon-wikimedia-history cdx-button__icon"></span>
+
+<span>ดูประวัติ</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		ทั่วไป
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%E0%B8%9E%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9:%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%82%E0%B8%A2%E0%B8%87%E0%B8%A1%E0%B8%B2/%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89:Www.pea.or.th" title="รายการหน้าวิกิทุกหน้าที่ลิงก์มาที่นี่ [j]" accesskey="j"><span>หน้าที่ลิงก์มา</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%E0%B8%9E%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9:%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9B%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%9B%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%82%E0%B8%A2%E0%B8%87%E0%B8%A1%E0%B8%B2/%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89:Www.pea.or.th" rel="nofollow" title="รายการเปลี่ยนแปลงล่าสุดในหน้าที่ลิงก์จากหน้านี้ [k]" accesskey="k"><span>การเปลี่ยนแปลงที่เกี่ยวโยง</span></a></li><li id="t-contributions" class="mw-list-item"><a href="/wiki/%E0%B8%9E%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9:%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99/Www.pea.or.th" title="รายการการมีส่วนร่วมของผู้ใช้นี้"><span>เรื่องที่ผู้ใช้มีส่วนร่วม</span></a></li><li id="t-log" class="mw-list-item"><a href="/wiki/%E0%B8%9E%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9:%E0%B8%9B%E0%B8%B9%E0%B8%A1/Www.pea.or.th"><span>ปูม</span></a></li><li id="t-userrights" class="mw-list-item"><a href="/wiki/%E0%B8%9E%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9:%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89/Www.pea.or.th"><span>ดูกลุ่มผู้ใช้</span></a></li><li id="t-upload" class="mw-list-item"><a href="//th.wikipedia.org/wiki/วิกิพีเดีย:อัปโหลด" title="อัปโหลดไฟล์ [u]" accesskey="u"><span>อัปโหลดไฟล์</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89:Www.pea.or.th&amp;oldid=13250402" title="ลิงก์ถาวรมารุ่นนี้ของหน้านี้"><span>ลิงก์ถาวร</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89:Www.pea.or.th&amp;action=info" title="ข้อมูลเพิ่มเติมเกี่ยวกับหน้านี้"><span>สารสนเทศหน้า</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%E0%B8%9E%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9:UrlShortener&amp;url=https%3A%2F%2Fth.wikipedia.org%2Fwiki%2F%25E0%25B8%259C%25E0%25B8%25B9%25E0%25B9%2589%25E0%25B9%2583%25E0%25B8%258A%25E0%25B9%2589%3AWww.pea.or.th"><span>รับยูอาร์แอลแบบสั้น</span></a></li><li class="mw-list-item"><a href="/w/index.php?title=%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89:Www.pea.or.th&amp;useparsoid=0"><span>ใช้ตัวแจงส่วนเดิม</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		พิมพ์/ส่งออก
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-create_a_book" class="mw-list-item"><a href="/w/index.php?title=%E0%B8%9E%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9:%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B7%E0%B8%AD&amp;bookcmd=book_creator&amp;referer=%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89%3AWww.pea.or.th"><span>สร้างหนังสือ</span></a></li><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%E0%B8%9E%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9:DownloadAsPdf&amp;page=%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89%3AWww.pea.or.th&amp;action=show-download-screen"><span>ดาวน์โหลดเป็น PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89:Www.pea.or.th&amp;printable=yes" title="รุ่นที่พร้อมพิมพ์ของหน้านี้ [p]" accesskey="p"><span>รุ่นพร้อมพิมพ์</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects emptyPortlet"  >
+	<div class="vector-menu-heading">
+		ในโครงการอื่น
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end no-font-mode-scale">
+					<div class="vector-sticky-pinned-container">
+						<nav class="vector-page-tools-landmark" aria-label="หน้าเครื่องมือ">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-appearance-landmark" aria-label="หน้าตา">
+							<div id="vector-appearance-pinned-container" class="vector-pinned-container">
+				<div id="vector-appearance" class="vector-appearance vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-appearance-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="appearance-pinned"
+	data-pinnable-element-id="vector-appearance"
+	data-pinned-container-id="vector-appearance-pinned-container"
+	data-unpinned-container-id="vector-appearance-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">หน้าตา</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-appearance.pin" aria-label="Move หน้าตา to sidebar">ย้ายเมนูไปที่แถบด้านข้าง</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-appearance.unpin" aria-label="Hide หน้าตา">ซ่อน</button>
+</div>
+
+
+</div>
+
+							</div>
+		</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">จากวิกิพีเดีย สารานุกรมเสรี</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="th" dir="ltr" data-mw-parsoid-version="0.24.0.0-alpha21" data-mw-html-version="2.8.0"><section data-mw-section-id="0" id="mwAQ"><span class="mw-empty-elt" about="#mwt1" typeof="mw:Transclusion" id="mwAg" data-mw='{"parts":[{"template":{"target":{"wt":"ลบ","href":"./แม่แบบ:ลบ"},"params":{"1":{"wt":"ผิดวัตถุประสงค์ของหน้าผู้ใช้"}},"i":0}}]}'><style data-mw-deduplicate="TemplateStyles:r12867515" typeof="mw:Extension/templatestyles" about="#mwt2" data-mw='{"name":"templatestyles","attrs":{"src":"มอดูล:Message box/ombox.css"},"body":{"extsrc":""}}'>.mw-parser-output .ombox{margin:4px 0;border-collapse:collapse;border:1px solid #a2a9b1;background-color:var(--background-color-neutral-subtle,#f8f9fa);box-sizing:border-box;color:var(--color-base,#202122)}.mw-parser-output .ombox.mbox-small{font-size:88%;line-height:1.25em}.mw-parser-output .ombox-speedy{border:2px solid #b32424;background-color:#fee7e6}.mw-parser-output .ombox-delete{border:2px solid #b32424}.mw-parser-output .ombox-content{border:1px solid #f28500}.mw-parser-output .ombox-style{border:1px solid #fc3}.mw-parser-output .ombox-move{border:1px solid #9932cc}.mw-parser-output .ombox-protection{border:2px solid #a2a9b1}.mw-parser-output .ombox .mbox-text{border:none;padding:0.25em 0.9em;width:100%}.mw-parser-output .ombox .mbox-image{border:none;padding:2px 0 2px 0.9em;text-align:center}.mw-parser-output .ombox .mbox-imageright{border:none;padding:2px 0.9em 2px 0;text-align:center}.mw-parser-output .ombox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .mbox-invalid-type{text-align:center}@media(min-width:720px){.mw-parser-output .ombox{margin:4px 10%}.mw-parser-output .ombox.mbox-small{clear:right;float:right;margin:4px 0 4px 1em;width:238px}}body.skin--responsive .mw-parser-output table.ombox img{max-width:none!important}@media screen{html.skin-theme-clientpref-night .mw-parser-output .ombox-speedy{background-color:#310402}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .ombox-speedy{background-color:#310402}}</style></span><table class="plainlinks ombox ombox-speedy" role="presentation" style="font-size:95%;" about="#mwt1"><tbody><tr><td class="mbox-image"><span typeof="mw:File"><a href="https://th.wikipedia.org/wiki/ไฟล์:Nuvola_apps_important.png" class="mw-file-description"><img resource="https://th.wikipedia.org/wiki/ไฟล์:Nuvola_apps_important.png" src="//thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Nuvola_apps_important.png/60px-Nuvola_apps_important.png?utm_source=th.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" loading="lazy" srcset="//thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Nuvola_apps_important.png/120px-Nuvola_apps_important.png?utm_source=th.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" alt="" data-file-width="600" data-file-height="500" data-file-type="bitmap" height="42" width="50" class="mw-file-element"/></a></span></td><td class="mbox-text"><b>หน้าผู้ใช้นี้ได้รับแจ้งให้ลบ เพราะ <i>ผิดวัตถุประสงค์ของหน้าผู้ใช้</i></b> ดูเพิ่มที่ <a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/วิกิพีเดีย:DELETE" title="วิกิพีเดีย:DELETE" class="mw-redirect">นโยบายการลบ</a>และ<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/วิกิพีเดีย:CSD" title="วิกิพีเดีย:CSD" class="mw-redirect">เงื่อนไขการลบทันที</a>
+
+<p>หากหน้าผู้ใช้นี้ไม่เข้าเกณฑ์การลบ หรือคุณตั้งใจแก้ไข กรุณาลบประกาศนี้ออก แต่<b>อย่านำประกาศนี้ออกจากหน้าที่คุณสร้าง</b> หากคุณสร้างหน้านี้ และคุณไม่เห็นด้วยกับเหตุผลที่แจ้งลบ ให้กดปุ่มด้านล่างเพื่อแจงเหตุที่ไม่ควรลบลงใน<b><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/คุยกับผู้ใช้:Www.pea.or.th" title="คุยกับผู้ใช้:Www.pea.or.th">หน้าอภิปราย</a></b> คุณยังสามารถชมหน้าดังกล่าวในภายหลังเพื่อตรวจสอบว่ามีการสนองข้อความของคุณแล้วหรือยัง</p>
+
+<div class="mw-inputbox-centered" style="" typeof="mw:Extension/inputbox" about="#mwt3" data-mw='{"name":"inputbox","attrs":{},"body":{"extsrc":"\ntype=commenttitle\ndefault=คัดค้านการลบ\nhidden=yes\npreload=Template:Hangon preload\npage=คุยกับผู้ใช้:Www.pea.or.th\nbuttonlabel=คัดค้านการแจ้งลบ\nbreak=no\n"}}'><form name="commentbox" class="commentbox mw-inputbox-form-inline" action="/w/index.php" method="get"><input type="hidden" value="edit" name="action"/><input type="hidden" value="Template:Hangon preload" name="preload"/><div class="cdx-text-input"><input type="hidden" name="preloadtitle" class="commentboxInput cdx-text-input__input" value="คัดค้านการลบ" placeholder="" size="50" dir="ltr"/></div><input type="hidden" value="new" name="section"/><input type="hidden" value="คุยกับผู้ใช้:Www.pea.or.th" name="title"/> <input type="submit" name="create" value="คัดค้านการแจ้งลบ" class="cdx-button cdx-button--action-progressive cdx-button--weight-primary"/></form></div>
+
+<p>พึงทราบว่าเมื่อขึ้นประกาศนี้แล้ว หน้าผู้ใช้นี้อาจถูกลบเมื่อใดก็ได้หากเข้าเกณฑ์การลบทันทีอย่างไร้ข้อกังขา หรือพบว่าคำอธิบายที่แจ้งไปในหน้าคุยไม่เพียงพอ นอกจากนี้ หน้าที่ไม่มีผู้คัดค้านการแจ้งลบจะถูกลบ<b>หลังผ่านไปอย่างน้อย 7 วัน</b>โดยอัตโนมัติ</p>
+
+<small><span class="sysop-show"><i>ผู้ดูแลระบบ: ตรวจสอบ<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/พิเศษ:บทความที่โยงมา/ผู้ใช้:Www.pea.or.th" title="พิเศษ:บทความที่โยงมา/ผู้ใช้:Www.pea.or.th">ลิงก์</a>, <a rel="mw:ExtLink" href="https://th.wikipedia.org/w/index.php?title=%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89:Www.pea.or.th&amp;action=history" class="external text" data-mw-original-href="//th.wikipedia.org/w/index.php?title=%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89:Www.pea.or.th&amp;action=history">ประวัติ</a> (<a rel="mw:ExtLink" href="https://th.wikipedia.org/w/index.php?title=%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89:Www.pea.or.th&amp;diff=0" class="external text" data-mw-original-href="//th.wikipedia.org/w/index.php?title=%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89:Www.pea.or.th&amp;diff=0">ล่าสุด</a>) และ<a rel="mw:ExtLink" href="https://th.wikipedia.org/w/index.php?title=%E0%B8%9E%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9:Log&amp;page=%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89:Www.pea.or.th" class="external text" data-mw-original-href="//th.wikipedia.org/w/index.php?title=%E0%B8%9E%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9:Log&amp;page=%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89:Www.pea.or.th">ปูม</a>ก่อนลบ</i></span><p>หน้านี้มี<a rel="mw:ExtLink" href="https://th.wikipedia.org/w/index.php?title=%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89:Www.pea.or.th&amp;diff=cur" class="external text" data-mw-original-href="//th.wikipedia.org/w/index.php?title=%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89:Www.pea.or.th&amp;diff=cur">การแก้ไขล่าสุด</a>โดย <a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ผู้ใช้:Waniosa_Amedestir" title="ผู้ใช้:Waniosa Amedestir">Waniosa Amedestir</a> <small><span class="plainlinks">(<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/พิเศษ:เรื่องที่เขียน/Waniosa_Amedestir" title="พิเศษ:เรื่องที่เขียน/Waniosa Amedestir">ส่วนร่วม</a> | <a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/พิเศษ:ปูม/Waniosa_Amedestir" title="พิเศษ:ปูม/Waniosa Amedestir">ปูม</a>)</span></small> เมื่อเวลา 09:40, 7 กันยายน 2569 (<a rel="mw:ExtLink" href="https://th.wikipedia.org/w/index.php?title=%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89:Www.pea.or.th&amp;action=purge" class="external text" data-mw-original-href="//th.wikipedia.org/w/index.php?title=%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89:Www.pea.or.th&amp;action=purge">26 ชั่วโมงก่อน</a>)</p></small><span id="delete-reason" style="display:none">%E0%B8%9C%E0%B8%B4%E0%B8%94%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%96%E0%B8%B8%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89</span></td></tr></tbody></table><span class="mw-empty-elt" about="#mwt1"><link rel="mw:PageProp/Category" href="./หมวดหมู่:หน้าที่มีการคัดค้านการแจ้งลบ#Www.pea.or.th"/><link rel="mw:PageProp/Category" href="./หมวดหมู่:หน้าที่ถูกแจ้งลบ#Www.pea.or.th"/></span>
+<span class="mw-empty-elt" about="#mwt4" typeof="mw:Transclusion" id="mwAw" data-mw='{"parts":[{"template":{"target":{"wt":"เพิ่มอ้างอิง","href":"./แม่แบบ:เพิ่มอ้างอิง"},"params":{},"i":0}}]}'><style data-mw-deduplicate="TemplateStyles:r12867499" typeof="mw:Extension/templatestyles" about="#mwt5" data-mw='{"name":"templatestyles","attrs":{"src":"มอดูล:Message box/ambox.css"},"body":{"extsrc":""}}'>.mw-parser-output .ambox{border:1px solid #a2a9b1;border-left:10px solid #36c;background-color:#fbfbfb;box-sizing:border-box}.mw-parser-output .ambox+link+.ambox,.mw-parser-output .ambox+link+style+.ambox,.mw-parser-output .ambox+link+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+style+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+link+.ambox{margin-top:-1px}html body.mediawiki .mw-parser-output .ambox.mbox-small-left{margin:4px 1em 4px 0;overflow:hidden;width:238px;border-collapse:collapse;font-size:88%;line-height:1.25em}.mw-parser-output .ambox-speedy{border-left:10px solid #b32424;background-color:#fee7e6}.mw-parser-output .ambox-delete{border-left:10px solid #b32424}.mw-parser-output .ambox-content{border-left:10px solid #f28500}.mw-parser-output .ambox-style{border-left:10px solid #fc3}.mw-parser-output .ambox-move{border-left:10px solid #9932cc}.mw-parser-output .ambox-protection{border-left:10px solid #a2a9b1}.mw-parser-output .ambox .mbox-text{border:none;padding:0.25em 0.5em;width:100%}.mw-parser-output .ambox .mbox-image{border:none;padding:2px 0 2px 0.5em;text-align:center}.mw-parser-output .ambox .mbox-imageright{border:none;padding:2px 0.5em 2px 0;text-align:center}.mw-parser-output .ambox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .ambox .mbox-image-div{width:52px}@media(min-width:720px){.mw-parser-output .ambox{margin:0 10%}}@media print{body.ns-0 .mw-parser-output .ambox{display:none!important}}</style></span><table class="box-ปรับปรุงการอ้างอิง plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation" about="#mwt4" id="mwBA"><tbody><tr><td class="mbox-image"><div class="mbox-image-div"><span typeof="mw:File"><a href="https://th.wikipedia.org/wiki/ไฟล์:Question_book-new.svg" class="mw-file-description"><img resource="https://th.wikipedia.org/wiki/ไฟล์:Question_book-new.svg" src="//thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/60px-Question_book-new.svg.png?utm_source=th.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" loading="lazy" srcset="//thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/120px-Question_book-new.svg.png?utm_source=th.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" alt="" data-file-width="512" data-file-height="399" data-file-type="drawing" height="39" width="50" class="mw-file-element"/></a></span></div></td><td class="mbox-text"><div class="mbox-text-span">บทความนี้ยัง<b>ต้องการเพิ่ม<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/วิกิพีเดีย:การอ้างอิงแหล่งที่มา" title="วิกิพีเดีย:การอ้างอิงแหล่งที่มา">แหล่งอ้างอิง</a>เพื่อ<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/วิกิพีเดีย:การพิสูจน์ยืนยันได้" title="วิกิพีเดีย:การพิสูจน์ยืนยันได้">พิสูจน์ความถูกต้อง</a></b><span class="hide-when-compact"> คุณสามารถ<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/พิเศษ:EditPage/ผู้ใช้:Www.pea.or.th" title="พิเศษ:EditPage/ผู้ใช้:Www.pea.or.th">พัฒนาบทความนี้</a>ได้โดย<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/วิธีใช้:การอ้างอิงสำหรับผู้เริ่มต้น" title="วิธีใช้:การอ้างอิงสำหรับผู้เริ่มต้น">เพิ่มแหล่งอ้างอิงตามสมควร</a> เนื้อหาที่ขาดแหล่งอ้างอิงอาจถูกลบออก<br/><small><span class="plainlinks"><i>หาแหล่งข้อมูล:</i><span typeof="mw:Entity"> </span><a rel="mw:ExtLink nofollow" href="//www.google.com/search?as_eq=wikipedia&amp;q=%22Www.pea.or.th%22&amp;num=50" class="external text">"Www.pea.or.th"</a><span typeof="mw:Entity"> </span>–<span typeof="mw:Entity"> </span><a rel="mw:ExtLink nofollow" href="//www.google.com/search?q=%22Www.pea.or.th%22&amp;tbm=nws" class="external text">ข่าว</a> <b>·</b> <a rel="mw:ExtLink nofollow" href="//www.google.com/search?&amp;q=%22Www.pea.or.th%22+site:news.google.com/newspapers&amp;source=newspapers" class="external text">หนังสือพิมพ์</a> <b>·</b> <a rel="mw:ExtLink nofollow" href="//www.google.com/search?tbs=bks:1&amp;q=%22Www.pea.or.th%22" class="external text">หนังสือ</a> <b>·</b> <a rel="mw:ExtLink nofollow" href="//scholar.google.com/scholar?q=%22Www.pea.or.th%22" class="external text">สกอลาร์</a> <b>·</b> <a rel="mw:ExtLink nofollow" href="https://www.jstor.org/action/doBasicSearch?Query=%22Www.pea.or.th%22&amp;acc=on&amp;wc=on" class="external text">JSTOR</a></span></small></span><span class="hide-when-compact"><i> (<small><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/วิธีใช้:การนำแม่แบบบำรุงรักษาออก" title="วิธีใช้:การนำแม่แบบบำรุงรักษาออก">เรียนรู้ว่าจะนำสารแม่แบบนี้ออกได้อย่างไรและเมื่อไร</a></small>)</i></span></div></td></tr></tbody></table><span class="mw-empty-elt" about="#mwt6" typeof="mw:Transclusion" id="mwBQ" data-mw='{"parts":[{"template":{"target":{"wt":"การเมืองไทย","href":"./แม่แบบ:การเมืองไทย"},"params":{},"i":0}}]}'><style data-mw-deduplicate="TemplateStyles:r12093835" typeof="mw:Extension/templatestyles" about="#mwt7" data-mw='{"name":"templatestyles","attrs":{"src":"Hlist/styles.css"},"body":{"extsrc":""}}'>.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><style data-mw-deduplicate="TemplateStyles:r12444930" typeof="mw:Extension/templatestyles" about="#mwt8" data-mw='{"name":"templatestyles","attrs":{"src":"มอดูล:Sidebar/styles.css"},"body":{"extsrc":""}}'>.mw-parser-output .sidebar{width:22em;float:right;clear:right;margin:0.5em 0 1em 1em;background:var(--background-color-neutral-subtle,#f8f9fa);border:1px solid var(--border-color-base,#a2a9b1);padding:0.2em;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse;display:table}body.skin-minerva .mw-parser-output .sidebar{display:table!important;float:right!important;margin:0.5em 0 1em 1em!important}.mw-parser-output .sidebar-subgroup{width:100%;margin:0;border-spacing:0}.mw-parser-output .sidebar-left{float:left;clear:left;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-none{float:none;clear:both;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-outer-title{padding:0 0.4em 0.2em;font-size:125%;line-height:1.2em;font-weight:bold}.mw-parser-output .sidebar-top-image{padding:0.4em}.mw-parser-output .sidebar-top-caption,.mw-parser-output .sidebar-pretitle-with-top-image,.mw-parser-output .sidebar-caption{padding:0.2em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-pretitle{padding:0.4em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-title,.mw-parser-output .sidebar-title-with-pretitle{padding:0.2em 0.8em;font-size:145%;line-height:1.2em}.mw-parser-output .sidebar-title-with-pretitle{padding:0.1em 0.4em}.mw-parser-output .sidebar-image{padding:0.2em 0.4em 0.4em}.mw-parser-output .sidebar-heading{padding:0.1em 0.4em}.mw-parser-output .sidebar-content{padding:0 0.5em 0.4em}.mw-parser-output .sidebar-content-with-subgroup{padding:0.1em 0.4em 0.2em}.mw-parser-output .sidebar-above,.mw-parser-output .sidebar-below{padding:0.3em 0.8em;font-weight:bold}.mw-parser-output .sidebar-collapse .sidebar-above,.mw-parser-output .sidebar-collapse .sidebar-below{border-top:1px solid #aaa;border-bottom:1px solid #aaa}.mw-parser-output .sidebar-navbar{text-align:right;font-size:115%;padding:0 0.4em 0.4em}.mw-parser-output .sidebar-list-title{padding:0 0.4em;text-align:left;font-weight:bold;line-height:1.6em;font-size:105%}.mw-parser-output .sidebar-list-title-c{padding:0 0.4em;text-align:center;margin:0 3.3em}@media(max-width:640px){body.mediawiki .mw-parser-output .sidebar{width:100%!important;clear:both;float:none!important;margin-left:0!important;margin-right:0!important}}body.skin--responsive .mw-parser-output .sidebar a>img{max-width:none!important}@media screen{html.skin-theme-clientpref-night .mw-parser-output .sidebar:not(.notheme) .sidebar-list-title,html.skin-theme-clientpref-night .mw-parser-output .sidebar:not(.notheme) .sidebar-title-with-pretitle{background:transparent!important}html.skin-theme-clientpref-night .mw-parser-output .sidebar:not(.notheme) .sidebar-title-with-pretitle a{color:var(--color-progressive)!important}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .sidebar:not(.notheme) .sidebar-list-title,html.skin-theme-clientpref-os .mw-parser-output .sidebar:not(.notheme) .sidebar-title-with-pretitle{background:transparent!important}html.skin-theme-clientpref-os .mw-parser-output .sidebar:not(.notheme) .sidebar-title-with-pretitle a{color:var(--color-progressive)!important}}@media print{body.ns-0 .mw-parser-output .sidebar{display:none!important}}</style><style data-mw-deduplicate="TemplateStyles:r12102239" typeof="mw:Extension/templatestyles" about="#mwt9" data-mw='{"name":"templatestyles","attrs":{"src":"Plainlist/styles.css"},"body":{"extsrc":""}}'>.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r12102239" about="#mwt10" typeof="mw:Extension/templatestyles" data-mw='{"name":"templatestyles","attrs":{"src":"Plainlist/styles.css"},"body":{"extsrc":""}}'/></span><table class="sidebar sidebar-collapse nomobile vcard hlist" about="#mwt6" id="mwBg"><tbody><tr><td class="sidebar-pretitle">บทความนี้เป็นส่วนหนึ่งของ<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/หมวดหมู่:การเมืองไทย" title="หมวดหมู่:การเมืองไทย">ชุดบทความ</a>ว่าด้วย</td></tr><tr><th class="sidebar-title-with-pretitle"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/การเมืองไทย" title="การเมืองไทย">การเมืองไทย</a></th></tr><tr><td class="sidebar-image"><span typeof="mw:File"><a href="https://th.wikipedia.org/wiki/ไฟล์:Emblem_of_Thailand.svg" class="mw-file-description"><img resource="https://th.wikipedia.org/wiki/ไฟล์:Emblem_of_Thailand.svg" src="//thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Emblem_of_Thailand.svg/250px-Emblem_of_Thailand.svg.png?utm_source=th.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" loading="lazy" srcset="//thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Emblem_of_Thailand.svg/330px-Emblem_of_Thailand.svg.png?utm_source=th.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" data-file-width="374" data-file-height="398" data-file-type="drawing" height="144" width="135" class="mw-file-element"/></a></span></td></tr><tr><td class="sidebar-content">
+<span typeof="mw:File"><a href="https://th.wikipedia.org/wiki/ไฟล์:Thailand_flag_bar.svg" class="mw-file-description"><img resource="https://th.wikipedia.org/wiki/ไฟล์:Thailand_flag_bar.svg" src="//thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Thailand_flag_bar.svg/250px-Thailand_flag_bar.svg.png?utm_source=th.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" loading="lazy" srcset="//thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Thailand_flag_bar.svg/500px-Thailand_flag_bar.svg.png?utm_source=th.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" data-file-width="233" data-file-height="12" data-file-type="drawing" height="13" width="250" class="mw-file-element"/></a></span></td>
+</tr><tr><td class="sidebar-content">
+<div class="sidebar-list mw-collapsible mw-collapsed"><div class="sidebar-list-title" style="text-align:center; background:lavender;;color: var(--color-base)"><b><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/รัฐธรรมนูญแห่งราชอาณาจักรไทย" title="รัฐธรรมนูญแห่งราชอาณาจักรไทย">รัฐธรรมนูญ</a></b></div><div class="sidebar-list-content mw-collapsible-content" style="text-align:center;">
+<ul><li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/รัฐธรรมนูญแห่งราชอาณาจักรไทย" title="รัฐธรรมนูญแห่งราชอาณาจักรไทย">ประวัติศาสตร์</a>
+<ul><li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/รัฐธรรมนูญแห่งราชอาณาจักรไทย_พุทธศักราช_2560" title="รัฐธรรมนูญแห่งราชอาณาจักรไทย พุทธศักราช 2560">ฉบับปัจจุบัน</a></li></ul></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กฎหมายไทย" title="กฎหมายไทย">กฎหมาย</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/สิทธิมนุษยชนในประเทศไทย" title="สิทธิมนุษยชนในประเทศไทย">สิทธิมนุษยชน</a>
+<ul><li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/สิทธิของกลุ่มบุคคลที่มีความหลากหลายทางเพศในประเทศไทย" title="สิทธิของกลุ่มบุคคลที่มีความหลากหลายทางเพศในประเทศไทย">สิทธิของกลุ่ม LGBT</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ความผิดต่อองค์พระมหากษัตริย์ไทย" title="ความผิดต่อองค์พระมหากษัตริย์ไทย">ความผิดต่อองค์พระมหากษัตริย์</a></li></ul></li></ul></div></div></td>
+</tr><tr><td class="sidebar-content">
+<div class="sidebar-list mw-collapsible mw-collapsed"><div class="sidebar-list-title" style="text-align:center; background:lavender;;color: var(--color-base)"><b><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/พระมหากษัตริย์" title="พระมหากษัตริย์" class="mw-redirect">พระมหากษัตริย์</a></b></div><div class="sidebar-list-content mw-collapsible-content" style="text-align:center;"><div class="plainlist"><ul style="text-align:center;"><li><span typeof="mw:File"><a href="https://th.wikipedia.org/wiki/ไฟล์:King's_Standard_of_Thailand.svg" class="mw-file-description"><img resource="https://th.wikipedia.org/wiki/ไฟล์:King's_Standard_of_Thailand.svg" src="//thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/King%27s_Standard_of_Thailand.svg/40px-King%27s_Standard_of_Thailand.svg.png?utm_source=th.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" loading="lazy" srcset="//thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/King%27s_Standard_of_Thailand.svg/60px-King%27s_Standard_of_Thailand.svg.png?utm_source=th.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" data-file-width="6000" data-file-height="6000" data-file-type="drawing" height="30" width="30" class="mw-file-element"/></a></span><br/>
+<b><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/พระมหากษัตริย์ไทย" title="พระมหากษัตริย์ไทย">พระมหากษัตริย์</a></b><br/>
+<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/พระบาทสมเด็จพระวชิรเกล้าเจ้าอยู่หัว" title="พระบาทสมเด็จพระวชิรเกล้าเจ้าอยู่หัว">พระบาทสมเด็จพระวชิรเกล้าเจ้าอยู่หัว</a><br/>
+<span typeof="mw:File"><a href="https://th.wikipedia.org/wiki/ไฟล์:Crown_Prince's_Standard_of_Thailand.svg" class="mw-file-description"><img resource="https://th.wikipedia.org/wiki/ไฟล์:Crown_Prince's_Standard_of_Thailand.svg" src="//thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Crown_Prince%27s_Standard_of_Thailand.svg/40px-Crown_Prince%27s_Standard_of_Thailand.svg.png?utm_source=th.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" loading="lazy" srcset="//thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Crown_Prince%27s_Standard_of_Thailand.svg/60px-Crown_Prince%27s_Standard_of_Thailand.svg.png?utm_source=th.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" data-file-width="6000" data-file-height="6000" data-file-type="drawing" height="30" width="30" class="mw-file-element"/></a></span><br/>
+<b><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/สยามมกุฎราชกุมาร" title="สยามมกุฎราชกุมาร">รัชทายาท</a></b><br/>
+<i>ว่าง</i></li></ul></div>
+<hr/>
+<ul><li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ราชวงศ์จักรี" title="ราชวงศ์จักรี">ราชวงศ์จักรี</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กฎมณเฑียรบาลว่าด้วยการสืบราชสันตติวงศ์_พระพุทธศักราช_2467" title="กฎมณเฑียรบาลว่าด้วยการสืบราชสันตติวงศ์ พระพุทธศักราช 2467">การสืบราชสันตติวงศ์</a>
+<ul><li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ลำดับการสืบราชสันตติวงศ์ไทย" title="ลำดับการสืบราชสันตติวงศ์ไทย">ลำดับ</a></li></ul></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ผู้สำเร็จราชการแทนพระองค์_(ประเทศไทย)" title="ผู้สำเร็จราชการแทนพระองค์ (ประเทศไทย)">ผู้สำเร็จราชการแทนพระองค์</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/คณะองคมนตรีไทย" title="คณะองคมนตรีไทย">คณะองคมนตรี</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/หน่วยราชการในพระองค์" title="หน่วยราชการในพระองค์">หน่วยราชการในพระองค์</a>
+<ul><li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/สำนักงานองคมนตรี" title="สำนักงานองคมนตรี">สำนักงานองคมนตรี</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/สำนักพระราชวัง" title="สำนักพระราชวัง">สำนักพระราชวัง</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/หน่วยบัญชาการถวายความปลอดภัยรักษาพระองค์" title="หน่วยบัญชาการถวายความปลอดภัยรักษาพระองค์">หน่วยบัญชาการถวายความปลอดภัยรักษาพระองค์</a></li></ul></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/สำนักงานพระคลังข้างที่" title="สำนักงานพระคลังข้างที่">สำนักงานพระคลังข้างที่</a></li></ul></div></div></td>
+</tr><tr><td class="sidebar-content">
+<div class="sidebar-list mw-collapsible mw-collapsed"><div class="sidebar-list-title" style="text-align:center; background:lavender;;color: var(--color-base)"><b><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/รัฐบาลไทย" title="รัฐบาลไทย">ฝ่ายบริหาร</a></b></div><div class="sidebar-list-content mw-collapsible-content" style="text-align:center;"><span typeof="mw:File"><a href="https://th.wikipedia.org/wiki/ไฟล์:Seal_of_the_Cabinet_of_Thailand.svg" class="mw-file-description"><img resource="https://th.wikipedia.org/wiki/ไฟล์:Seal_of_the_Cabinet_of_Thailand.svg" src="//thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Seal_of_the_Cabinet_of_Thailand.svg/40px-Seal_of_the_Cabinet_of_Thailand.svg.png?utm_source=th.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" loading="lazy" srcset="//thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Seal_of_the_Cabinet_of_Thailand.svg/60px-Seal_of_the_Cabinet_of_Thailand.svg.png?utm_source=th.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" data-file-width="512" data-file-height="469" data-file-type="drawing" height="27" width="30" class="mw-file-element"/></a></span>
+<ul><li><b><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/นายกรัฐมนตรีไทย" title="นายกรัฐมนตรีไทย">นายกรัฐมนตรี</a></b> (<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/รายชื่อนายกรัฐมนตรีไทย" title="รายชื่อนายกรัฐมนตรีไทย">รายชื่อ</a>)</li></ul>
+<p><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/อนุทิน_ชาญวีรกูล" title="อนุทิน ชาญวีรกูล">อนุทิน ชาญวีรกูล</a> (<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/พรรคภูมิใจไทย" title="พรรคภูมิใจไทย">ภท.</a>)</p>
+
+<ul><li><b><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/รองนายกรัฐมนตรีไทย" title="รองนายกรัฐมนตรีไทย" class="mw-redirect">รองนายกรัฐมนตรี</a></b></li></ul>
+<p><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/พิพัฒน์_รัชกิจประการ" title="พิพัฒน์ รัชกิจประการ">พิพัฒน์ รัชกิจประการ</a> (<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/พรรคภูมิใจไทย" title="พรรคภูมิใจไทย">ภท.</a>) <br/>
+<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ทรงศักดิ์_ทองศรี" title="ทรงศักดิ์ ทองศรี">ทรงศักดิ์ ทองศรี</a> (<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/พรรคภูมิใจไทย" title="พรรคภูมิใจไทย">ภท.</a>)<br/>
+<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/เอกนิติ_นิติทัณฑ์ประภาศ" title="เอกนิติ นิติทัณฑ์ประภาศ">เอกนิติ นิติทัณฑ์ประภาศ</a> (<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/พรรคภูมิใจไทย" title="พรรคภูมิใจไทย">ภท.</a>) <br/>
+<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/สีหศักดิ์_พวงเกตุแก้ว" title="สีหศักดิ์ พวงเกตุแก้ว">สีหศักดิ์ พวงเกตุแก้ว</a> (<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/พรรคภูมิใจไทย" title="พรรคภูมิใจไทย">ภท.</a>)<br/>
+<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ศุภจี_สุธรรมพันธุ์" title="ศุภจี สุธรรมพันธุ์">ศุภจี สุธรรมพันธุ์</a> (<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/พรรคภูมิใจไทย" title="พรรคภูมิใจไทย">ภท.</a>)<br/>
+<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ปกรณ์_นิลประพันธ์" title="ปกรณ์ นิลประพันธ์">ปกรณ์ นิลประพันธ์</a>  (<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/นักการเมืองอิสระ" title="นักการเมืองอิสระ">อิสระ</a>) <br/>
+<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ยศชนัน_วงศ์สวัสดิ์" title="ยศชนัน วงศ์สวัสดิ์">ยศชนัน วงศ์สวัสดิ์</a>  (<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/พรรคเพื่อไทย" title="พรรคเพื่อไทย">พท.</a>)</p>
+<hr/>
+<p><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/คณะรัฐมนตรีไทย_คณะที่_66" title="คณะรัฐมนตรีไทย คณะที่ 66">คณะรัฐมนตรี คณะที่ 66</a></p>
+<hr/>
+<ul><li><b><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/คณะรัฐมนตรีไทย" title="คณะรัฐมนตรีไทย">คณะรัฐมนตรี</a></b>
+<ul><li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กระทรวงในประเทศไทย" title="กระทรวงในประเทศไทย">กระทรวง</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/องค์กรตามรัฐธรรมนูญแห่งราชอาณาจักรไทย" title="องค์กรตามรัฐธรรมนูญแห่งราชอาณาจักรไทย">องค์กรตามรัฐธรรมนูญ</a></li></ul></li></ul></div></div></td>
+</tr><tr><td class="sidebar-content">
+<div class="sidebar-list mw-collapsible mw-collapsed"><div class="sidebar-list-title" style="text-align:center; background:lavender;;color: var(--color-base)"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/รัฐสภาไทย" title="รัฐสภาไทย">ฝ่ายนิติบัญญัติ</a></div><div class="sidebar-list-content mw-collapsible-content" style="text-align:center;"><span typeof="mw:File"><a href="https://th.wikipedia.org/wiki/ไฟล์:Seal_of_the_Parliament_of_Thailand.svg" class="mw-file-description"><img resource="https://th.wikipedia.org/wiki/ไฟล์:Seal_of_the_Parliament_of_Thailand.svg" src="//thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Seal_of_the_Parliament_of_Thailand.svg/40px-Seal_of_the_Parliament_of_Thailand.svg.png?utm_source=th.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" loading="lazy" srcset="//thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Seal_of_the_Parliament_of_Thailand.svg/60px-Seal_of_the_Parliament_of_Thailand.svg.png?utm_source=th.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" data-file-width="500" data-file-height="500" data-file-type="drawing" height="30" width="30" class="mw-file-element"/></a></span>
+<ul><li><b><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ประธานรัฐสภาไทย" title="ประธานรัฐสภาไทย">ประธานรัฐสภา</a></b> (<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/รายชื่อประธานรัฐสภาไทย" title="รายชื่อประธานรัฐสภาไทย">รายชื่อ</a>)<br/></li></ul>
+<p><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/โสภณ_ซารัมย์" title="โสภณ ซารัมย์">โสภณ ซารัมย์</a></p>
+
+<ul><li><b><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/รายชื่อประธานวุฒิสภาไทย" title="รายชื่อประธานวุฒิสภาไทย">รองประธานรัฐสภา</a></b><br/></li></ul>
+<p><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/มงคล_สุระสัจจะ" title="มงคล สุระสัจจะ">มงคล สุระสัจจะ</a></p>
+<hr/>
+<ul><li><b><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/วุฒิสภาไทย" title="วุฒิสภาไทย">วุฒิสภา</a></b></li></ul>
+<p><span typeof="mw:File"><a href="https://th.wikipedia.org/wiki/ไฟล์:Thailand_Parliament_2019_(V2).svg" class="mw-file-description"><img resource="https://th.wikipedia.org/wiki/ไฟล์:Thailand_Parliament_2019_(V2).svg" src="//thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Thailand_Parliament_2019_%28V2%29.svg/60px-Thailand_Parliament_2019_%28V2%29.svg.png?utm_source=th.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" loading="lazy" srcset="//thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Thailand_Parliament_2019_%28V2%29.svg/120px-Thailand_Parliament_2019_%28V2%29.svg.png?utm_source=th.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" data-file-width="360" data-file-height="185" data-file-type="drawing" height="26" width="50" class="mw-file-element"/></a></span></p>
+<ul><li><b><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/รายชื่อประธานวุฒิสภาไทย" title="รายชื่อประธานวุฒิสภาไทย">ประธาน</a></b><br/></li></ul>
+<p><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/มงคล_สุระสัจจะ" title="มงคล สุระสัจจะ">มงคล สุระสัจจะ</a></p>
+
+<ul><li><b><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/รายชื่อรองประธานวุฒิสภาไทย" title="รายชื่อรองประธานวุฒิสภาไทย">รองประธาน</a></b><br/></li></ul>
+<p>พลเอก <a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/เกรียงไกร_ศรีรักษ์" title="เกรียงไกร ศรีรักษ์">เกรียงไกร ศรีรักษ์</a><br/>
+<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/บุญส่ง_น้อยโสภณ" title="บุญส่ง น้อยโสภณ">บุญส่ง น้อยโสภณ</a></p>
+<hr/>
+<ul><li><b><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/สภาผู้แทนราษฎรไทย" title="สภาผู้แทนราษฎรไทย">สภาผู้แทนราษฎร</a></b></li></ul>
+<p><span typeof="mw:File"><a href="https://th.wikipedia.org/wiki/ไฟล์:2026_Thailand_Political_groups.svg" class="mw-file-description"><img resource="https://th.wikipedia.org/wiki/ไฟล์:2026_Thailand_Political_groups.svg" src="//thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/2026_Thailand_Political_groups.svg/60px-2026_Thailand_Political_groups.svg.png?utm_source=th.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" loading="lazy" srcset="//thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/2026_Thailand_Political_groups.svg/120px-2026_Thailand_Political_groups.svg.png?utm_source=th.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" data-file-width="360" data-file-height="185" data-file-type="drawing" height="26" width="50" class="mw-file-element"/></a></span></p>
+<ul><li><b><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ประธานสภาผู้แทนราษฎรไทย" title="ประธานสภาผู้แทนราษฎรไทย">ประธาน</a></b><br/></li></ul>
+<p><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/โสภณ_ซารัมย์" title="โสภณ ซารัมย์">โสภณ ซารัมย์</a></p>
+
+<ul><li><b><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/รายชื่อรองประธานสภาผู้แทนราษฎรไทย" title="รายชื่อรองประธานสภาผู้แทนราษฎรไทย">รองประธาน</a></b><br/></li></ul>
+<p><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/มัลลิกา_จิระพันธุ์วาณิช" title="มัลลิกา จิระพันธุ์วาณิช">มัลลิกา จิระพันธุ์วาณิช</a><br/><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/เลิศศักดิ์_พัฒนชัยกุล" title="เลิศศักดิ์ พัฒนชัยกุล">เลิศศักดิ์ พัฒนชัยกุล</a></p>
+
+<ul><li><b><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/รายชื่อผู้นำฝ่ายค้านในสภาผู้แทนราษฎรไทย" title="รายชื่อผู้นำฝ่ายค้านในสภาผู้แทนราษฎรไทย">ผู้นำฝ่ายค้าน</a></b><br/></li></ul>
+<p><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ณัฐพงษ์_เรืองปัญญาวุฒิ" title="ณัฐพงษ์ เรืองปัญญาวุฒิ">ณัฐพงษ์ เรืองปัญญาวุฒิ</a></p>
+<hr/>
+<ul><li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/วุฒิสภาไทย_ชุดที่_13" title="วุฒิสภาไทย ชุดที่ 13">วุฒิสภา ชุดที่ 13</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/สภาผู้แทนราษฎรไทย_ชุดที่_27" title="สภาผู้แทนราษฎรไทย ชุดที่ 27">สภาผู้แทนราษฎร ชุดที่ 27</a></li></ul></div></div></td>
+</tr><tr><td class="sidebar-content">
+<div class="sidebar-list mw-collapsible mw-collapsed"><div class="sidebar-list-title" style="text-align:center; background:lavender;;color: var(--color-base)"><b><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ศาลไทย" title="ศาลไทย">ฝ่ายตุลาการ</a></b></div><div class="sidebar-list-content mw-collapsible-content" style="text-align:center;"><span typeof="mw:File"><a href="https://th.wikipedia.org/wiki/ไฟล์:Emblem_of_Court_of_Justice_Thailand.png" class="mw-file-description"><img resource="https://th.wikipedia.org/wiki/ไฟล์:Emblem_of_Court_of_Justice_Thailand.png" src="//thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Emblem_of_Court_of_Justice_Thailand.png/40px-Emblem_of_Court_of_Justice_Thailand.png?utm_source=th.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" loading="lazy" srcset="//thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Emblem_of_Court_of_Justice_Thailand.png/60px-Emblem_of_Court_of_Justice_Thailand.png?utm_source=th.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" data-file-width="604" data-file-height="819" data-file-type="bitmap" height="41" width="30" class="mw-file-element"/></a></span>
+<ul><li><b><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ศาลฎีกา" title="ศาลฎีกา">ศาลฎีกา</a></b></li></ul>
+<p><b><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ประธานศาลฎีกาไทย" title="ประธานศาลฎีกาไทย" class="mw-redirect">ประธานศาล</a></b> (<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/รายพระนามและชื่ออธิบดีศาลฎีกาและประธานศาลฎีกา" title="รายพระนามและชื่ออธิบดีศาลฎีกาและประธานศาลฎีกา">รายชื่อ</a>)<span typeof="mw:DisplaySpace"> </span>: อดิศักดิ์ ตันติวงศ์</p>
+
+<ul><li><b><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ศาลปกครอง_(ประเทศไทย)" title="ศาลปกครอง (ประเทศไทย)">ศาลปกครองสูงสุด</a></b></li></ul>
+<p><b><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ศาลปกครอง_(ประเทศไทย)#รายนามประธานศาลปกครองสูงสุดของไทย" title="ศาลปกครอง (ประเทศไทย)">ประธานศาล</a></b><span typeof="mw:DisplaySpace"> </span>: ประสิทธิ์ศักดิ์ มีลาภ</p>
+
+<ul><li><b><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ศาลรัฐธรรมนูญ_(ประเทศไทย)" title="ศาลรัฐธรรมนูญ (ประเทศไทย)">ศาลรัฐธรรมนูญ</a></b></li></ul>
+<p><b><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/คณะตุลาการศาลรัฐธรรมนูญ_(ประเทศไทย)#รายชื่อประธานศาลรัฐธรรมนูญตามรัฐธรรมนูญแห่งราชอาณาจักรไทย_พ.ศ._2560" title="คณะตุลาการศาลรัฐธรรมนูญ (ประเทศไทย)">ประธานศาล</a></b><span typeof="mw:DisplaySpace"> </span>: <a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/นครินทร์_เมฆไตรรัตน์" title="นครินทร์ เมฆไตรรัตน์">นครินทร์ เมฆไตรรัตน์</a></p>
+<hr/>
+<ul><li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ศาลอาญา_(ประเทศไทย)" title="ศาลอาญา (ประเทศไทย)">ศาลอาญา</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ศาลทหาร_(ประเทศไทย)" title="ศาลทหาร (ประเทศไทย)">ศาลทหาร</a></li></ul></div></div></td>
+</tr><tr><td class="sidebar-content">
+<div class="sidebar-list mw-collapsible mw-collapsed"><div class="sidebar-list-title" style="text-align:center; background:lavender;;color: var(--color-base)"><b><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/การเลือกตั้งในประเทศไทย" title="การเลือกตั้งในประเทศไทย">การเลือกตั้งและการทำประชามติ</a></b></div><div class="sidebar-list-content mw-collapsible-content" style="text-align:center;">การเลือกตั้งล่าสุด
+<ul><li><b>การเลือกตั้งสมาชิกสภาผู้แทนราษฎร<br/>เป็นการทั่วไป</b></li></ul>
+
+<ul><li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/การเลือกตั้งสมาชิกสภาผู้แทนราษฎรไทยเป็นการทั่วไป_พ.ศ._2554" title="การเลือกตั้งสมาชิกสภาผู้แทนราษฎรไทยเป็นการทั่วไป พ.ศ. 2554">2554</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/การเลือกตั้งสมาชิกสภาผู้แทนราษฎรไทยเป็นการทั่วไป_พ.ศ._2557" title="การเลือกตั้งสมาชิกสภาผู้แทนราษฎรไทยเป็นการทั่วไป พ.ศ. 2557">2557</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/การเลือกตั้งสมาชิกสภาผู้แทนราษฎรไทยเป็นการทั่วไป_พ.ศ._2562" title="การเลือกตั้งสมาชิกสภาผู้แทนราษฎรไทยเป็นการทั่วไป พ.ศ. 2562">2562</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/การเลือกตั้งสมาชิกสภาผู้แทนราษฎรไทยเป็นการทั่วไป_พ.ศ._2566" title="การเลือกตั้งสมาชิกสภาผู้แทนราษฎรไทยเป็นการทั่วไป พ.ศ. 2566">2566</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/การเลือกตั้งสมาชิกสภาผู้แทนราษฎรไทยเป็นการทั่วไป_พ.ศ._2569" title="การเลือกตั้งสมาชิกสภาผู้แทนราษฎรไทยเป็นการทั่วไป พ.ศ. 2569">2569</a></li></ul>
+<hr/>
+<ul><li><b>การเลือกตั้งสมาชิกวุฒิสภา<br/>เป็นการทั่วไป</b></li></ul>
+
+<ul><li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/การเลือกตั้งสมาชิกวุฒิสภาไทยเป็นการทั่วไป_พ.ศ._2543" title="การเลือกตั้งสมาชิกวุฒิสภาไทยเป็นการทั่วไป พ.ศ. 2543">2543</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/การเลือกตั้งสมาชิกวุฒิสภาไทยเป็นการทั่วไป_พ.ศ._2549" title="การเลือกตั้งสมาชิกวุฒิสภาไทยเป็นการทั่วไป พ.ศ. 2549">2549</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/การเลือกตั้งสมาชิกวุฒิสภาไทยเป็นการทั่วไป_พ.ศ._2551" title="การเลือกตั้งสมาชิกวุฒิสภาไทยเป็นการทั่วไป พ.ศ. 2551">2551</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/การเลือกตั้งสมาชิกวุฒิสภาไทยเป็นการทั่วไป_พ.ศ._2557" title="การเลือกตั้งสมาชิกวุฒิสภาไทยเป็นการทั่วไป พ.ศ. 2557">2557</a></li></ul>
+
+<ul><li><i>การเลือก</i>: <a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/การเลือกสมาชิกวุฒิสภาไทย_พ.ศ._2567" title="การเลือกสมาชิกวุฒิสภาไทย พ.ศ. 2567">2567</a>
+<ul><li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/คดีฮั้ว_สว." title="คดีฮั้ว สว.">คดีฮั้ว</a></li></ul></li></ul>
+<hr/>
+<ul><li><b>การลงประชามติ</b></li></ul>
+
+<ul><li>ร่างรัฐธรรมนูญ
+<ul><li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/การลงประชามติร่างรัฐธรรมนูญไทย_พ.ศ._2550" title="การลงประชามติร่างรัฐธรรมนูญไทย พ.ศ. 2550">2550</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/การลงประชามติร่างรัฐธรรมนูญไทย_พ.ศ._2559" title="การลงประชามติร่างรัฐธรรมนูญไทย พ.ศ. 2559">2559</a></li></ul></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/การลงประชามติแก้ไขรัฐธรรมนูญไทย_พ.ศ._2569" title="การลงประชามติแก้ไขรัฐธรรมนูญไทย พ.ศ. 2569">แก้ไขรัฐธรรมนูญ 2569</a></li></ul>
+<hr/>
+<ul><li><b>การเลือกตั้งท้องถิ่น</b></li></ul>
+
+<ul><li><b>ระดับบน</b></li></ul>
+
+<ul><li>กรุงเทพมหานคร
+<ul><li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/การเลือกตั้งผู้ว่าราชการกรุงเทพมหานคร_พ.ศ._2565" title="การเลือกตั้งผู้ว่าราชการกรุงเทพมหานคร พ.ศ. 2565">ผู้ว่าราชการ</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/การเลือกตั้งสมาชิกสภากรุงเทพมหานคร_พ.ศ._2565" title="การเลือกตั้งสมาชิกสภากรุงเทพมหานคร พ.ศ. 2565">ส.ก.</a></li></ul></li>
+<li>องค์การบริหารส่วนจังหวัด
+<ul><li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/การเลือกตั้งนายกองค์การบริหารส่วนจังหวัดในประเทศไทย_พ.ศ._2563" title="การเลือกตั้งนายกองค์การบริหารส่วนจังหวัดในประเทศไทย พ.ศ. 2563">นายก</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/การเลือกตั้งสมาชิกสภาองค์การบริหารส่วนจังหวัดในประเทศไทย_พ.ศ._2563?action=edit&amp;redlink=1" title="การเลือกตั้งสมาชิกสภาองค์การบริหารส่วนจังหวัดในประเทศไทย พ.ศ. 2563 (ไม่มีหน้านี้)" class="new" typeof="mw:LocalizedAttrs" data-mw-i18n='{"title":{"lang":"x-page","key":"red-link-title","params":["การเลือกตั้งสมาชิกสภาองค์การบริหารส่วนจังหวัดในประเทศไทย พ.ศ. 2563"]}}'>ส.อบจ.</a></li></ul></li></ul>
+
+<ul><li><b>ระดับล่าง</b></li></ul>
+
+<ul><li>เทศบาล
+<ul><li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/การเลือกตั้งนายกเทศมนตรีในประเทศไทย_พ.ศ._2563?action=edit&amp;redlink=1" title="การเลือกตั้งนายกเทศมนตรีในประเทศไทย พ.ศ. 2563 (ไม่มีหน้านี้)" class="new" typeof="mw:LocalizedAttrs" data-mw-i18n='{"title":{"lang":"x-page","key":"red-link-title","params":["การเลือกตั้งนายกเทศมนตรีในประเทศไทย พ.ศ. 2563"]}}'>นายก</a></li></ul></li>
+<li>เมืองพัทยา
+<ul><li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/การเลือกตั้งนายกเมืองพัทยา_พ.ศ._2565" title="การเลือกตั้งนายกเมืองพัทยา พ.ศ. 2565">นายก</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/การเลือกตั้งสมาชิกสภาเมืองพัทยา_พ.ศ._2565?action=edit&amp;redlink=1" title="การเลือกตั้งสมาชิกสภาเมืองพัทยา พ.ศ. 2565 (ไม่มีหน้านี้)" class="new" typeof="mw:LocalizedAttrs" data-mw-i18n='{"title":{"lang":"x-page","key":"red-link-title","params":["การเลือกตั้งสมาชิกสภาเมืองพัทยา พ.ศ. 2565"]}}'>ส.ม.</a></li></ul></li>
+<li>องค์การบริหารส่วนตำบล
+<ul><li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/การเลือกตั้งนายกองค์การบริหารส่วนตำบลในประเทศไทย_พ.ศ._2563?action=edit&amp;redlink=1" title="การเลือกตั้งนายกองค์การบริหารส่วนตำบลในประเทศไทย พ.ศ. 2563 (ไม่มีหน้านี้)" class="new" typeof="mw:LocalizedAttrs" data-mw-i18n='{"title":{"lang":"x-page","key":"red-link-title","params":["การเลือกตั้งนายกองค์การบริหารส่วนตำบลในประเทศไทย พ.ศ. 2563"]}}'>นายก</a></li></ul></li></ul>
+<hr/>
+<ul><li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/รายชื่อพรรคการเมืองในประเทศไทย" title="รายชื่อพรรคการเมืองในประเทศไทย">พรรคการเมือง</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/พระราชบัญญัติประกอบรัฐธรรมนูญว่าด้วยพรรคการเมือง_พ.ศ._2560" title="พระราชบัญญัติประกอบรัฐธรรมนูญว่าด้วยพรรคการเมือง พ.ศ. 2560">พระราชบัญญัติประกอบรัฐธรรมนูญว่าด้วยพรรคการเมือง พ.ศ. 2560</a></li></ul></div></div></td>
+</tr><tr><td class="sidebar-content">
+<div class="sidebar-list mw-collapsible mw-collapsed"><div class="sidebar-list-title" style="text-align:center; background:lavender;;color: var(--color-base)"><b><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/การแบ่งเขตการปกครองของประเทศไทย" title="การแบ่งเขตการปกครองของประเทศไทย" class="mw-redirect">การแบ่งเขตการปกครอง</a></b></div><div class="sidebar-list-content mw-collapsible-content" style="text-align:center;"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กระทรวงมหาดไทย_(ประเทศไทย)" title="กระทรวงมหาดไทย (ประเทศไทย)">กระทรวงมหาดไทย</a>
+
+<ul><li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ภูมิภาคของประเทศไทย" title="ภูมิภาคของประเทศไทย">ภูมิภาค</a></li></ul>
+
+<ul><li><b><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ราชการส่วนภูมิภาค_(ประเทศไทย)" title="ราชการส่วนภูมิภาค (ประเทศไทย)">การปกครองส่วนภูมิภาค</a></b></li></ul>
+
+<ul><li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/จังหวัดในประเทศไทย" title="จังหวัดในประเทศไทย" class="mw-redirect">จังหวัด</a> (<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ผู้ว่าราชการจังหวัด?action=edit&amp;redlink=1" title="ผู้ว่าราชการจังหวัด (ไม่มีหน้านี้)" class="new" typeof="mw:LocalizedAttrs" data-mw-i18n='{"title":{"lang":"x-page","key":"red-link-title","params":["ผู้ว่าราชการจังหวัด"]}}'>ผู้ว่าราชการ</a>)</li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/อำเภอ" title="อำเภอ">อำเภอ</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ตำบล" title="ตำบล">ตำบล</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/หมู่บ้าน_(ประเทศไทย)" title="หมู่บ้าน (ประเทศไทย)">หมู่บ้าน</a></li></ul>
+<hr/>
+<ul><li><b>การปกครองส่วนท้องถิ่น</b></li></ul>
+
+<ul><li><b><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ราชการส่วนท้องถิ่น_(ประเทศไทย)" title="ราชการส่วนท้องถิ่น (ประเทศไทย)">รูปแบบทั่วไป</a></b></li></ul>
+
+<ul><li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/องค์การบริหารส่วนจังหวัด" title="องค์การบริหารส่วนจังหวัด">องค์การบริหารส่วนจังหวัด</a>
+<ul><li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/นายกองค์การบริหารส่วนจังหวัด" title="นายกองค์การบริหารส่วนจังหวัด">นายก</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/สภาองค์การบริหารส่วนจังหวัด?action=edit&amp;redlink=1" title="สภาองค์การบริหารส่วนจังหวัด (ไม่มีหน้านี้)" class="new" typeof="mw:LocalizedAttrs" data-mw-i18n='{"title":{"lang":"x-page","key":"red-link-title","params":["สภาองค์การบริหารส่วนจังหวัด"]}}'>สภา</a></li></ul></li></ul>
+
+<ul><li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/เทศบาลในประเทศไทย" title="เทศบาลในประเทศไทย">เทศบาล</a>
+<ul><li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/เทศบาลนครในประเทศไทย" title="เทศบาลนครในประเทศไทย">นคร</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/เทศบาลเมือง" title="เทศบาลเมือง">เมือง</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/เทศบาลตำบล" title="เทศบาลตำบล">ตำบล</a></li></ul></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/องค์การบริหารส่วนตำบล" title="องค์การบริหารส่วนตำบล">องค์การบริหารส่วนตำบล</a></li></ul>
+
+<ul><li><b><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/องค์กรปกครองส่วนท้องถิ่นรูปแบบพิเศษ" title="องค์กรปกครองส่วนท้องถิ่นรูปแบบพิเศษ">รูปแบบพิเศษ</a></b></li></ul>
+
+<ul><li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กรุงเทพมหานคร_(องค์กรปกครองส่วนท้องถิ่น)" title="กรุงเทพมหานคร (องค์กรปกครองส่วนท้องถิ่น)">กรุงเทพมหานคร</a>
+<ul><li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ผู้ว่าราชการกรุงเทพมหานคร" title="ผู้ว่าราชการกรุงเทพมหานคร">ผู้ว่าราชการ</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/สภากรุงเทพมหานคร" title="สภากรุงเทพมหานคร">สภา</a></li></ul></li></ul>
+
+<ul><li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/เมืองพัทยา" title="เมืองพัทยา">เมืองพัทยา</a>
+<ul><li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/นายกเมืองพัทยา" title="นายกเมืองพัทยา">นายก</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/สภาเมืองพัทยา" title="สภาเมืองพัทยา">สภา</a></li></ul></li></ul></div></div></td>
+</tr><tr><td class="sidebar-content">
+<div class="sidebar-list mw-collapsible mw-collapsed"><div class="sidebar-list-title" style="text-align:center; background:lavender;;color: var(--color-base)"><b><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ความสัมพันธ์ระหว่างประเทศของไทย" title="ความสัมพันธ์ระหว่างประเทศของไทย" class="mw-redirect">ความสัมพันธ์ระหว่างประเทศ</a></b></div><div class="sidebar-list-content mw-collapsible-content" style="text-align:center;"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กระทรวงการต่างประเทศ_(ประเทศไทย)" title="กระทรวงการต่างประเทศ (ประเทศไทย)">กระทรวงการต่างประเทศ</a>
+<hr/>
+<ul><li>คณะผู้แทนทางทูต
+<ul><li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/คณะผู้แทนทางทูตของประเทศไทย" title="คณะผู้แทนทางทูตของประเทศไทย">ของไทย</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/คณะผู้แทนทางทูตในประเทศไทย" title="คณะผู้แทนทางทูตในประเทศไทย">ในไทย</a></li></ul></li></ul>
+<hr/>
+<ul><li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/หนังสือเดินทางไทย" title="หนังสือเดินทางไทย">หนังสือเดินทาง</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ข้อกำหนดการตรวจลงตราสำหรับพลเมืองไทย" title="ข้อกำหนดการตรวจลงตราสำหรับพลเมืองไทย">ข้อกำหนดการตรวจลงตรา</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/นโยบายการขอรับลงตราของประเทศไทย" title="นโยบายการขอรับลงตราของประเทศไทย">นโยบายการขอรับลงตรา</a></li></ul>
+<hr/>
+<p>ชายแดน<span typeof="mw:DisplaySpace"> </span>: <a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ชายแดนไทย–กัมพูชา" title="ชายแดนไทย–กัมพูชา">กัมพูชา</a> <a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ชายแดนไทย–ลาว" title="ชายแดนไทย–ลาว">ลาว</a> <a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ชายแดนพม่า–ไทย" title="ชายแดนพม่า–ไทย">พม่า</a> <a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ชายแดนมาเลเซีย–ไทย" title="ชายแดนมาเลเซีย–ไทย">มาเลเซีย</a> (ทางทะเล<span typeof="mw:DisplaySpace"> </span>: <a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ชายแดนอินเดีย–ไทย?action=edit&amp;redlink=1" title="ชายแดนอินเดีย–ไทย (ไม่มีหน้านี้)" class="new" typeof="mw:LocalizedAttrs" data-mw-i18n='{"title":{"lang":"x-page","key":"red-link-title","params":["ชายแดนอินเดีย–ไทย"]}}'>อินเดีย</a> <a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ชายแดนอินโดนีเซีย–ไทย?action=edit&amp;redlink=1" title="ชายแดนอินโดนีเซีย–ไทย (ไม่มีหน้านี้)" class="new" typeof="mw:LocalizedAttrs" data-mw-i18n='{"title":{"lang":"x-page","key":"red-link-title","params":["ชายแดนอินโดนีเซีย–ไทย"]}}'>อินโดนีเซีย</a> <a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ชายแดนไทย–เวียดนาม" title="ชายแดนไทย–เวียดนาม">เวียดนาม</a>)</p>
+<hr/>
+<p><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ความช่วยเหลือจากต่างประเทศแก่ประเทศไทย?action=edit&amp;redlink=1" title="ความช่วยเหลือจากต่างประเทศแก่ประเทศไทย (ไม่มีหน้านี้)" class="new" typeof="mw:LocalizedAttrs" data-mw-i18n='{"title":{"lang":"x-page","key":"red-link-title","params":["ความช่วยเหลือจากต่างประเทศแก่ประเทศไทย"]}}'>ความช่วยเหลือจากต่างประเทศ</a></p>
+<hr/>
+<ul><li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ประเทศไทยและสหประชาชาติ" title="ประเทศไทยและสหประชาชาติ" class="mw-redirect">ประเทศไทยและสหประชาชาติ</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/อาเซียน" title="อาเซียน" class="mw-redirect">อาเซียน</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กรอบความร่วมมือเอเชีย?action=edit&amp;redlink=1" title="กรอบความร่วมมือเอเชีย (ไม่มีหน้านี้)" class="new" typeof="mw:LocalizedAttrs" data-mw-i18n='{"title":{"lang":"x-page","key":"red-link-title","params":["กรอบความร่วมมือเอเชีย"]}}'>กรอบความร่วมมือเอเชีย</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/บิมสเทค" title="บิมสเทค">บิมสเทค</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/คณะกรรมาธิการแม่น้ำโขง" title="คณะกรรมาธิการแม่น้ำโขง">คณะกรรมาธิการแม่น้ำโขง</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/การประชุมสุดยอดเอเชียตะวันออก" title="การประชุมสุดยอดเอเชียตะวันออก">การประชุมสุดยอดเอเชียตะวันออก</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ความตกลงหุ้นส่วนทางเศรษฐกิจระดับภูมิภาค" title="ความตกลงหุ้นส่วนทางเศรษฐกิจระดับภูมิภาค">ความตกลงหุ้นส่วนทางเศรษฐกิจระดับภูมิภาค</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ความร่วมมือทางเศรษฐกิจเอเชีย-แปซิฟิก" title="ความร่วมมือทางเศรษฐกิจเอเชีย-แปซิฟิก">เอเปค</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/พันธมิตรหลักนอกเนโท" title="พันธมิตรหลักนอกเนโท">พันธมิตรหลักนอกเนโท</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กลุ่ม_77" title="กลุ่ม 77">กลุ่ม 77</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กรอบความร่วมมือทางเศรษฐกิจอินโด-แปซิฟิก" title="กรอบความร่วมมือทางเศรษฐกิจอินโด-แปซิฟิก">กรอบความร่วมมือทางเศรษฐกิจอินโด-แปซิฟิก</a></li></ul></div></div></td>
+</tr><tr><td class="sidebar-content">
+<div class="sidebar-list mw-collapsible mw-collapsed"><div class="sidebar-list-title" style="text-align:center; background:lavender;;color: var(--color-base)"><b>ความไม่สงบทางการเมือง</b></div><div class="sidebar-list-content mw-collapsible-content" style="text-align:center;"><i>หลังจากการรวมชาติใน พ.ศ. 2310</i>
+
+<ul><li><b>วิกฤตการณ์ทางการเมือง</b></li></ul>
+
+<ul><li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/วิกฤตการณ์วังหน้า" title="วิกฤตการณ์วังหน้า">วิกฤตการณ์วังหน้า</a> 2417–2418</li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/การก่อการกำเริบของชาวนาชาวไร่ในประเทศไทย_ทศวรรษ_1970" title="การก่อการกำเริบของชาวนาชาวไร่ในประเทศไทย ทศวรรษ 1970" class="mw-redirect">การลุกฮือของชาวนา ทศวรรษ 1970</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/เหตุการณ์_14_ตุลา" title="เหตุการณ์ 14 ตุลา">เหตุการณ์ 14 ตุลา</a> 2516</li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/เหตุการณ์_6_ตุลา" title="เหตุการณ์ 6 ตุลา">เหตุการณ์ 6 ตุลา</a> 2519</li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/พฤษภาทมิฬ" title="พฤษภาทมิฬ">พฤษภาทมิฬ 2535</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/วิกฤตการณ์การเมืองไทย_พ.ศ._2548–2553" title="วิกฤตการณ์การเมืองไทย พ.ศ. 2548–2553">วิกฤตการณ์การเมือง 2548–2553</a>
+<ul><li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/วิกฤตการณ์การเมืองไทย_พ.ศ._2548–2549" title="วิกฤตการณ์การเมืองไทย พ.ศ. 2548–2549">วิกฤตการณ์การเมือง 2548–2549</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/เหตุการณ์ชุมนุมหน้าบ้านสี่เสาเทเวศร์_22_กรกฎาคม_พ.ศ._2550" title="เหตุการณ์ชุมนุมหน้าบ้านสี่เสาเทเวศร์ 22 กรกฎาคม พ.ศ. 2550">การชุมนุมหน้าบ้านสี่เสาเทเวศร์ 2550</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/การชุมนุมของกลุ่มพันธมิตรประชาชนเพื่อประชาธิปไตย_พ.ศ._2551" title="การชุมนุมของกลุ่มพันธมิตรประชาชนเพื่อประชาธิปไตย พ.ศ. 2551">การชุมนุมของกลุ่มพันธมิตรฯ 2551</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ความไม่สงบทางการเมืองในประเทศไทย_เมษายน_พ.ศ._2552" title="ความไม่สงบทางการเมืองในประเทศไทย เมษายน พ.ศ. 2552">สงกรานต์เลือด 2552</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/การชุมนุมของแนวร่วมประชาธิปไตยต่อต้านเผด็จการแห่งชาติ_พ.ศ._2553" title="การชุมนุมของแนวร่วมประชาธิปไตยต่อต้านเผด็จการแห่งชาติ พ.ศ. 2553">การชุมนุมของกลุ่ม นปช. 2553</a>
+<ul><li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/การสลายการชุมนุมที่แยกราชประสงค์_พ.ศ._2553" title="การสลายการชุมนุมที่แยกราชประสงค์ พ.ศ. 2553">การสลายการชุมนุม 2553</a></li></ul></li></ul></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/วิกฤตการณ์การเมืองไทย_พ.ศ._2556–2557" title="วิกฤตการณ์การเมืองไทย พ.ศ. 2556–2557">วิกฤตการณ์การเมือง 2556–2557</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/เหตุการณ์ชุมนุมในกรุงเทพมหานคร_14_ธันวาคม_พ.ศ._2562" title="เหตุการณ์ชุมนุมในกรุงเทพมหานคร 14 ธันวาคม พ.ศ. 2562">การประท้วง 2562</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/การประท้วงในประเทศไทย_พ.ศ._2563–2564" title="การประท้วงในประเทศไทย พ.ศ. 2563–2564">การประท้วง 2563–2564</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/วิกฤตการณ์การเมืองไทย_พ.ศ._2568" title="วิกฤตการณ์การเมืองไทย พ.ศ. 2568">วิกฤตการณ์การเมือง 2568</a></li></ul>
+<hr/>
+<ul><li><b>การปฏิวัติและ<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/รัฐประหารในประเทศไทย" title="รัฐประหารในประเทศไทย">รัฐประหาร</a></b></li></ul>
+
+<ul><li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กบฏ_ร.ศ._130" title="กบฏ ร.ศ. 130">กบฏ ร.ศ. 130</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/การปฏิวัติสยาม_พ.ศ._2475" title="การปฏิวัติสยาม พ.ศ. 2475">ปฏิวัติสยาม 2475</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/รัฐประหารในสยาม_เมษายน_พ.ศ._2476" title="รัฐประหารในสยาม เมษายน พ.ศ. 2476">รัฐประหาร เมษายน 2476</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/รัฐประหารในสยาม_มิถุนายน_พ.ศ._2476" title="รัฐประหารในสยาม มิถุนายน พ.ศ. 2476">รัฐประหาร มิถุนายน 2476</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กบฏบวรเดช" title="กบฏบวรเดช">กบฏบวรเดช</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กบฏนายสิบ" title="กบฏนายสิบ">กบฏนายสิบ</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กบฏพระยาทรงสุรเดช" title="กบฏพระยาทรงสุรเดช">กบฏพระยาทรงสุรเดช</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/รัฐประหารในประเทศไทย_พ.ศ._2490" title="รัฐประหารในประเทศไทย พ.ศ. 2490">รัฐประหาร 2490</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/รัฐประหารในประเทศไทย_พ.ศ._2491" title="รัฐประหารในประเทศไทย พ.ศ. 2491">รัฐประหาร 2491</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กบฏเสนาธิการ" title="กบฏเสนาธิการ">กบฏเสนาธิการ</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กบฏวังหลวง" title="กบฏวังหลวง">กบฏวังหลวง</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กบฏแมนฮัตตัน" title="กบฏแมนฮัตตัน">กบฏแมนฮัตตัน</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/รัฐประหารในประเทศไทย_พ.ศ._2494" title="รัฐประหารในประเทศไทย พ.ศ. 2494">รัฐประหาร 2494</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กบฏสันติภาพ" title="กบฏสันติภาพ">กบฏสันติภาพ</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/รัฐประหารในประเทศไทย_พ.ศ._2500" title="รัฐประหารในประเทศไทย พ.ศ. 2500">รัฐประหาร 2500</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/รัฐประหารในประเทศไทย_พ.ศ._2501" title="รัฐประหารในประเทศไทย พ.ศ. 2501">รัฐประหาร 2501</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กบฏ_พ.ศ._2507" title="กบฏ พ.ศ. 2507">กบฏ พ.ศ. 2507</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/รัฐประหารในประเทศไทย_พ.ศ._2514" title="รัฐประหารในประเทศไทย พ.ศ. 2514">รัฐประหาร 2514</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/รัฐประหารในประเทศไทย_พ.ศ._2519" title="รัฐประหารในประเทศไทย พ.ศ. 2519">รัฐประหาร 2519</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กบฏ_26_มีนาคม_พ.ศ._2520" title="กบฏ 26 มีนาคม พ.ศ. 2520">กบฏ มีนาคม 2520</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/รัฐประหารในประเทศไทย_พ.ศ._2520" title="รัฐประหารในประเทศไทย พ.ศ. 2520">รัฐประหาร 2520</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กบฏยังเติร์ก" title="กบฏยังเติร์ก">กบฏยังเติร์ก</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กบฏทหารนอกราชการ" title="กบฏทหารนอกราชการ">กบฏทหารนอกราชการ</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/รัฐประหารในประเทศไทย_พ.ศ._2534" title="รัฐประหารในประเทศไทย พ.ศ. 2534">รัฐประหาร 2534</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/รัฐประหารในประเทศไทย_พ.ศ._2549" title="รัฐประหารในประเทศไทย พ.ศ. 2549">รัฐประหาร 2549</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/รัฐประหารในประเทศไทย_พ.ศ._2557" title="รัฐประหารในประเทศไทย พ.ศ. 2557">รัฐประหาร 2557</a></li></ul>
+<hr/>
+<ul><li><b><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/การก่อการร้ายในประเทศไทย" title="การก่อการร้ายในประเทศไทย">การก่อการร้าย</a></b></li></ul>
+
+<ul><li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/วิกฤตตัวประกันสถานทูตอิสราเอลประจำประเทศไทย_พ.ศ._2515" title="วิกฤตตัวประกันสถานทูตอิสราเอลประจำประเทศไทย พ.ศ. 2515">วิกฤตตัวประกันสถานทูตอิสราเอล 2515</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/เหตุการณ์ก๊อด'ส_อาร์มี่บุกยึดสถานทูตพม่า_พ.ศ._2542_และโรงพยาบาลศูนย์ราชบุรี_พ.ศ._2543" title="เหตุการณ์ก๊อด'ส อาร์มี่บุกยึดสถานทูตพม่า พ.ศ. 2542 และโรงพยาบาลศูนย์ราชบุรี พ.ศ. 2543">เหตุการณ์บุกยึดสถานทูตพม่า 2542</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ความไม่สงบในชายแดนภาคใต้ของประเทศไทย" title="ความไม่สงบในชายแดนภาคใต้ของประเทศไทย">ความไม่สงบในชายแดนภาคใต้ 2547–ปัจจุบัน</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กรณีตากใบ" title="กรณีตากใบ">กรณีตากใบ 2547</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/มัสยิดกรือเซะ" title="มัสยิดกรือเซะ">กรณีกรือเซะ 2547</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/เหตุระเบิดในจังหวัดสงขลา_พ.ศ._2548" title="เหตุระเบิดในจังหวัดสงขลา พ.ศ. 2548">เหตุระเบิดในสงขลา 2548</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/เหตุระเบิดในอำเภอหาดใหญ่_พ.ศ._2549" title="เหตุระเบิดในอำเภอหาดใหญ่ พ.ศ. 2549">เหตุระเบิดในหาดใหญ่ 2549</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/เหตุระเบิดในกรุงเทพมหานคร_พ.ศ._2549" title="เหตุระเบิดในกรุงเทพมหานคร พ.ศ. 2549">เหตุระเบิดในกรุงเทพฯ 2549</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/เหตุระเบิดในกรุงเทพมหานคร_พ.ศ._2555" title="เหตุระเบิดในกรุงเทพมหานคร พ.ศ. 2555">เหตุระเบิดในกรุงเทพฯ 2555</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/เหตุระเบิดที่ภาคใต้ของประเทศไทย_พ.ศ._2555" title="เหตุระเบิดที่ภาคใต้ของประเทศไทย พ.ศ. 2555">เหตุระเบิดในภาคใต้ 2555</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/เหตุระเบิดในกรุงเทพมหานคร_พ.ศ._2558" title="เหตุระเบิดในกรุงเทพมหานคร พ.ศ. 2558">เหตุระเบิดในกรุงเทพฯ 2558</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/เหตุระเบิดในประเทศไทยเดือนสิงหาคม_พ.ศ._2559" title="เหตุระเบิดในประเทศไทยเดือนสิงหาคม พ.ศ. 2559">เหตุระเบิดในหัวหินและภาคใต้ 2559</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/เหตุระเบิดในกรุงเทพมหานคร_พ.ศ._2562" title="เหตุระเบิดในกรุงเทพมหานคร พ.ศ. 2562">เหตุระเบิดในกรุงเทพฯ 2562</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/การโจมตียะลา_พ.ศ._2562" title="การโจมตียะลา พ.ศ. 2562">การโจมตียะลา 2562</a></li></ul>
+<hr/>
+<ul><li><b>การปะทะขัดแย้ง</b></li></ul>
+
+<ul><li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/การสงครามสมัยสมเด็จพระเจ้ากรุงธนบุรี" title="การสงครามสมัยสมเด็จพระเจ้ากรุงธนบุรี">การรวมชาติสมัยพระเจ้าตากสิน</a> (2310–2314)</li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ความขัดแย้งในกัมพูชา_พ.ศ._2354" title="ความขัดแย้งในกัมพูชา พ.ศ. 2354">ความขัดแย้งในกัมพูชา (2354–2355)</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กบฏอ้ายสาเกียดโง้ง?action=edit&amp;redlink=1" title="กบฏอ้ายสาเกียดโง้ง (ไม่มีหน้านี้)" class="new" typeof="mw:LocalizedAttrs" data-mw-i18n='{"title":{"lang":"x-page","key":"red-link-title","params":["กบฏอ้ายสาเกียดโง้ง"]}}'>กบฏอ้ายสาเกียดโง้ง</a> (2362)</li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กบฏเจ้าอนุวงศ์" title="กบฏเจ้าอนุวงศ์">กบฏเจ้าอนุวงศ์</a> (2369–2371)</li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กบฏหวันหมาดหลี" title="กบฏหวันหมาดหลี">กบฏหวันหมาดหลี</a> (2381–2382)</li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/สงครามปราบฮ่อ" title="สงครามปราบฮ่อ">สงครามปราบฮ่อ</a> (2408–2433)</li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กบฏผู้มีบุญ" title="กบฏผู้มีบุญ">กบฏผู้มีบุญ</a> (2444–2479)</li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กบฏเงี้ยว" title="กบฏเงี้ยว">กบฏเงี้ยว</a> (2445)</li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กบฏดุซงญอ" title="กบฏดุซงญอ">กบฏดุซงญอ</a> (2491)</li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กบฏแบ่งแยกดินแดน" title="กบฏแบ่งแยกดินแดน">กบฏแบ่งแยกดินแดน</a> (2491)</li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/การก่อการกำเริบคอมมิวนิสต์ในประเทศไทย" title="การก่อการกำเริบคอมมิวนิสต์ในประเทศไทย">การก่อการกำเริบคอมมิวนิสต์</a> (2508–2526)</li></ul>
+
+<hr/>
+<ul><li><b>วิกฤตความสัมพันธ์ระหว่างประเทศ</b></li></ul>
+
+<ul><li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/รายชื่อสงครามที่ประเทศไทยมีส่วนเกี่ยวข้อง?action=edit&amp;redlink=1" title="รายชื่อสงครามที่ประเทศไทยมีส่วนเกี่ยวข้อง (ไม่มีหน้านี้)" class="new" typeof="mw:LocalizedAttrs" data-mw-i18n='{"title":{"lang":"x-page","key":"red-link-title","params":["รายชื่อสงครามที่ประเทศไทยมีส่วนเกี่ยวข้อง"]}}'>สงคราม</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/คดีเพชรซาอุ" title="คดีเพชรซาอุ">คดีเพชรซาอุ</a> (2532–2562)</li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/เหตุจลาจลในพนมเปญ_พ.ศ._2546" title="เหตุจลาจลในพนมเปญ พ.ศ. 2546">เหตุจลาจลในพนมเปญ 2546</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กรณีพิพาทชายแดนไทย–กัมพูชา" title="กรณีพิพาทชายแดนไทย–กัมพูชา">กรณีพิพาทชายแดนไทย–กัมพูชา</a>
+<ul><li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/วิกฤตการณ์ชายแดนไทย–กัมพูชา_พ.ศ._2551–2554" title="วิกฤตการณ์ชายแดนไทย–กัมพูชา พ.ศ. 2551–2554">วิกฤตการณ์ 2551–2554</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/วิกฤตการณ์ชายแดนไทย–กัมพูชา_พ.ศ._2568–2569" title="วิกฤตการณ์ชายแดนไทย–กัมพูชา พ.ศ. 2568–2569">วิกฤตการณ์ 2568–2569</a>
+<ul><li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/การรั่วไหลของบทสนทนาทางโทรศัพท์ระหว่างไทย–กัมพูชา" title="การรั่วไหลของบทสนทนาทางโทรศัพท์ระหว่างไทย–กัมพูชา">การรั่วไหลของบทสนทนาทางโทรศัพท์</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/เหตุปะทะไทย–กัมพูชา_พ.ศ._2568–2569" title="เหตุปะทะไทย–กัมพูชา พ.ศ. 2568–2569">เหตุปะทะ</a></li></ul></li></ul></li></ul></div></div></td>
+</tr><tr><td class="sidebar-content">
+<div class="sidebar-list mw-collapsible mw-collapsed"><div class="sidebar-list-title" style="text-align:center; background:lavender;;color: var(--color-base)"><b>หัวข้อที่เกี่ยวข้อง</b></div><div class="sidebar-list-content mw-collapsible-content" style="text-align:center;">
+<ul><li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ประวัติศาสตร์ไทย" title="ประวัติศาสตร์ไทย">ประวัติศาสตร์</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ประชากรศาสตร์ไทย" title="ประชากรศาสตร์ไทย">ประชากรศาสตร์</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/เศรษฐกิจไทย" title="เศรษฐกิจไทย">เศรษฐกิจ</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/การศึกษาในประเทศไทย" title="การศึกษาในประเทศไทย">การศึกษา</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/อาชญากรรมในประเทศไทย" title="อาชญากรรมในประเทศไทย">อาชญากรรม</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กองทัพไทย" title="กองทัพไทย">กองทัพ</a></li></ul></div></div></td>
+</tr><tr><td class="sidebar-below">
+<span class="mw-image-border noviewer" typeof="mw:File"><span><img resource="https://th.wikipedia.org/wiki/ไฟล์:Flag_of_Thailand.svg" src="//thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/40px-Flag_of_Thailand.svg.png?utm_source=th.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" loading="lazy" srcset="//thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/120px-Flag_of_Thailand.svg.png?utm_source=th.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" alt="flag" data-file-width="900" data-file-height="600" data-file-type="drawing" height="21" width="32" class="mw-file-element"/></span></span><span typeof="mw:Entity"> </span><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/สถานีย่อย:ประเทศไทย" title="สถานีย่อย:ประเทศไทย">สถานีย่อยประเทศไทย</a></td></tr><tr><td class="sidebar-navbar"><span class="mw-empty-elt"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r12093835" about="#mwt11" typeof="mw:Extension/templatestyles" data-mw='{"name":"templatestyles","attrs":{"src":"Hlist/styles.css"},"body":{"extsrc":""}}'/><style data-mw-deduplicate="TemplateStyles:r12093841" typeof="mw:Extension/templatestyles" about="#mwt12" data-mw='{"name":"templatestyles","attrs":{"src":"มอดูล:Navbar/styles.css"},"body":{"extsrc":""}}'>.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style></span><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-ดู"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/แม่แบบ:การเมืองไทย" title="แม่แบบ:การเมืองไทย"><abbr title="ดูแม่แบบนี้">ด</abbr></a></li><li class="nv-คุย"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/คุยเรื่องแม่แบบ:การเมืองไทย" title="คุยเรื่องแม่แบบ:การเมืองไทย"><abbr title="อภิปรายแม่แบบนี้">ค</abbr></a></li><li class="nv-แก้"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/พิเศษ:EditPage/แม่แบบ:การเมืองไทย" title="พิเศษ:EditPage/แม่แบบ:การเมืองไทย"><abbr title="แก้ไขแม่แบบนี้">ก</abbr></a></li></ul></div></td></tr></tbody></table>
+
+<p id="mwBw"><a rel="mw:ExtLink nofollow" href="https://www.dopa.go.th/main/web_index/#myloei.wordpress.com/" class="external text" id="mwCA">กรมการปกครองจังหวัดเลย</a> <b id="mwCQ"><a rel="mw:WikiLink/Interwiki" href="https://github.com/B38834-24-0448" title="github:B38834-24-0448" class="extiw" id="mwCg">ราชการส่วนภูมิภาค</a></b> หมายถึงหน้าที่เดียวราชการของกระทรวง ทบวง กรมต่าง ๆ ซึ่งได้แบ่งแยกออกไปดำเนินการจัดทำตามเขตการปกครอง โดยมีเจ้าหน้าที่ของทางราชการส่วนกลาง ซึ่งได้รับแต่งตั้งออกไปประจำตามเขตการปกครองต่าง ๆ ในส่วนภูมิภาคเพื่อบริหารราชการภายใต้การบังคับบัญชาของราชการส่วนกลางโดยมีการติดต่อกันอย่างใกล้ชิดเพราะถือเป็นเพียงการแบ่งอำนาจการปกครองออกมาจากการบริหารส่วนกลาง การบริหารราชการส่วนภูมิภาคเป็นการบริหารราชการตามหลักการแบ่งอำนาจโดยส่วนกลางแบ่งอำนาจในการบริหารราชการให้แก่ภูมิภาค อันได้แก่จังหวัด มีอำนาจในการดำเนินกิจการในท้องที่แทนการบริหาร<a rel="mw:WikiLink/Interwiki" href="https://en.wikipedia.org/wiki/Loei_province" title="en:Loei province" class="extiw" id="mwCw">ราชการส่วนกลาง</a></p>
+
+<p id="mwDA">ลักษณะการแบ่งอำนาจให้แก่การบริหารราชการส่วนภูมิภาค หมายถึง การมอบอำนาจในการตัดสินใจ วินิจฉัย สั่งการให้แก่เจ้าหน้าที่ที่ไปประจำปฏิบัติงานในภูมิภาค เจ้าหน้าที่ในภูมิภาคให้อำนาจบังคับบัญชาของส่วนกลางโดยเฉพาะในเรื่องการแต่งตั้งถอดถอนและงบประมาณซึ่งเป็นผลให้ส่วนภูมิภาคอยู่ในการควบคุมตรวจสอบจากส่วนกลางและส่วนกลางอาจเรียกอำนาจกลับคืนเมื่อใดก็ได้ <a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/จังหวัดเลย" title="จังหวัดเลย" id="mwDQ">ตำแหน่งที่ตั้ง</a></p>
+
+<meta property="mw:PageProp/toc" id="mwDg" data-mw='{"autoGenerated":true}'/></section><section data-mw-section-id="1" id="mwDw" aria-labelledby="การจัดระเบียบบริหารราชการส่วนภูมิภาค"><div class="mw-heading mw-heading2"><h2 id="การจัดระเบียบบริหารราชการส่วนภูมิภาค"><span id=".E0.B8.81.E0.B8.B2.E0.B8.A3.E0.B8.88.E0.B8.B1.E0.B8.94.E0.B8.A3.E0.B8.B0.E0.B9.80.E0.B8.9A.E0.B8.B5.E0.B8.A2.E0.B8.9A.E0.B8.9A.E0.B8.A3.E0.B8.B4.E0.B8.AB.E0.B8.B2.E0.B8.A3.E0.B8.A3.E0.B8.B2.E0.B8.8A.E0.B8.81.E0.B8.B2.E0.B8.A3.E0.B8.AA.E0.B9.88.E0.B8.A7.E0.B8.99.E0.B8.A0.E0.B8.B9.E0.B8.A1.E0.B8.B4.E0.B8.A0.E0.B8.B2.E0.B8.84" typeof="mw:FallbackId"></span>การจัดระเบียบบริหารราชการส่วนภูมิภาค</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89:Www.pea.or.th&amp;action=edit&amp;section=1" title="แก้ไขส่วน: การจัดระเบียบบริหารราชการส่วนภูมิภาค"><span>แก้</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<figure class="mw-default-size" typeof="mw:File/Thumb" id="mwEA"><a href="https://th.wikipedia.org/wiki/ไฟล์:ALRO_local_sign.jpg" class="mw-file-description" id="mwEQ"><img resource="https://th.wikipedia.org/wiki/ไฟล์:ALRO_local_sign.jpg" src="//thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/ALRO_local_sign.jpg/250px-ALRO_local_sign.jpg?utm_source=th.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" loading="lazy" srcset="//thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/ALRO_local_sign.jpg/500px-ALRO_local_sign.jpg?utm_source=th.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" data-file-width="4160" data-file-height="2768" data-file-type="bitmap" height="166" width="250" class="mw-file-element" id="mwEg"/></a><figcaption id="mwEw">สำนักงานการปฏิรูปที่ดินจังหวัดนครนายก เป็นราชการส่วนภูมิภาคในระดับจังหวัดของ<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/สำนักงานการปฏิรูปที่ดินเพื่อเกษตรกรรม" title="สำนักงานการปฏิรูปที่ดินเพื่อเกษตรกรรม" id="mwFA">สำนักงานการปฏิรูปที่ดินเพื่อเกษตรกรรม (ส.ป.ก.)</a></figcaption></figure>
+
+<section data-mw-section-id="2" id="mwFQ" aria-labelledby="จังหวัด"><div class="mw-heading mw-heading3"><h3 id="จังหวัด"><span id=".E0.B8.88.E0.B8.B1.E0.B8.87.E0.B8.AB.E0.B8.A7.E0.B8.B1.E0.B8.94" typeof="mw:FallbackId"></span>จังหวัด</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89:Www.pea.or.th&amp;action=edit&amp;section=2" title="แก้ไขส่วน: จังหวัด"><span>แก้</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mwFg"><b id="mwFw"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/จังหวัด" title="จังหวัด" id="mwGA">จังหวัด</a></b>เป็นหน่วยราชการที่ปกครองส่วนภูมิภาคที่ใหญ่ที่สุด มีฐานะเป็นนิติบุคคลประกอบขึ้นด้วยอำเภอหลายอำเภอหลาย อำเภอ การตั้ง ยุบและเปลี่ยนแปลงเขตจังหวัด ให้ตราเป็นกฎหมายพระราชบัญญัติ ในจังหวัดหนึ่ง ๆ มีผู้ว่าราชการจังหวัดเป็นผู้รับนโยบายและคำสั่งจากนายกรัฐมนตรีในฐานะหัวหน้ารัฐบาล คณะรัฐมนตรี กระทรวง และกรม มาปฏิบัติการให้เหมาะสมกับท้องที่และประชาชนและเป็นผู้บังคับบัญชาสูงสุดในบรรดาข้าราชการฝ่ายบริหารส่วนภูมิภาคในเขตจังหวัดที่รับผิดชอบ อาจจะมีรองผู้ว่าราชการจังหวัดหรือ ผู้ช่วยผู้ว่าราชการจังหวัด ซึ่งสังกัดกระทรวงมหาดไทย ผู้ว่าราชการจังหวัด มีคณะปรึกษาในการบริหารราชการแผ่นดินในจังหวัดนั้นเรียกว่า คณะกรมการจังหวัดประกอบด้วยผู้ว่าราชการจังหวัดเป็นประธาน รองผู้ว่าราชการจังหวัดหนึ่งคนตามที่ผู้ว่าราชการจังหวัดมอบหมาย ปลัดจังหวัด อัยการจังหวัดซึ่งเป็นหัวหน้าที่ทำการอัยการจังหวัด รองผู้บังคับการตำรวจซึ่งทำหน้าที่หัวหน้าตำรวจภูธรจังหวัดหรือผู้กำกับการตำรวจภูธรจังหวัด แล้วแต่กรณีและหัวหน้าส่วนราชการประจำจังหวัดจากกระทรวงและทบวงต่าง ๆ เว้นแต่กระทรวงมหาดไทยซึ่งประจำอยู่ในจังหวัด กระทรวง และทบวงละหนึ่งคนเป็นกรมการจังหวัด และหัวหน้าสำนักงานจังหวัดเป็นกรมการจังหวัดและเลขานุการ ให้แบ่งส่วนราชการของจังหวัด ดังนี้</p>
+
+<ol id="mwGQ"><li id="mwGg">สำนักงานจังหวัด มีหน้าที่เกี่ยวกับราชการทั่วไปและการวางแผนพัฒนาจังหวัดของจังหวัดนั้นมีหัวหน้าสำนักงานจังหวัดเป็นผู้บังคับบัญชาข้าราชการและรับผิดชอบในการปฏิบัติราชการของสำนักงานจังหวัด</li>
+<li id="mwGw">ส่วนราชการต่าง ๆ ซึ่งกระทรวง ทบวง กรม ได้ตั้งขึ้น มีหน้าที่เกี่ยวกับราชการของกระทรวง ทบวง กรมนั้น ๆ มีหัวหน้าส่วนราชการประจำจังหวัดนั้น ๆ เป็นผู้ปกครองบังคับบัญชารับผิดชอบ</li></ol>
+
+</section><section data-mw-section-id="3" id="mwHA" aria-labelledby="อำเภอ"><div class="mw-heading mw-heading3"><h3 id="อำเภอ"><span id=".E0.B8.AD.E0.B8.B3.E0.B9.80.E0.B8.A0.E0.B8.AD" typeof="mw:FallbackId"></span>อำเภอ</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89:Www.pea.or.th&amp;action=edit&amp;section=3" title="แก้ไขส่วน: อำเภอ"><span>แก้</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mwHQ"><b id="mwHg"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/อำเภอ" title="อำเภอ" id="mwHw">อำเภอ</a></b> เป็นหน่วยราชการบริหารส่วนภูมิภาครองจากจังหวัด แต่ไม่มีฐานะเป็นนิติบุคคลเหมือนจังหวัด การจัดตั้ง ยุบเลิกและเปลี่ยนแปลงเขตอำเภอ กระทำได้โดยตราเป็น พระราชกฤษฎีกา มีนายอำเภอเป็นหัวหน้าปกครองบังคับบัญชาข้าราชการในอำเภอ และรับผิดชอบการบริหารราชการของอำเภอ นายอำเภอสังกัดกระทรวงมหาดไทย และให้มีปลัดอำเภอและหัวหน้าส่วนราชการประจำอำเภอซึ่งกระทรวงต่าง ๆ ส่งมาประจำให้ปฏิบัติหน้าที่เป็นผู้ช่วยเหลือ การแบ่งส่วนราชการของอำเภอ มีดังนี้</p>
+
+<ol id="mwIA"><li id="mwIQ">สำนักงานอำเภอ มีหน้าที่เกี่ยวกับราชการทั่วไปของอำเภอนั้น ๆ มีนายอำเภอเป็นผู้ปกครองบังคับบัญชาข้าราชการและรับผิดชอบ</li>
+<li id="mwIg">ส่วนต่าง ๆ ซึ่งกระทรวง ทบวง กรมได้ตั้งขึ้นในอำเภอนั้น มีหน้าที่เกี่ยวกับราชการของกระทรวง ทบวง กรมนั้น ๆ มีหัวหน้าส่วนราชการประจำอำเภอนั้น ๆ เป็นผู้ปกครองบังคับบัญชารับผิดชอบ</li></ol>
+
+</section></section><section data-mw-section-id="4" id="mwIw" aria-labelledby="ความสัมพันธ์ระหว่างราชการบริหารส่วนกลางกับส่วนภูมิภาค"><div class="mw-heading mw-heading2"><h2 id="ความสัมพันธ์ระหว่างราชการบริหารส่วนกลางกับส่วนภูมิภาค"><span id=".E0.B8.84.E0.B8.A7.E0.B8.B2.E0.B8.A1.E0.B8.AA.E0.B8.B1.E0.B8.A1.E0.B8.9E.E0.B8.B1.E0.B8.99.E0.B8.98.E0.B9.8C.E0.B8.A3.E0.B8.B0.E0.B8.AB.E0.B8.A7.E0.B9.88.E0.B8.B2.E0.B8.87.E0.B8.A3.E0.B8.B2.E0.B8.8A.E0.B8.81.E0.B8.B2.E0.B8.A3.E0.B8.9A.E0.B8.A3.E0.B8.B4.E0.B8.AB.E0.B8.B2.E0.B8.A3.E0.B8.AA.E0.B9.88.E0.B8.A7.E0.B8.99.E0.B8.81.E0.B8.A5.E0.B8.B2.E0.B8.87.E0.B8.81.E0.B8.B1.E0.B8.9A.E0.B8.AA.E0.B9.88.E0.B8.A7.E0.B8.99.E0.B8.A0.E0.B8.B9.E0.B8.A1.E0.B8.B4.E0.B8.A0.E0.B8.B2.E0.B8.84" typeof="mw:FallbackId"></span>ความสัมพันธ์ระหว่างราชการบริหารส่วนกลางกับส่วนภูมิภาค</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89:Www.pea.or.th&amp;action=edit&amp;section=4" title="แก้ไขส่วน: ความสัมพันธ์ระหว่างราชการบริหารส่วนกลางกับส่วนภูมิภาค"><span>แก้</span></a><span class="mw-editsection-bracket">]</span></span></div>
+
+<section data-mw-section-id="5" id="mwJA" aria-labelledby="ส่วนราชการภูมิภาคสังกัดสำนักนายกรัฐมนตรี_และกระทรวง/ทบวง"><div class="mw-heading mw-heading3"><h3 id="ส่วนราชการภูมิภาคสังกัดสำนักนายกรัฐมนตรี_และกระทรวง/ทบวง"><span id=".E0.B8.AA.E0.B9.88.E0.B8.A7.E0.B8.99.E0.B8.A3.E0.B8.B2.E0.B8.8A.E0.B8.81.E0.B8.B2.E0.B8.A3.E0.B8.A0.E0.B8.B9.E0.B8.A1.E0.B8.B4.E0.B8.A0.E0.B8.B2.E0.B8.84.E0.B8.AA.E0.B8.B1.E0.B8.87.E0.B8.81.E0.B8.B1.E0.B8.94.E0.B8.AA.E0.B8.B3.E0.B8.99.E0.B8.B1.E0.B8.81.E0.B8.99.E0.B8.B2.E0.B8.A2.E0.B8.81.E0.B8.A3.E0.B8.B1.E0.B8.90.E0.B8.A1.E0.B8.99.E0.B8.95.E0.B8.A3.E0.B8.B5_.E0.B9.81.E0.B8.A5.E0.B8.B0.E0.B8.81.E0.B8.A3.E0.B8.B0.E0.B8.97.E0.B8.A3.E0.B8.A7.E0.B8.87.2F.E0.B8.97.E0.B8.9A.E0.B8.A7.E0.B8.87" typeof="mw:FallbackId"></span>ส่วนราชการภูมิภาคสังกัดสำนักนายกรัฐมนตรี และกระทรวง/ทบวง</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89:Www.pea.or.th&amp;action=edit&amp;section=5" title="แก้ไขส่วน: ส่วนราชการภูมิภาคสังกัดสำนักนายกรัฐมนตรี และกระทรวง/ทบวง"><span>แก้</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<table class="wikitable" id="mwJQ">
+<caption id="mwJg"></caption>
+<tbody id="mwJw"><tr style="background:#cccccc; text-align:center" id="mwKA">
+<td colspan="7" id="mwKQ"><b id="mwKg">โครงสร้างความสัมพันธ์ระหว่างราชการบริหารส่วนกลาง กับราชการบริหารส่วนภูมิภาค ในจังหวัด และอำเภอ</b></td></tr>
+<tr style="background:#cccccc; text-align:center" id="mwKw">
+<td colspan="2" id="mwLA"><b id="mwLQ">ราชการส่วนกลาง</b></td>
+<td colspan="4" id="mwLg"><b id="mwLw">ราชการส่วนภูมิภาค</b></td>
+<td rowspan="2" id="mwMA"><b id="mwMQ">หมายเหตุ</b></td></tr>
+<tr style="background:#cccccc; text-align:center" id="mwMg">
+<td id="mwMw"><b id="mwNA">ส่วนราชการระดับกระทรวง</b></td>
+<td id="mwNQ"><b id="mwNg">ส่วนราชการระดับกรม</b></td>
+<td id="mwNw"><b id="mwOA">ส่วนราชการระดับจังหวัด</b></td>
+<td id="mwOQ"><b id="mwOg">หัวหน้าส่วนราชการ</b></td>
+<td id="mwOw"><b id="mwPA">ส่วนราชการระดับอำเภอ</b></td>
+<td id="mwPQ"><b id="mwPg">หัวหน้าส่วนราชการ</b></td></tr>
+<tr id="mwPw">
+<td style="text-align:center" id="mwQA"><b id="mwQQ"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/สำนักนายกรัฐมนตรี_(ประเทศไทย)" title="สำนักนายกรัฐมนตรี (ประเทศไทย)" id="mwQg">สำนักนายกรัฐมนตรี</a></b></td>
+<td id="mwQw"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กรมประชาสัมพันธ์" title="กรมประชาสัมพันธ์" id="mwRA">กรมประชาสัมพันธ์</a></td>
+<td id="mwRQ">สำนักงานประชาสัมพันธ์จังหวัด</td>
+<td id="mwRg">ประชาสัมพันธ์จังหวัด
+<p id="mwRw">(อำนวยการระดับสูง/ต้น)</p></td>
+<td id="mwSA"></td>
+<td id="mwSQ"></td>
+<td id="mwSg"></td></tr>
+<tr id="mwSw">
+<td rowspan="1" style="text-align:center" id="mwTA"><b id="mwTQ"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กระทรวงกลาโหม_(ประเทศไทย)" title="กระทรวงกลาโหม (ประเทศไทย)" id="mwTg">กระทรวงกลาโหม</a></b></td>
+<td id="mwTw"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/สำนักงานปลัดกระทรวงกลาโหม" title="สำนักงานปลัดกระทรวงกลาโหม" id="mwUA">สำนักงานปลัดกระทรวงกลาโหม</a></td>
+<td id="mwUQ">สำนักงานสัสดีจังหวัด</td>
+<td id="mwUg">สัสดีจังหวัด 
+<p id="mwUw">(พันเอก)</p></td>
+<td id="mwVA">หน่วยสัสดีอำเภอ</td>
+<td id="mwVQ">สัสดีอำเภอ</td>
+<td id="mwVg"></td></tr>
+<tr id="mwVw">
+<td rowspan="1" style="text-align:center" id="mwWA"><b id="mwWQ"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กระทรวงการคลัง_(ประเทศไทย)" title="กระทรวงการคลัง (ประเทศไทย)" id="mwWg">กระทรวงการคลัง</a></b></td>
+<td id="mwWw"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กรมบัญชีกลาง" title="กรมบัญชีกลาง" id="mwXA">กรมบัญชีกลาง</a></td>
+<td id="mwXQ">สำนักงานคลังจังหวัด</td>
+<td id="mwXg">คลังจังหวัด 
+<p id="mwXw">(อำนวยการระดับสูง)</p></td>
+<td id="mwYA"></td>
+<td id="mwYQ"></td>
+<td id="mwYg"></td></tr>
+<tr id="mwYw">
+<td style="text-align:center" id="mwZA"><b id="mwZQ"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กระทรวงการท่องเที่ยวและกีฬา" title="กระทรวงการท่องเที่ยวและกีฬา" id="mwZg">กระทรวงการท่องเที่ยว</a></b>
+<p id="mwZw"><b id="mwaA"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กระทรวงการท่องเที่ยวและกีฬา" title="กระทรวงการท่องเที่ยวและกีฬา" id="mwaQ">และกีฬา</a></b></p></td>
+<td id="mwag"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/สำนักงานปลัดกระทรวงการท่องเที่ยวและกีฬา" title="สำนักงานปลัดกระทรวงการท่องเที่ยวและกีฬา" class="mw-redirect" id="mwaw">สำนักงานปลัดกระทรวง</a>
+<p id="mwbA"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/สำนักงานปลัดกระทรวงการท่องเที่ยวและกีฬา" title="สำนักงานปลัดกระทรวงการท่องเที่ยวและกีฬา" class="mw-redirect" id="mwbQ">การท่องเที่ยวและกีฬา</a></p></td>
+<td id="mwbg">สำนักงานท่องเที่ยวและกีฬาจังหวัด</td>
+<td id="mwbw">ท่องเที่ยวและกีฬาจังหวัด
+<p id="mwcA">(อำนวยการระดับสูง/ต้น)</p></td>
+<td id="mwcQ"></td>
+<td id="mwcg"></td>
+<td id="mwcw"></td></tr>
+<tr id="mwdA">
+<td style="text-align:center" id="mwdQ"><b id="mwdg"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์_(ประเทศไทย)" title="กระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์ (ประเทศไทย)" id="mwdw">กระทรวงการพัฒนาสังคม</a></b>
+<p id="mweA"><b id="mweQ"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์_(ประเทศไทย)" title="กระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์ (ประเทศไทย)" id="mweg">และความมั่นคงของมนุษย์</a></b></p></td>
+<td id="mwew"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/สำนักงานปลัดกระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์" title="สำนักงานปลัดกระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์" class="mw-redirect" id="mwfA">สำนักงานปลัดกระทรวง</a>
+<p id="mwfQ"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/สำนักงานปลัดกระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์" title="สำนักงานปลัดกระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์" class="mw-redirect" id="mwfg">การพัฒนาสังคม</a>
+<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/สำนักงานปลัดกระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์" title="สำนักงานปลัดกระทรวงการพัฒนาสังคมและความมั่นคงของมนุษย์" class="mw-redirect" id="mwfw">และความมั่นคงของมนุษย์</a></p></td>
+<td id="mwgA">สำนักงานพัฒนาสังคม
+<p id="mwgQ">และความมั่นคงของมนุษย์จังหวัด</p></td>
+<td id="mwgg">พัฒนาสังคม
+<p id="mwgw">และความมั่นคงของมนุษย์จังหวัด 
+(อำนวยการระดับสูง)</p></td>
+<td id="mwhA"></td>
+<td id="mwhQ"></td>
+<td id="mwhg"></td></tr>
+<tr id="mwhw">
+<td rowspan="6" style="text-align:center" id="mwiA"><b id="mwiQ"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กระทรวงเกษตรและสหกรณ์_(ประเทศไทย)" title="กระทรวงเกษตรและสหกรณ์ (ประเทศไทย)" id="mwig">กระทรวงเกษตรและสหกรณ์</a></b></td>
+<td id="mwiw"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/สำนักงานปลัดกระทรวงเกษตรและสหกรณ์" title="สำนักงานปลัดกระทรวงเกษตรและสหกรณ์" id="mwjA">สำนักงานปลัดกระทรวง</a>
+<p id="mwjQ"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/สำนักงานปลัดกระทรวงเกษตรและสหกรณ์" title="สำนักงานปลัดกระทรวงเกษตรและสหกรณ์" id="mwjg">เกษตรและสหกรณ์</a></p></td>
+<td id="mwjw">สำนักงานเกษตรและสหกรณ์จังหวัด</td>
+<td id="mwkA">เกษตรและสหกรณ์จังหวัด
+<p id="mwkQ">(อำนวยการระดับสูง/ต้น)</p></td>
+<td id="mwkg"></td>
+<td id="mwkw"></td>
+<td id="mwlA"></td></tr>
+<tr id="mwlQ">
+<td id="mwlg"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กรมประมง" title="กรมประมง" id="mwlw">กรมประมง</a></td>
+<td id="mwmA">สำนักงานประมงจังหวัด</td>
+<td id="mwmQ">ประมงจังหวัด
+<p id="mwmg">(อำนวยการระดับสูง/ต้น)</p></td>
+<td id="mwmw">สำนักงานประมงอำเภอ</td>
+<td id="mwnA">ประมงอำเภอ
+<p id="mwnQ">(วิชาการ/ชำนาญการ)</p></td>
+<td id="mwng"></td></tr>
+<tr id="mwnw">
+<td id="mwoA"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กรมปศุสัตว์" title="กรมปศุสัตว์" id="mwoQ">กรมปศุสัตว์</a></td>
+<td id="mwog">สำนักงานปศุสัตว์จังหวัด</td>
+<td id="mwow">ปศุสัตว์จังหวัด
+<p id="mwpA">(อำนวยการระดับต้น)</p>
+
+<p id="mwpQ">(อำนวยการระดับสูง)</p></td>
+<td id="mwpg">สำนักงานปศุสัตว์อำเภอ</td>
+<td id="mwpw">ปศุสัตว์อำเภอ
+<p id="mwqA">(ทั่วไป/อาวุโส/ชำนาญงาน
+วิชาการ/ชำนาญการพิเศษ/ชำนาญการ)</p></td>
+<td id="mwqQ"></td></tr>
+<tr id="mwqg">
+<td id="mwqw"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กรมส่งเสริมการเกษตร" title="กรมส่งเสริมการเกษตร" id="mwrA">กรมส่งเสริมการเกษตร</a></td>
+<td id="mwrQ">สำนักงานเกษตรจังหวัด</td>
+<td id="mwrg">เกษตรจังหวัด
+<p id="mwrw">(อำนวยการระดับสูง/ต้น)</p></td>
+<td id="mwsA">สำนักงานเกษตรอำเภอ</td>
+<td id="mwsQ">เกษตรอำเภอ 
+<p id="mwsg">(วิชาการ/ชำนาญการพิเศษ)</p></td>
+<td id="mwsw"></td></tr>
+<tr id="mwtA">
+<td id="mwtQ"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กรมส่งเสริมสหกรณ์" title="กรมส่งเสริมสหกรณ์" id="mwtg">กรมส่งเสริมสหกรณ์</a></td>
+<td id="mwtw">สำนักงานสหกรณ์จังหวัด</td>
+<td id="mwuA">สหกรณ์จังหวัด
+<p id="mwuQ">(อำนวยการระดับสูง/ต้น)</p></td>
+<td id="mwug"></td>
+<td id="mwuw"></td>
+<td id="mwvA"></td></tr>
+<tr id="mwvQ">
+<td id="mwvg"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/สำนักงานการปฏิรูปที่ดินเพื่อเกษตรกรรม" title="สำนักงานการปฏิรูปที่ดินเพื่อเกษตรกรรม" id="mwvw">สำนักงานการปฏิรูปที่ดินเพื่อเกษตรกรรม</a></td>
+<td id="mwwA">สำนักงานการปฏิรูปที่ดินจังหวัด</td>
+<td id="mwwQ">ปฏิรูปที่ดินจังหวัด
+<p id="mwwg">(อำนวยการระดับสูง/ต้น)</p></td>
+<td id="mwww"></td>
+<td id="mwxA"></td>
+<td id="mwxQ"></td></tr>
+<tr id="mwxg">
+<td rowspan="1" style="text-align:center" id="mwxw"><b id="mwyA"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กระทรวงคมนาคม_(ประเทศไทย)" title="กระทรวงคมนาคม (ประเทศไทย)" id="mwyQ">กระทรวงคมนาคม</a></b></td>
+<td id="mwyg"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กรมการขนส่งทางบก" title="กรมการขนส่งทางบก" id="mwyw">กรมการขนส่งทางบก</a></td>
+<td id="mwzA">สำนักงานขนส่งจังหวัด</td>
+<td id="mwzQ">ขนส่งจังหวัด 
+<p id="mwzg">(อำนวยการระดับสูง/ต้น)</p></td>
+<td id="mwzw"></td>
+<td id="mw0A"></td>
+<td id="mw0Q"></td></tr>
+<tr id="mw0g">
+<td rowspan="1" style="text-align:center" id="mw0w"><b id="mw1A"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กระทรวงทรัพยากรธรรมชาติและสิ่งแวดล้อม_(ประเทศไทย)" title="กระทรวงทรัพยากรธรรมชาติและสิ่งแวดล้อม (ประเทศไทย)" id="mw1Q">กระทรวงทรัพยากรธรรมชาติ</a></b>
+<p id="mw1g"><b id="mw1w"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กระทรวงทรัพยากรธรรมชาติและสิ่งแวดล้อม_(ประเทศไทย)" title="กระทรวงทรัพยากรธรรมชาติและสิ่งแวดล้อม (ประเทศไทย)" id="mw2A">และสิ่งแวดล้อม</a></b></p></td>
+<td id="mw2Q"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/สำนักงานปลัดกระทรวงทรัพยากรธรรมชาติและสิ่งแวดล้อม_(ประเทศไทย)?action=edit&amp;redlink=1" title="สำนักงานปลัดกระทรวงทรัพยากรธรรมชาติและสิ่งแวดล้อม (ประเทศไทย) (ไม่มีหน้านี้)" class="new" typeof="mw:LocalizedAttrs" id="mw2g" data-mw-i18n='{"title":{"lang":"x-page","key":"red-link-title","params":["สำนักงานปลัดกระทรวงทรัพยากรธรรมชาติและสิ่งแวดล้อม (ประเทศไทย)"]}}'>สำนักงานปลัดกระทรวง</a>
+<p id="mw2w"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/สำนักงานปลัดกระทรวงทรัพยากรธรรมชาติและสิ่งแวดล้อม_(ประเทศไทย)?action=edit&amp;redlink=1" title="สำนักงานปลัดกระทรวงทรัพยากรธรรมชาติและสิ่งแวดล้อม (ประเทศไทย) (ไม่มีหน้านี้)" class="new" typeof="mw:LocalizedAttrs" id="mw3A" data-mw-i18n='{"title":{"lang":"x-page","key":"red-link-title","params":["สำนักงานปลัดกระทรวงทรัพยากรธรรมชาติและสิ่งแวดล้อม (ประเทศไทย)"]}}'>ทรัพยากรธรรมชาติ</a>
+<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/สำนักงานปลัดกระทรวงทรัพยากรธรรมชาติและสิ่งแวดล้อม_(ประเทศไทย)?action=edit&amp;redlink=1" title="สำนักงานปลัดกระทรวงทรัพยากรธรรมชาติและสิ่งแวดล้อม (ประเทศไทย) (ไม่มีหน้านี้)" class="new" typeof="mw:LocalizedAttrs" id="mw3Q" data-mw-i18n='{"title":{"lang":"x-page","key":"red-link-title","params":["สำนักงานปลัดกระทรวงทรัพยากรธรรมชาติและสิ่งแวดล้อม (ประเทศไทย)"]}}'>และสิ่งแวดล้อม</a></p></td>
+<td id="mw3g">สำนักงานทรัพยากรธรรมชาติ
+<p id="mw3w">และสิ่งแวดล้อมจังหวัด</p></td>
+<td id="mw4A">ผู้อำนวยการ
+<p id="mw4Q">สำนักงานทรัพยากรธรรมชาติ
+และสิ่งแวดล้อมจังหวัด 
+(อำนวยการระดับสูง)</p></td>
+<td id="mw4g"></td>
+<td id="mw4w"></td>
+<td id="mw5A"></td></tr>
+<tr id="mw5Q">
+<td rowspan="1" style="text-align:center" id="mw5g"><b id="mw5w"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กระทรวงดิจิทัลเพื่อเศรษฐกิจและสังคม" title="กระทรวงดิจิทัลเพื่อเศรษฐกิจและสังคม" id="mw6A">กระทรวงดิจิทัลเพื่อเศรษฐกิจและสังคม</a></b></td>
+<td id="mw6Q"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/สำนักงานสถิติแห่งชาติ" title="สำนักงานสถิติแห่งชาติ" id="mw6g">สำนักงานสถิติแห่งชาติ</a></td>
+<td id="mw6w">สำนักงานสถิติจังหวัด</td>
+<td id="mw7A">สถิติจังหวัด 
+<p id="mw7Q">(อำนวยการระดับต้น/สูง)</p></td>
+<td id="mw7g"></td>
+<td id="mw7w"></td>
+<td id="mw8A"></td></tr>
+<tr id="mw8Q">
+<td style="text-align:center" id="mw8g"><b id="mw8w"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กระทรวงพลังงาน_(ประเทศไทย)" title="กระทรวงพลังงาน (ประเทศไทย)" id="mw9A">กระทรวงพลังงาน</a></b></td>
+<td id="mw9Q"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/สำนักงานปลัดกระทรวงพลังงาน" title="สำนักงานปลัดกระทรวงพลังงาน" class="mw-redirect" id="mw9g">สำนักงานปลัดกระทรวงพลังงาน</a></td>
+<td id="mw9w">สำนักงานพลังงานจังหวัด</td>
+<td id="mw-A">พลังงานจังหวัด 
+<p id="mw-Q">(อำนวยการระดับสูง/ต้น)</p></td>
+<td id="mw-g"></td>
+<td id="mw-w"></td>
+<td id="mw_A"></td></tr>
+<tr id="mw_Q">
+<td rowspan="1" style="text-align:center" id="mw_g"><b id="mw_w"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กระทรวงพาณิชย์_(ประเทศไทย)" title="กระทรวงพาณิชย์ (ประเทศไทย)" id="mwAQA">กระทรวงพาณิชย์</a></b></td>
+<td id="mwAQE"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/สำนักงานปลัดกระทรวงพาณิชย์" title="สำนักงานปลัดกระทรวงพาณิชย์" class="mw-redirect" id="mwAQI">สำนักงานปลัดกระทรวงพาณิชย์</a></td>
+<td id="mwAQM">สำนักงานพาณิชย์จังหวัด</td>
+<td id="mwAQQ">พาณิชย์จังหวัด 
+<p id="mwAQU">(อำนวยการระดับสูง/ต้น)</p></td>
+<td id="mwAQY"></td>
+<td id="mwAQc"></td>
+<td id="mwAQg"></td></tr>
+<tr id="mwAQk">
+<td rowspan="7" style="text-align:center" id="mwAQo"><b id="mwAQs"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กระทรวงมหาดไทย_(ประเทศไทย)" title="กระทรวงมหาดไทย (ประเทศไทย)" id="mwAQw">กระทรวงมหาดไทย</a></b></td>
+<td id="mwAQ0"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/สำนักงานปลัดกระทรวงมหาดไทย" title="สำนักงานปลัดกระทรวงมหาดไทย" id="mwAQ4">สำนักงานปลัดกระทรวงมหาดไทย</a></td>
+<td id="mwAQ8">สำนักงานจังหวัด</td>
+<td id="mwARA">หัวหน้าสำนักงานจังหวัด 
+<p id="mwARE">(อำนวยการระดับสูง)</p></td>
+<td id="mwARI"></td>
+<td id="mwARM"></td>
+<td id="mwARQ"></td></tr>
+<tr id="mwARU">
+<td id="mwARY"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กรมการปกครอง" title="กรมการปกครอง" id="mwARc">กรมการปกครอง</a></td>
+<td id="mwARg">ที่ทำการปกครองจังหวัด</td>
+<td id="mwARk">ปลัดจังหวัด 
+<p id="mwARo">(อำนวยการระดับสูง)</p></td>
+<td id="mwARs">ที่ทำการปกครองอำเภอ</td>
+<td id="mwARw">นายอำเภอ
+<p id="mwAR0">(อำนวยการระดับสูง)</p></td>
+<td id="mwAR4"></td></tr>
+<tr id="mwAR8">
+<td id="mwASA"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กรมการพัฒนาชุมชน" title="กรมการพัฒนาชุมชน" id="mwASE">กรมการพัฒนาชุมชน</a></td>
+<td id="mwASI">สำนักงานพัฒนาชุมชนจังหวัด</td>
+<td id="mwASM">พัฒนาการจังหวัด 
+<p id="mwASQ">(อำนวยการระดับสูง)</p></td>
+<td id="mwASU">สำนักงานพัฒนาชุมชนอำเภอ</td>
+<td id="mwASY">พัฒนาการอำเภอ
+<p id="mwASc">(วิชาการ/ชำนาญการพิเศษ)</p></td>
+<td id="mwASg"></td></tr>
+<tr id="mwASk">
+<td id="mwASo"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กรมส่งเสริมการปกครองท้องถิ่น" title="กรมส่งเสริมการปกครองท้องถิ่น" id="mwASs">กรมส่งเสริมการปกครองท้องถิ่น</a></td>
+<td id="mwASw">สำนักงานท้องถิ่นจังหวัด</td>
+<td id="mwAS0">ท้องถิ่นจังหวัด 
+<p id="mwAS4">(อำนวยการระดับสูง)</p></td>
+<td id="mwAS8">สำนักงานส่งเสริมการปกครองท้องถิ่นอำเภอ</td>
+<td id="mwATA">ท้องถิ่นอำเภอ
+<p id="mwATE">(วิชาการ/ชำนาญการ)</p></td>
+<td id="mwATI">(โครงสร้างภายใน)</td></tr>
+<tr id="mwATM">
+<td id="mwATQ"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กรมที่ดิน" title="กรมที่ดิน" id="mwATU">กรมที่ดิน</a></td>
+<td id="mwATY">สำนักงานที่ดินจังหวัด</td>
+<td id="mwATc">เจ้าพนักงานที่ดินจังหวัด
+<p id="mwATg">(อำนวยการระดับสูง)</p></td>
+<td id="mwATk">สำนักงานที่ดินอำเภอ</td>
+<td id="mwATo">ที่ดินอำเภอ
+<p id="mwATs">(วิชาการ/ชำนาญการ)</p></td>
+<td id="mwATw"></td></tr>
+<tr id="mwAT0">
+<td id="mwAT4"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กรมโยธาธิการและผังเมือง" title="กรมโยธาธิการและผังเมือง" id="mwAT8">กรมโยธาธิการและผังเมือง</a></td>
+<td id="mwAUA">สำนักงานโยธาธิการ
+<p id="mwAUE">และผังเมืองจังหวัด</p></td>
+<td id="mwAUI">โยธาธิการและผังเมืองจังหวัด
+<p id="mwAUM">(อำนวยการระดับสูง)</p></td>
+<td id="mwAUQ"></td>
+<td id="mwAUU"></td>
+<td id="mwAUY"></td></tr>
+<tr id="mwAUc">
+<td id="mwAUg"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กรมป้องกันและบรรเทาสาธารณภัย" title="กรมป้องกันและบรรเทาสาธารณภัย" id="mwAUk">กรมป้องกันและบรรเทาสาธารณภัย</a></td>
+<td id="mwAUo">สำนักงานป้องกัน
+<p id="mwAUs">และบรรเทาสาธารณภัยจังหวัด</p></td>
+<td id="mwAUw">หัวหน้าสำนักงานป้องกันและ
+<p id="mwAU0">บรรเทาสาธารณภัยจังหวัด (อำนวยการระดับสูง/ต้น)</p></td>
+<td id="mwAU4"></td>
+<td id="mwAU8"></td>
+<td id="mwAVA"></td></tr>
+<tr id="mwAVE">
+<td rowspan="4" style="text-align:center" id="mwAVI"><b id="mwAVM"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กระทรวงยุติธรรม_(ประเทศไทย)" title="กระทรวงยุติธรรม (ประเทศไทย)" id="mwAVQ">กระทรวงยุติธรรม</a></b></td>
+<td id="mwAVU"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/สำนักงานปลัดกระทรวงยุติธรรม" title="สำนักงานปลัดกระทรวงยุติธรรม" class="mw-redirect" id="mwAVY">สำนักงานปลัดกระทรวงยุติธรรม</a></td>
+<td id="mwAVc">สำนักงานยุติธรรมจังหวัด</td>
+<td id="mwAVg">ผู้อำนวยการ
+<p id="mwAVk">สำนักงานยุติธรรมจังหวัด
+(อำนวยการระดับสูง/ต้น)</p></td>
+<td id="mwAVo"></td>
+<td id="mwAVs"></td>
+<td id="mwAVw"></td></tr>
+<tr id="mwAV0">
+<td id="mwAV4"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กรมคุมประพฤติ" title="กรมคุมประพฤติ" id="mwAV8">กรมคุมประพฤติ</a></td>
+<td id="mwAWA">สำนักงานคุมประพฤติจังหวัด</td>
+<td id="mwAWE">ผู้อำนวยการ
+<p id="mwAWI">สำนักงานคุมประพฤติจังหวัด
+(อำนวยการระดับสูง)</p></td>
+<td id="mwAWM"></td>
+<td id="mwAWQ"></td>
+<td id="mwAWU"></td></tr>
+<tr id="mwAWY">
+<td id="mwAWc"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กรมราชทัณฑ์" title="กรมราชทัณฑ์" id="mwAWg">กรมราชทัณฑ์</a></td>
+<td id="mwAWk">เรือนจำจังหวัด</td>
+<td id="mwAWo">ผู้บัญชาการเรือนจำจังหวัด 
+<p id="mwAWs">(อำนวยการระดับสูง)</p></td>
+<td id="mwAWw">เรือนจำอำเภอ</td>
+<td id="mwAW0">ผู้บัญชาการเรือนจำอำเภอ</td>
+<td id="mwAW4"></td></tr>
+<tr id="mwAW8">
+<td id="mwAXA"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กรมบังคับคดี?action=edit&amp;redlink=1" title="กรมบังคับคดี (ไม่มีหน้านี้)" class="new" typeof="mw:LocalizedAttrs" id="mwAXE" data-mw-i18n='{"title":{"lang":"x-page","key":"red-link-title","params":["กรมบังคับคดี"]}}'>กรมบังคับคดี</a></td>
+<td id="mwAXI">สำนักงานบังคับคดีจังหวัด</td>
+<td id="mwAXM">ผู้อำนวยการ
+<p id="mwAXQ">สำนักงานบังคับคดีจังหวัด
+(อำนวยการระดับสูง/ต้น)</p></td>
+<td id="mwAXU"></td>
+<td id="mwAXY"></td>
+<td id="mwAXc"></td></tr>
+<tr id="mwAXg">
+<td rowspan="4" style="text-align:center" id="mwAXk"><b id="mwAXo"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กระทรวงแรงงาน_(ประเทศไทย)" title="กระทรวงแรงงาน (ประเทศไทย)" id="mwAXs">กระทรวงแรงงาน</a></b></td>
+<td id="mwAXw"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/สำนักงานปลัดกระทรวงแรงงาน" title="สำนักงานปลัดกระทรวงแรงงาน" class="mw-redirect" id="mwAX0">สำนักงานปลัดกระทรวงแรงงาน</a></td>
+<td id="mwAX4">สำนักงานแรงงานจังหวัด</td>
+<td id="mwAX8">แรงงานจังหวัด 
+<p id="mwAYA">(อำนวยการระดับต้น/สูง)</p></td>
+<td id="mwAYE"></td>
+<td id="mwAYI"></td>
+<td id="mwAYM"></td></tr>
+<tr id="mwAYQ">
+<td id="mwAYU"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กรมการจัดหางาน" title="กรมการจัดหางาน" id="mwAYY">กรมการจัดหางาน</a></td>
+<td id="mwAYc">สำนักงานจัดหางานจังหวัด</td>
+<td id="mwAYg">จัดหางานจังหวัด 
+<p id="mwAYk">(อำนวยการระดับสูง)</p></td>
+<td id="mwAYo"></td>
+<td id="mwAYs"></td>
+<td id="mwAYw"></td></tr>
+<tr id="mwAY0">
+<td id="mwAY4"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กรมสวัสดิการและคุ้มครองแรงงาน" title="กรมสวัสดิการและคุ้มครองแรงงาน" id="mwAY8">กรมสวัสดิการและคุ้มครองแรงงาน</a></td>
+<td id="mwAZA">สำนักงานสวัสดิการ
+<p id="mwAZE">และคุ้มครองแรงงานจังหวัด</p></td>
+<td id="mwAZI">สวัสดิการ
+<p id="mwAZM">และคุ้มครองแรงงานจังหวัด 
+(อำนวยการระดับต้น/สูง)</p></td>
+<td id="mwAZQ"></td>
+<td id="mwAZU"></td>
+<td id="mwAZY"></td></tr>
+<tr id="mwAZc">
+<td id="mwAZg"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/สำนักงานประกันสังคม" title="สำนักงานประกันสังคม" id="mwAZk">สำนักงานประกันสังคม</a></td>
+<td id="mwAZo">สำนักงานประกันสังคมจังหวัด</td>
+<td id="mwAZs">ประกันสังคมจังหวัด
+<p id="mwAZw">(อำนวยการระดับต้น)</p></td>
+<td id="mwAZ0"></td>
+<td id="mwAZ4"></td>
+<td id="mwAZ8"></td></tr>
+<tr id="mwAaA">
+<td style="text-align:center" id="mwAaE"><b id="mwAaI"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กระทรวงวัฒนธรรม_(ประเทศไทย)" title="กระทรวงวัฒนธรรม (ประเทศไทย)" id="mwAaM">กระทรวงวัฒนธรรม</a></b></td>
+<td id="mwAaQ"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/สำนักงานปลัดกระทรวงวัฒนธรรม" title="สำนักงานปลัดกระทรวงวัฒนธรรม" id="mwAaU">สำนักงานปลัดกระทรวงวัฒนธรรม</a></td>
+<td id="mwAaY">สำนักงานวัฒนธรรมจังหวัด</td>
+<td id="mwAac">วัฒนธรรมจังหวัด 
+<p id="mwAag">(อำนวยการระดับสูง)</p></td>
+<td id="mwAak"></td>
+<td id="mwAao"></td>
+<td id="mwAas"></td></tr>
+<tr id="mwAaw">
+<td style="text-align:center" id="mwAa0"><b id="mwAa4"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กระทรวงสาธารณสุข_(ประเทศไทย)" title="กระทรวงสาธารณสุข (ประเทศไทย)" id="mwAa8">กระทรวงสาธารณสุข</a></b></td>
+<td id="mwAbA"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/สำนักงานปลัดกระทรวงสาธารณสุข" title="สำนักงานปลัดกระทรวงสาธารณสุข" id="mwAbE">สำนักงานปลัดกระทรวงสาธารณสุข</a></td>
+<td id="mwAbI">สำนักงานสาธารณสุขจังหวัด</td>
+<td id="mwAbM">นายแพทย์สาธารณสุขจังหวัด 
+<p id="mwAbQ">(ผู้อำนวยการเฉพาะด้าน(แพทย์))
+อำนวยการ 
+ระดับสูง</p></td>
+<td id="mwAbU">สำนักงานสาธารณสุขอำเภอ</td>
+<td id="mwAbY">สาธารณสุขอำเภอ
+<p id="mwAbc">(วิชาการ/ชำนาญการพิเศษ)
+(ทั่วไป/อาวุโส)</p></td>
+<td id="mwAbg"></td></tr>
+<tr id="mwAbk">
+<td style="text-align:center" id="mwAbo"><b id="mwAbs"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กระทรวงอุตสาหกรรม_(ประเทศไทย)" title="กระทรวงอุตสาหกรรม (ประเทศไทย)" id="mwAbw">กระทรวงอุตสาหกรรม</a></b></td>
+<td id="mwAb0"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/สำนักงานปลัดกระทรวงอุตสาหกรรม" title="สำนักงานปลัดกระทรวงอุตสาหกรรม" class="mw-redirect" id="mwAb4">สำนักงานปลัดกระทรวงอุตสาหกรรม</a></td>
+<td id="mwAb8">สำนักงานอุตสาหกรรมจังหวัด</td>
+<td id="mwAcA">อุตสาหกรรมจังหวัด 
+<p id="mwAcE">(อำนวยการระดับสูง/ต้น)</p></td>
+<td id="mwAcI"></td>
+<td id="mwAcM"></td>
+<td id="mwAcQ"></td></tr>
+<tr id="mwAcU">
+<td style="text-align:center" id="mwAcY"><b id="mwAcc">ส่วนราชการไม่สังกัดกระทรวง ทบวง หรือสำนักนายกรัฐมนตรี</b></td>
+<td id="mwAcg"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/สำนักงานพระพุทธศาสนาแห่งชาติ" title="สำนักงานพระพุทธศาสนาแห่งชาติ" id="mwAck">สำนักงานพระพุทธศาสนาแห่งชาติ</a></td>
+<td id="mwAco">สำนักงานพระพุทธศาสนาจังหวัด</td>
+<td id="mwAcs">ผู้อำนวยการ
+<p id="mwAcw">สำนักงานพระพุทธศาสนา
+จังหวัด 
+(อำนวยการระดับสูง/ต้น)</p></td>
+<td id="mwAc0"></td>
+<td id="mwAc4"></td>
+<td id="mwAc8"></td></tr>
+<tr class="mw-empty-elt" id="mwAdA"></tr>
+</tbody></table>
+
+</section></section><section data-mw-section-id="6" id="mwAdE" aria-labelledby="การจัดระเบียบบริหารราชการส่วนภูมิภาคแบบเฉพาะ"><div class="mw-heading mw-heading2"><h2 id="การจัดระเบียบบริหารราชการส่วนภูมิภาคแบบเฉพาะ"><span id=".E0.B8.81.E0.B8.B2.E0.B8.A3.E0.B8.88.E0.B8.B1.E0.B8.94.E0.B8.A3.E0.B8.B0.E0.B9.80.E0.B8.9A.E0.B8.B5.E0.B8.A2.E0.B8.9A.E0.B8.9A.E0.B8.A3.E0.B8.B4.E0.B8.AB.E0.B8.B2.E0.B8.A3.E0.B8.A3.E0.B8.B2.E0.B8.8A.E0.B8.81.E0.B8.B2.E0.B8.A3.E0.B8.AA.E0.B9.88.E0.B8.A7.E0.B8.99.E0.B8.A0.E0.B8.B9.E0.B8.A1.E0.B8.B4.E0.B8.A0.E0.B8.B2.E0.B8.84.E0.B9.81.E0.B8.9A.E0.B8.9A.E0.B9.80.E0.B8.89.E0.B8.9E.E0.B8.B2.E0.B8.B0" typeof="mw:FallbackId"></span>การจัดระเบียบบริหารราชการส่วนภูมิภาคแบบเฉพาะ</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89:Www.pea.or.th&amp;action=edit&amp;section=6" title="แก้ไขส่วน: การจัดระเบียบบริหารราชการส่วนภูมิภาคแบบเฉพาะ"><span>แก้</span></a><span class="mw-editsection-bracket">]</span></span></div>
+
+<section data-mw-section-id="7" id="mwAdI" aria-labelledby="ส่วนราชการของกระทรวงกลาโหมในส่วนภูมิภาค"><div class="mw-heading mw-heading3"><h3 id="ส่วนราชการของกระทรวงกลาโหมในส่วนภูมิภาค"><span id=".E0.B8.AA.E0.B9.88.E0.B8.A7.E0.B8.99.E0.B8.A3.E0.B8.B2.E0.B8.8A.E0.B8.81.E0.B8.B2.E0.B8.A3.E0.B8.82.E0.B8.AD.E0.B8.87.E0.B8.81.E0.B8.A3.E0.B8.B0.E0.B8.97.E0.B8.A3.E0.B8.A7.E0.B8.87.E0.B8.81.E0.B8.A5.E0.B8.B2.E0.B9.82.E0.B8.AB.E0.B8.A1.E0.B9.83.E0.B8.99.E0.B8.AA.E0.B9.88.E0.B8.A7.E0.B8.99.E0.B8.A0.E0.B8.B9.E0.B8.A1.E0.B8.B4.E0.B8.A0.E0.B8.B2.E0.B8.84" typeof="mw:FallbackId"></span>ส่วนราชการของ<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กระทรวงกลาโหม_(ประเทศไทย)" title="กระทรวงกลาโหม (ประเทศไทย)" id="mwAdM">กระทรวงกลาโหม</a>ในส่วนภูมิภาค</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89:Www.pea.or.th&amp;action=edit&amp;section=7" title="แก้ไขส่วน: ส่วนราชการของกระทรวงกลาโหมในส่วนภูมิภาค"><span>แก้</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mwAdQ">การบริหารราชการของ <a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กระทรวงกลาโหม_(ประเทศไทย)" title="กระทรวงกลาโหม (ประเทศไทย)" id="mwAdU">กระทรวงกลาโหม</a>ในส่วนภูมิภาค เป็นรูปแบบเฉพาะตามพระราชบัญญัติระเบียบราชการกระทรวงกลาโหม พุทธศักราช (พ.ศ.) 2551<sup about="#mwt13" class="mw-ref reference" id="cite_ref-1" rel="dc:references" typeof="mw:Extension/ref" data-mw='{"name":"ref","attrs":{},"body":{"id":"mw-reference-text-cite_note-1"}}'><a href="#cite_note-1" id="mwAdY"><span class="mw-reflink-text" id="mwAdc"><span class="cite-bracket" id="mwAdg">[</span>1<span class="cite-bracket" id="mwAdk">]</span></span></a></sup> ซึ่งมิได้กำหนดให้กระทรวงกลาโหมต้องจัดการระเบียบการบริหารส่วนภูมิภาค แต่การจัดส่วนราชการใหม่ตามพระราชกฤษฎีกาแบ่งส่วนราชการและกำหนดหน้าที่ของส่วนราชการกองบัญชาการกองทัพไทย กองทัพบก กองทัพเรือ และกองทัพอากาศ ได้แบ่งส่วนราชการในภูมิภาคดังนี้</p>
+
+<ul id="mwAdo"><li id="mwAds"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กองบัญชาการกองทัพไทย" title="กองบัญชาการกองทัพไทย" id="mwAdw">กองบัญชาการกองทัพไทย</a></li></ul>
+
+<p id="mwAd0">หน่วยบัญชาการทหารพัฒนา มีหน้าที่พิจารณาเสนอความเห็นเกี่ยวกับนโยบายวางแผน อำนวยการประสานงาน และดำเนินการ เกี่ยวกับการเสริมสร้างความมั่นคงของชาติ ด้วยการพัฒนาประเทศ และสังคมจิตวิทยาของประเทศ ในท้องถิ่นทุรกันดาร ในพื้นที่กำหนดเพื่อป้องกันอธิปไตย และรักษาความสงบเรียบร้อยของประเทศ รวมทั้งการพัฒนา กำลังพล สำหรับสนับสนุน การพัฒนาประเทศ ตลอดจน ปฏิบัติภารกิจอื่น ๆ ที่เกี่ยวข้อง ตามที่ ได้รับมอบหมาย โดยแบ่งพื้นที่เป็น</p>
+
+<ol id="mwAd4"><li id="mwAd8">สำนักงานพัฒนาภาค 1</li>
+<li id="mwAeA">สำนักงานพัฒนาภาค 2</li>
+<li id="mwAeE">สำนักงานพัฒนาภาค 3</li>
+<li id="mwAeI">สำนักงานพัฒนาภาค 4</li>
+<li id="mwAeM">สำนักงานพัฒนาภาค 5</li></ol>
+
+<ul id="mwAeQ"><li id="mwAeU"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กองทัพบกไทย" title="กองทัพบกไทย" id="mwAeY">กองทัพบก</a></li></ul>
+
+<p id="mwAec">กองทัพภาค มีหน้าที่ป้องกันอธิปไตย และรักษาความสงบเรียบร้อยของประเทศ ในส่วนภูมิภาค โดยแบ่งส่วนราชการออกเป็น กองพลทหารราบ กองพลทหารม้า กองพลพัฒนา กองพลทหารปืนใหญ่ หน่วยป้องกันชายแดนและภารกิจพิเศษในพื้นที่ และหน่วยขึ้นตรง เช่น มณฑลทหารบก จังหวัดทหารบก โดยแบ่งพื้นที่เป็น</p>
+
+<ol id="mwAeg"><li id="mwAek">กองทัพบกภาคที่ 1</li>
+<li id="mwAeo">กองทัพบกภาคที่ 2</li>
+<li id="mwAes">กองทัพบกภาคที่ 3</li>
+<li id="mwAew">กองทัพบกภาคที่ 4</li></ol>
+
+<ul id="mwAe0"><li id="mwAe4"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กองทัพเรือไทย" title="กองทัพเรือไทย" id="mwAe8">กองทัพเรือ</a></li></ul>
+
+<p id="mwAfA">กองทัพเรือภาค มีหน้าที่ป้องกันอธิปไตย และรักษาความสงบเรียบร้อยของประเทศทางทะเล ในส่วนภูมิภาค โดยแบ่งส่วนราชการออกเป็น หมวดเรือเฉพาะกิจ หมวดบินเฉพาะกิจ และชุดปฏิบัติการพิเศษ โดยแบ่งพื้นที่เป็น</p>
+
+<ol id="mwAfE"><li id="mwAfI">กองทัพเรือภาคที่ 1</li>
+<li id="mwAfM">กองทัพเรือภาคที่ 2</li>
+<li id="mwAfQ">กองทัพเรือภาคที่ 3</li></ol>
+
+<ul id="mwAfU"><li id="mwAfY"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กองทัพอากาศไทย" title="กองทัพอากาศไทย" id="mwAfc">กองทัพอากาศ</a></li></ul>
+
+<p id="mwAfg">ส่วนกำลังรบ มีหน้าที่ป้องกันอธิปไตย และรักษาความสงบเรียบร้อยของประเทศทางอากาศ โดยแบ่งส่วนราชการออกเป็น กองบิน กรมควบคุมการปฏิบัติทางอากาศ และหน่วยบัญชาการอากาศโยธิน โดยกระจายพื้นที่ทั่วประเทศ</p>
+
+</section><section data-mw-section-id="8" id="mwAfk" aria-labelledby="ส่วนราชการของกระทรวงศึกษาธิการในส่วนภูมิภาค"><div class="mw-heading mw-heading3"><h3 id="ส่วนราชการของกระทรวงศึกษาธิการในส่วนภูมิภาค"><span id=".E0.B8.AA.E0.B9.88.E0.B8.A7.E0.B8.99.E0.B8.A3.E0.B8.B2.E0.B8.8A.E0.B8.81.E0.B8.B2.E0.B8.A3.E0.B8.82.E0.B8.AD.E0.B8.87.E0.B8.81.E0.B8.A3.E0.B8.B0.E0.B8.97.E0.B8.A3.E0.B8.A7.E0.B8.87.E0.B8.A8.E0.B8.B6.E0.B8.81.E0.B8.A9.E0.B8.B2.E0.B8.98.E0.B8.B4.E0.B8.81.E0.B8.B2.E0.B8.A3.E0.B9.83.E0.B8.99.E0.B8.AA.E0.B9.88.E0.B8.A7.E0.B8.99.E0.B8.A0.E0.B8.B9.E0.B8.A1.E0.B8.B4.E0.B8.A0.E0.B8.B2.E0.B8.84" typeof="mw:FallbackId"></span>ส่วนราชการของ<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กระทรวงศึกษาธิการ_(ประเทศไทย)" title="กระทรวงศึกษาธิการ (ประเทศไทย)" id="mwAfo">กระทรวงศึกษาธิการ</a>ในส่วนภูมิภาค</h3><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89:Www.pea.or.th&amp;action=edit&amp;section=8" title="แก้ไขส่วน: ส่วนราชการของกระทรวงศึกษาธิการในส่วนภูมิภาค"><span>แก้</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mwAfs">การบริหารราชการของ <a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กระทรวงศึกษาธิการ_(ประเทศไทย)" title="กระทรวงศึกษาธิการ (ประเทศไทย)" id="mwAfw">กระทรวงศึกษาธิการ</a>ในส่วนภูมิภาค เป็นรูปแบบเฉพาะตามพระราชบัญญัติระเบียบบริหารราชการกระทรวงศึกษาธิการ พ.ศ. 2546<sup about="#mwt15" class="mw-ref reference" id="cite_ref-2" rel="dc:references" typeof="mw:Extension/ref" data-mw='{"name":"ref","attrs":{},"body":{"id":"mw-reference-text-cite_note-2"}}'><a href="#cite_note-2" id="mwAf0"><span class="mw-reflink-text" id="mwAf4"><span class="cite-bracket" id="mwAf8">[</span>2<span class="cite-bracket" id="mwAgA">]</span></span></a></sup> ที่กำหนดให้การจัดระเบียบการบริหารราชการแบ่งเป็น <b id="mwAgE">บริหารราชการในส่วนกลาง</b> <b id="mwAgI">บริหารราชการในเขตพื้นที่การศึกษา</b> และ <b id="mwAgM">บริหารราชการในสถานศึกษาของรัฐที่จัดการศึกษาระดับปริญญา ที่เป็นนิติบุคคล</b></p>
+
+<p id="mwAgQ"><b id="mwAgU">บริหารราชการในเขตพื้นที่การศึกษา</b> มีการจัดระเบียบการบริหารราชการดังนี้</p>
+
+<ol id="mwAgY"><li id="mwAgc"><b id="mwAgg">สำนักงานเขตพื้นที่การศึกษาประถมศึกษา</b> มีหน้าที่ในการจัดการศึกษาระดับอนุบาล และประถมศึกษาให้สอดกับความต้องการของท้องถิ่น และนโยบายการศึกษาของประเทศ</li>
+<li id="mwAgk"><b id="mwAgo">สำนักงานเขตพื้นที่การศึกษามัธยมศึกษา</b> มีหน้าที่ในการจัดการศึกษาระดับมัธยมศึกษาให้สอดกับความต้องการของท้องถิ่น และนโยบายการศึกษาของประเทศ</li></ol>
+
+</section></section><section data-mw-section-id="9" id="mwAgs" aria-labelledby="แนวคิดปฏิรูป"><div class="mw-heading mw-heading2"><h2 id="แนวคิดปฏิรูป"><span id=".E0.B9.81.E0.B8.99.E0.B8.A7.E0.B8.84.E0.B8.B4.E0.B8.94.E0.B8.9B.E0.B8.8F.E0.B8.B4.E0.B8.A3.E0.B8.B9.E0.B8.9B" typeof="mw:FallbackId"></span>แนวคิดปฏิรูป</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89:Www.pea.or.th&amp;action=edit&amp;section=9" title="แก้ไขส่วน: แนวคิดปฏิรูป"><span>แก้</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mwAgw">ปัจจุบันมีหลายพรรคที่จะใช้ระบบการกระจายอำนาจมาใช้กับระดับจังหวัดแต่มีปัญหาอยู่มากเช่น 1.อาจการเป็นการผูกขาดทางอำนาจให้แก่ผู้มีอิทธิพลสังเกตจากนายกอบจ.ส่วนมากมีหน้าซ้ำๆหรือเครือเดียวกันทั้งๆที่ประชากรส่วนมากแทบไม่รู้จักเลย 2.มีการคดโกงเกิดขึ้นบ่อยจากกรณีอบจ.ลำพูน เนื่องจากระบบบริหารท้องถิ่นมีบางส่วนที่ลูกจ้างและข้าราชการที่เป็นคนเครือเดียวกันรู้จักกันทำให้ช่วยปกปิดได้ต่างจากระบบส่วนกลางที่มีการหมุนเวียนข้าราชการให้ไปหลายๆที่และการฟ้องร้องผู้ที่มีอิทธิพลต่อพื้นที่เป็นอะไรที่เสี่ยงมากๆ 3.ชาวบ้านอาจฟ้องร้องได้ยากเพราะถ้ามีปัญหากับเราผู้มีอิทธิพลอาจมีอันตรายซึ่งส่วนกลางไม่สามารถคุ้มครองได้ทันที 4.อาจมีการใช้กองกำลังท้องถิ่นในทางที่ผิดเช่น อส. ตร. แต่ระบบนี่มีข้อดี 1.ถ้าชาวบ้านได้นายกที่ดีจริงๆจะมีการช่วยเหลือที่ทันท่วงทีไม่ต้องผ่านระบบซับซ้อนของส่วนกลาง 2.จะมีการทราบปัญหาที่แท้จริงของชาวบ้านเพราะเนื่องจากคนในระบบนี่ส่วนใหญ่จะเป็นคนในพื้นที่(ซึ่งตอนนี้ระบบกลางก็มีการใช้อยู่เป็นการคละคนให้มีคนในพื้นที่และจากด้านนอก) 3.ชาวบ้านจะมีความกล้าในการติดต่อส่วนราชการเพราะมีคนในระบบท้องถิ่นนี่มีความเป็นกันเองกับข้าราชการเนื่องจากเป็นคนในพื้นที่จากที่แต่ก่อนชาวบ้านจะมองข้าราชการว่าเป็นสิ่งที่เข้าถึงยาก</p>
+
+</section><section data-mw-section-id="10" id="mwAg0" aria-labelledby="อ้างอิง"><div class="mw-heading mw-heading2"><h2 id="อ้างอิง"><span id=".E0.B8.AD.E0.B9.89.E0.B8.B2.E0.B8.87.E0.B8.AD.E0.B8.B4.E0.B8.87" typeof="mw:FallbackId"></span>อ้างอิง</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89:Www.pea.or.th&amp;action=edit&amp;section=10" title="แก้ไขส่วน: อ้างอิง"><span>แก้</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<span class="mw-empty-elt" about="#mwt16" typeof="mw:Transclusion" id="mwAg4" data-mw='{"parts":[{"template":{"target":{"wt":"รายการอ้างอิง","href":"./แม่แบบ:รายการอ้างอิง"},"params":{},"i":0}}]}'><style data-mw-deduplicate="TemplateStyles:r12727171" typeof="mw:Extension/templatestyles" about="#mwt17" data-mw='{"name":"templatestyles","attrs":{"src":"รายการอ้างอิง/styles.css"}}'>.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}body.skin-vector-2022 .mw-parser-output .reflist-columns-2{column-width:27em}body.skin-vector-2022 .mw-parser-output .reflist-columns-3{column-width:22.5em}.mw-parser-output .references[data-mw-group=upper-alpha]{list-style-type:upper-alpha}.mw-parser-output .references[data-mw-group=upper-roman]{list-style-type:upper-roman}.mw-parser-output .references[data-mw-group=lower-alpha]{list-style-type:lower-alpha}.mw-parser-output .references[data-mw-group=lower-greek]{list-style-type:lower-greek}.mw-parser-output .references[data-mw-group=lower-roman]{list-style-type:lower-roman}.mw-parser-output div.reflist-liststyle-upper-alpha .references{list-style-type:upper-alpha}.mw-parser-output div.reflist-liststyle-upper-roman .references{list-style-type:upper-roman}.mw-parser-output div.reflist-liststyle-lower-alpha .references{list-style-type:lower-alpha}.mw-parser-output div.reflist-liststyle-lower-greek .references{list-style-type:lower-greek}.mw-parser-output div.reflist-liststyle-lower-roman .references{list-style-type:lower-roman}</style></span><div about="#mwt16" id="mwAg8">
+<div class="mw-references-wrap" typeof="mw:Extension/references" about="#mwt18" id="mwAhA" data-mw='{"name":"references","attrs":{"group":"","responsive":"1"},"body":{"extsrc":""}}'><ol class="mw-references references" id="mwAhE"><li about="#cite_note-1" id="cite_note-1" data-mw-footnote-number="1"><span class="mw-cite-backlink" id="mwAhI"><a href="#cite_ref-1" rel="mw:referencedBy" id="mwAhM"><span class="mw-linkback-text" id="mwAhQ">↑</span></a></span> <span id="mw-reference-text-cite_note-1" class="mw-reference-text reference-text"><a rel="mw:ExtLink nofollow" href="http://www.ratchakitcha.soc.go.th/DATA/PDF/2551/A/026/35.PDF" class="external text" id="mwAhU">พระราชบัญญัติระเบียบราชการกระทรวงกลาโหม พ.ศ. 2551</a>ราชกิจจานุเบกษา เล่ม 125 ตอนที่ 26 ก วันที่ 1 กุมภาพันธ์ 2551 หน้า 35</span></li>
+<li about="#cite_note-2" id="cite_note-2" data-mw-footnote-number="2"><span class="mw-cite-backlink" id="mwAhY"><a href="#cite_ref-2" rel="mw:referencedBy" id="mwAhc"><span class="mw-linkback-text" id="mwAhg">↑</span></a></span> <span id="mw-reference-text-cite_note-2" class="mw-reference-text reference-text"><a rel="mw:ExtLink nofollow" href="http://www.ratchakitcha.soc.go.th/DATA/PDF/00126560.PDF" class="external text" id="mwAhk">พระราชบัญญัติระเบียบบริหารราชการกระทรวงศึกษาธิการ พ.ศ. ๒๕๔๖</a> <a rel="mw:ExtLink nofollow" href="https://web.archive.org/web/20111120084427/http://www.ratchakitcha.soc.go.th/DATA/PDF/00126560.PDF" about="#mwt14" typeof="mw:Transclusion" class="external text" id="mwAho" data-mw='{"parts":[{"template":{"target":{"wt":"Webarchive","href":"./แม่แบบ:Webarchive"},"params":{"url":{"wt":"https://web.archive.org/web/20111120084427/http://www.ratchakitcha.soc.go.th/DATA/PDF/00126560.PDF"},"date":{"wt":"2011-11-20"}},"i":0}}]}'>เก็บถาวร</a><span about="#mwt14" id="mwAhs"> 2011-11-20 ที่ </span><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/เวย์แบ็กแมชชีน" title="เวย์แบ็กแมชชีน" about="#mwt14" id="mwAhw">เวย์แบ็กแมชชีน</a><link rel="mw:PageProp/Category" href="./หมวดหมู่:Webarchive_template_wayback_links" about="#mwt14" id="mwAh0"/> ราชกิจจานุเบกษา เล่มที่ 120 ตอนที่ 62 ก ลงวันที่ 6 กรกฎาคม 2546 หน้า 1</span></li>
+</ol></div></div>
+
+<ul id="mwAh4"><li id="mwAh8"><a rel="mw:ExtLink nofollow" href="http://www.kasetyaso.ac.th/politic/11.pdf" class="external text" id="mwAiA">การปกครองส่วนภูมิภาค</a> <a rel="mw:ExtLink nofollow" href="https://web.archive.org/web/20110628090116/http://www.kasetyaso.ac.th/politic/11.pdf" about="#mwt19" typeof="mw:Transclusion" class="external text" id="mwAiE" data-mw='{"parts":[{"template":{"target":{"wt":"Webarchive","href":"./แม่แบบ:Webarchive"},"params":{"url":{"wt":"https://web.archive.org/web/20110628090116/http://www.kasetyaso.ac.th/politic/11.pdf"},"date":{"wt":"2011-06-28"}},"i":0}}]}'>เก็บถาวร</a><span about="#mwt19"> 2011-06-28 ที่ </span><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/เวย์แบ็กแมชชีน" title="เวย์แบ็กแมชชีน" about="#mwt19">เวย์แบ็กแมชชีน</a><link rel="mw:PageProp/Category" href="./หมวดหมู่:Webarchive_template_wayback_links" about="#mwt19" id="mwAiI"/></li></ul>
+<div class="navbox-styles" about="#mwt20" typeof="mw:Transclusion" id="mwAiM" data-mw='{"parts":[{"template":{"target":{"wt":"การบริหารราชการแผ่นดินไทย","href":"./แม่แบบ:การบริหารราชการแผ่นดินไทย"},"params":{},"i":0}}]}'><span class="mw-empty-elt"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r12093835" about="#mwt21" typeof="mw:Extension/templatestyles" data-mw='{"name":"templatestyles","attrs":{"src":"Hlist/styles.css"},"body":{"extsrc":""}}'/><style data-mw-deduplicate="TemplateStyles:r13178159" typeof="mw:Extension/templatestyles" about="#mwt22" data-mw='{"name":"templatestyles","attrs":{"src":"มอดูล:Navbox/styles.css"},"body":{"extsrc":""}}'>.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd;color:inherit}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf;color:inherit}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf;color:inherit}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff;color:inherit}.mw-parser-output .navbox-even{background-color:#f7f7f7;color:inherit}.mw-parser-output .navbox-odd{background-color:transparent;color:inherit}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}body.skin--responsive .mw-parser-output .navbox-image img{max-width:none!important}@media print{body.ns-0 .mw-parser-output .navbox{display:none!important}}</style></span></div><div role="navigation" class="navbox" aria-labelledby="ราชการของฝ่ายบริหารไทย2290" style="padding:3px" about="#mwt20" id="mwAiQ"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><span class="mw-empty-elt"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r12093835" about="#mwt23" typeof="mw:Extension/templatestyles" data-mw='{"name":"templatestyles","attrs":{"src":"Hlist/styles.css"},"body":{"extsrc":""}}'/><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r12093841" about="#mwt24" typeof="mw:Extension/templatestyles" data-mw='{"name":"templatestyles","attrs":{"src":"มอดูล:Navbar/styles.css"},"body":{"extsrc":""}}'/></span><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-ดู"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/แม่แบบ:การบริหารราชการแผ่นดินไทย" title="แม่แบบ:การบริหารราชการแผ่นดินไทย"><abbr title="ดูแม่แบบนี้">ด</abbr></a></li><li class="nv-คุย"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/คุยเรื่องแม่แบบ:การบริหารราชการแผ่นดินไทย" title="คุยเรื่องแม่แบบ:การบริหารราชการแผ่นดินไทย"><abbr title="อภิปรายแม่แบบนี้">ค</abbr></a></li><li class="nv-แก้"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/พิเศษ:EditPage/แม่แบบ:การบริหารราชการแผ่นดินไทย" title="พิเศษ:EditPage/แม่แบบ:การบริหารราชการแผ่นดินไทย"><abbr title="แก้ไขแม่แบบนี้">ก</abbr></a></li></ul></div><div id="ราชการของฝ่ายบริหารไทย2290" style="font-size:114%;margin:0 4em">ราชการของฝ่ายบริหารไทย</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%;background:#e6e6ff;line-height:1.3em;text-align: left;"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ราชการส่วนกลาง_(ประเทศไทย)" title="ราชการส่วนกลาง (ประเทศไทย)">ราชการส่วนกลาง</a></th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กระทรวงในประเทศไทย" title="กระทรวงในประเทศไทย">กระทรวง</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/รัฐวิสาหกิจไทย" title="รัฐวิสาหกิจไทย">รัฐวิสาหกิจ</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/องค์การมหาชน" title="องค์การมหาชน">องค์การมหาชน</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/หน่วยบริการรูปแบบพิเศษ_(ประเทศไทย)" title="หน่วยบริการรูปแบบพิเศษ (ประเทศไทย)">หน่วยงานรูปแบบพิเศษ</a></li></ul>
+</div></td><td class="noviewer navbox-image" rowspan="4" style="width:1px;padding:0 0 0 2px"><div><span typeof="mw:File"><a href="https://th.wikipedia.org/wiki/ไฟล์:Emblem_of_Thailand.svg" class="mw-file-description"><img resource="https://th.wikipedia.org/wiki/ไฟล์:Emblem_of_Thailand.svg" src="//thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Emblem_of_Thailand.svg/60px-Emblem_of_Thailand.svg.png?utm_source=th.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" decoding="async" loading="lazy" srcset="//thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Emblem_of_Thailand.svg/120px-Emblem_of_Thailand.svg.png?utm_source=th.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" data-file-width="374" data-file-height="398" data-file-type="drawing" height="64" width="60" class="mw-file-element"/></a></span></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background:#e6e6ff;line-height:1.3em;text-align: left;"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ราชการส่วนภูมิภาค_(ประเทศไทย)" title="ราชการส่วนภูมิภาค (ประเทศไทย)">ราชการส่วนภูมิภาค</a></th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/จังหวัดในประเทศไทย" title="จังหวัดในประเทศไทย" class="mw-redirect">จังหวัด</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/อำเภอ" title="อำเภอ">อำเภอ</a>/<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กิ่งอำเภอ" title="กิ่งอำเภอ">กิ่งอำเภอ</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background:#e6e6ff;line-height:1.3em;text-align: left;"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ราชการส่วนท้องถิ่น_(ประเทศไทย)" title="ราชการส่วนท้องถิ่น (ประเทศไทย)">ราชการส่วนท้องถิ่น</a></th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/องค์การบริหารส่วนจังหวัด" title="องค์การบริหารส่วนจังหวัด">องค์การบริหารส่วนจังหวัด</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/เทศบาลนครในประเทศไทย" title="เทศบาลนครในประเทศไทย">เทศบาลนคร</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/เทศบาลเมือง" title="เทศบาลเมือง">เทศบาลเมือง</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/เทศบาลตำบล" title="เทศบาลตำบล">เทศบาลตำบล</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/องค์การบริหารส่วนตำบล" title="องค์การบริหารส่วนตำบล">องค์การบริหารส่วนตำบล</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กรุงเทพมหานคร_(องค์กรปกครองส่วนท้องถิ่น)" title="กรุงเทพมหานคร (องค์กรปกครองส่วนท้องถิ่น)">กรุงเทพมหานคร</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/เมืองพัทยา" title="เมืองพัทยา">เมืองพัทยา</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background:#e6e6ff;line-height:1.3em;text-align: left;"><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/หน่วยราชการในพระองค์" title="หน่วยราชการในพระองค์">ราชการในพระองค์</a></th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/สำนักพระราชวัง" title="สำนักพระราชวัง">สำนักพระราชวัง</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/หน่วยบัญชาการถวายความปลอดภัยรักษาพระองค์" title="หน่วยบัญชาการถวายความปลอดภัยรักษาพระองค์">หน่วยบัญชาการถวายความปลอดภัยรักษาพระองค์</a></li>
+<li><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/สำนักงานองคมนตรี" title="สำนักงานองคมนตรี">สำนักงานองคมนตรี</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="3"><div><a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/หมวดหมู่:การจัดระเบียบบริหารราชการแผ่นดินของไทย" title="หมวดหมู่:การจัดระเบียบบริหารราชการแผ่นดินของไทย">หมวดหมู่:การจัดระเบียบบริหารราชการแผ่นดินของไทย</a></div></td></tr></tbody></table></div><p id="mwAiU"><b id="mwAiY">การจัดการปกครอง</b> (Governance) เป็นคำศัพท์ที่เกิดขึ้นพร้อมกับการเคลื่อนไหวเปลี่ยนแปลงบทบาทของ<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/รัฐ" title="รัฐ" id="mwAic">รัฐ</a>ช่วงทศวรรษ 1990 เป็นการวางแนวทางและจัดความสัมพันธ์ใน<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/การปกครอง" title="การปกครอง" id="mwAig">การปกครอง</a>ของ<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ภาครัฐ" title="ภาครัฐ" class="mw-redirect" id="mwAik">ภาครัฐ</a>ใหม่เพื่อให้ระบบ<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/การเมือง" title="การเมือง" id="mwAio">การเมือง</a>เปิดกว้าง และกระจายอำนาจมากยิ่งขึ้น ส่งเสริมให้ตัวแสดงนอก<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ภาครัฐ" title="ภาครัฐ" class="mw-redirect" id="mwAis">ภาครัฐ</a>สามารถเข้ามามีส่วนร่วมใน<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/การปกครอง" title="การปกครอง" id="mwAiw">การปกครอง</a>มากยิ่งขึ้น และเปลี่ยนแปลงจากอำนาจที่รวมศูนย์อยู่ที่<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/รัฐบาล" title="รัฐบาล" id="mwAi0">รัฐบาล</a> ให้กระจายออกไปตามท้องถิ่นต่างๆ เพื่อให้เกิดองค์กรท้องถิ่นที่ปกครองตัวเอง และลดขนาดของ<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ภาครัฐ" title="ภาครัฐ" class="mw-redirect" id="mwAi4">ภาครัฐ</a>ให้เล็กลงเพื่อความคล่องตัว (เอก ตั้งทรัพย์วัฒนา, 2550: 134-135)<sup about="#mwt25" class="mw-ref reference" id="cite_ref-3" rel="dc:references" typeof="mw:Extension/ref" data-mw='{"name":"ref","attrs":{},"body":{"id":"mw-reference-text-cite_note-3"}}'><a href="#cite_note-3" id="mwAi8"><span class="mw-reflink-text" id="mwAjA"><span class="cite-bracket" id="mwAjE">[</span>1<span class="cite-bracket" id="mwAjI">]</span></span></a></sup></p>
+
+</section><section data-mw-section-id="11" id="mwAjM" aria-labelledby="อรรถาธิบาย"><div class="mw-heading mw-heading2"><h2 id="อรรถาธิบาย"><span id=".E0.B8.AD.E0.B8.A3.E0.B8.A3.E0.B8.96.E0.B8.B2.E0.B8.98.E0.B8.B4.E0.B8.9A.E0.B8.B2.E0.B8.A2" typeof="mw:FallbackId"></span>อรรถาธิบาย</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89:Www.pea.or.th&amp;action=edit&amp;section=11" title="แก้ไขส่วน: อรรถาธิบาย"><span>แก้</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mwAjQ">การวางหลักการจัดการปกครอง (governance) เข้ามาแทนที่แนวคิดว่าด้วย<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/การปกครอง" title="การปกครอง" id="mwAjU">การปกครอง</a> (government) โดยมีการเปลี่ยนแปลงสำคัญ 6 ด้านหลักคือ</p>
+
+<ol id="mwAjY"><li id="mwAjc">การลดขนาด<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ภาครัฐ" title="ภาครัฐ" class="mw-redirect" id="mwAjg">ภาครัฐ</a>ให้เล็กลง</li>
+<li id="mwAjk">การสร้างภาคีการจัดการปกครองเพื่อทำการตรวจสอบและควบคุม</li>
+<li id="mwAjo">การบริหารงานแบบหลักการจัดการภาครัฐแนวใหม่ (New Public Management: NPM) ที่นำหลักการบริหารของเอกชนมาปรับใช้กับ<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ภาครัฐ" title="ภาครัฐ" class="mw-redirect" id="mwAjs">ภาครัฐ</a></li>
+<li id="mwAjw">การใช้หลัก<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ธรรมาภิบาล" title="ธรรมาภิบาล" id="mwAj0">ธรรมาภิบาล</a> (good governance) ส่งเสริมการมี<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ประสิทธิภาพ" title="ประสิทธิภาพ" id="mwAj4">ประสิทธิภาพ</a>และความรับผิดชอบต่อสาธารณะ</li>
+<li id="mwAj8">สร้างระบบเชื่อมโยงกับ<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/สังคม" title="สังคม" id="mwAkA">สังคม</a> (socio-cybernetic system) เปิดให้ภาคส่วนอื่นๆ เข้ามาร่วมกำหนดการตัดสินใจพร้อมไปกับ<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ภาครัฐ" title="ภาครัฐ" class="mw-redirect" id="mwAkE">ภาครัฐ</a> และ</li>
+<li id="mwAkI">การสร้างเครือข่ายจัดการตัวเอง (self-organizing network) ให้อิสระในการปกครองตัวเอง (autonomy) และส่งเสริมการจัด<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/การปกครองท้องถิ่น" title="การปกครองท้องถิ่น" class="mw-redirect" id="mwAkM">การปกครองท้องถิ่น</a> (local governance) ซึ่งทำงานในลักษณะเครือข่ายที่มีการพึ่งพาอาศัยกัน (Rhodes, 1996: 654-660)<sup about="#mwt26" class="mw-ref reference" id="cite_ref-4" rel="dc:references" typeof="mw:Extension/ref" data-mw='{"name":"ref","attrs":{},"body":{"id":"mw-reference-text-cite_note-4"}}'><a href="#cite_note-4" id="mwAkQ"><span class="mw-reflink-text" id="mwAkU"><span class="cite-bracket" id="mwAkY">[</span>2<span class="cite-bracket" id="mwAkc">]</span></span></a></sup></li></ol>
+
+</section><section data-mw-section-id="12" id="mwAkg" aria-labelledby="ตัวอย่างการนำไปใช้ในประเทศไทย"><div class="mw-heading mw-heading2"><h2 id="ตัวอย่างการนำไปใช้ในประเทศไทย"><span id=".E0.B8.95.E0.B8.B1.E0.B8.A7.E0.B8.AD.E0.B8.A2.E0.B9.88.E0.B8.B2.E0.B8.87.E0.B8.81.E0.B8.B2.E0.B8.A3.E0.B8.99.E0.B8.B3.E0.B9.84.E0.B8.9B.E0.B9.83.E0.B8.8A.E0.B9.89.E0.B9.83.E0.B8.99.E0.B8.9B.E0.B8.A3.E0.B8.B0.E0.B9.80.E0.B8.97.E0.B8.A8.E0.B9.84.E0.B8.97.E0.B8.A2" typeof="mw:FallbackId"></span>ตัวอย่างการนำไปใช้ในประเทศไทย</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89:Www.pea.or.th&amp;action=edit&amp;section=12" title="แก้ไขส่วน: ตัวอย่างการนำไปใช้ในประเทศไทย"><span>แก้</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<p id="mwAkk">การจัดการปกครองเป็นหลักการที่ถูกนำมาใช้ใน<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ประเทศไทย" title="ประเทศไทย" id="mwAko">ประเทศไทย</a>ในชื่อ “<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ธรรมาภิบาล" title="ธรรมาภิบาล" id="mwAks">ธรรมาภิบาล</a>” (good governance) หลังจากเกิดวิกฤติเศรษฐกิจ ปี พ.ศ. 2539-40 จากข้อบังคับในการกู้เงินจาก<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กองทุนการเงินระหว่างประเทศ" title="กองทุนการเงินระหว่างประเทศ" id="mwAkw">กองทุนการเงินระหว่างประเทศ</a> (International Monetary Fund: IMF) และนำมาใช้ปฏิบัติผ่าน<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กฎหมาย" title="กฎหมาย" id="mwAk0">กฎหมาย</a>หลักคือรัฐธรรมนูญฉบับประชาชน ปี พ.ศ. 2540 โดยต้องการให้<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ภาครัฐ" title="ภาครัฐ" class="mw-redirect" id="mwAk4">ภาครัฐ</a>บริหารงานได้อย่างมีประสิทธิภาพ มีความรับผิดชอบต่อสาธารณะ มีความโปร่งใส ตรวจสอบได้จากองค์กรอิสระ และเน้นการมีส่วนร่วมของภาคประชาชน อีกทั้งยังต้องส่งเสริมการกระจายอำนาจด้วย</p>
+
+<p id="mwAk8">ความเข้าใจที่แตกต่างกันของคำว่า<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ธรรมาภิบาล" title="ธรรมาภิบาล" id="mwAlA">ธรรมาภิบาล</a> สามารถแยกได้เป็น 3 สำนัก คือ</p>
+
+<ol id="mwAlE"><li id="mwAlI">ธรรมาภิบาลของ<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/องค์การระหว่างประเทศ" title="องค์การระหว่างประเทศ" id="mwAlM">องค์การระหว่างประเทศ</a> ในฐานะเครื่องมือในการพัฒนา ทั้งการมีความรับผิดชอบต่อสาธารณะ <a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/สิทธิมนุษยชน" title="สิทธิมนุษยชน" id="mwAlQ">สิทธิมนุษยชน</a> <a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/หลักนิติธรรม" title="หลักนิติธรรม" class="mw-redirect" id="mwAlU">หลักนิติธรรม</a> <a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/การพัฒนาอย่างยั่งยืน" title="การพัฒนาอย่างยั่งยืน" id="mwAlY">การพัฒนาอย่างยั่งยืน</a> และหลัก<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ตลาดเสรี" title="ตลาดเสรี" id="mwAlc">ตลาดเสรี</a></li>
+<li id="mwAlg">ธรรมาภิบาลของนักวิชาการด้าน<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/รัฐประศาสนศาสตร์" title="รัฐประศาสนศาสตร์" class="mw-redirect" id="mwAlk">รัฐประศาสนศาสตร์</a> มองว่าเป็นแนวทางของ<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/รัฐ" title="รัฐ" id="mwAlo">รัฐ</a>ในศตวรรษ 21 ที่จำเป็นต้องทำงานในแนวระนาบมากขึ้น ต้องคำนึงถึงผู้มีส่วนได้เสีย และ<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ปฏิสัมพันธ์" title="ปฏิสัมพันธ์" id="mwAls">ปฏิสัมพันธ์</a>กับภาคส่วนทางธุรกิจและ<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/สังคม" title="สังคม" id="mwAlw">สังคม</a>มากยิ่งขึ้น ทั้งในด้านการทำงานร่วมกันและการตรวจสอบ</li>
+<li id="mwAl0">ธรรมาภิบาลในฐานะมิติด้านการบริหาร จะเน้นในเรื่องของความรับผิดชอบต่อบรรษัทของ<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ผู้บริหาร" title="ผู้บริหาร" id="mwAl4">ผู้บริหาร</a> ที่จำเป็นต้องมีให้กับผู้ถือหุ้น นิยามลักษณะนี้หลายครั้งเชื่อมโยงกับคำว่าบรรษัทภิบาล (Corporate governance)<sup about="#mwt27" class="mw-ref reference" id="cite_ref-5" rel="dc:references" typeof="mw:Extension/ref" data-mw='{"name":"ref","attrs":{},"body":{"id":"mw-reference-text-cite_note-5"}}'><a href="#cite_note-5" id="mwAl8"><span class="mw-reflink-text" id="mwAmA"><span class="cite-bracket" id="mwAmE">[</span>3<span class="cite-bracket" id="mwAmI">]</span></span></a></sup></li></ol>
+
+<p id="mwAmM">การจัดการปกครองที่ดี (good governance) หรือ <a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ธรรมาภิบาล" title="ธรรมาภิบาล" id="mwAmQ">ธรรมาภิบาล</a> ที่ถูกแปลมาในภาษาไทยนั้นอาจถูกเรียกแตกต่างกันออกไปว่าเป็น “ธรรมารัฐ” (เช่นใน “ธรรมรัฐแห่งชาติ” ของ<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ธีรยุทธ_บุญมี" title="ธีรยุทธ บุญมี" id="mwAmU">ธีรยุทธ บุญมี</a> หรือ “ธรรมรัฐกับสังคมไทย” ของ<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/อานันท์_ปันยารชุน" title="อานันท์ ปันยารชุน" id="mwAmY">อานันท์ ปันยารชุน</a> หรือ “แนวคิดและวาทกรรมว่าด้วยธรรมรัฐแห่งชาติ” ของนฤมล ทับจุมพล) หรือ “ธรรมราษฎร์” (เช่นใน “ธรรมรัฐและธรรมราษฎร์กับองค์กรประชาคม” ของ<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/อมรา_พงศาพิชญ์" title="อมรา พงศาพิชญ์" id="mwAmc">อมรา พงศาพิชญ์</a>) หรือ “การบริหารกิจการบ้านเมืองที่ดี” (ซึ่งเป็นชื่อที่ใช้กันในทาง<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/กฎหมาย" title="กฎหมาย" id="mwAmg">กฎหมาย</a> อันปรากฏอยู่ในร่างพระราชบัญญัติว่าด้วยหลักเกณฑ์และวิธีการบริหารกิจการบ้านเมืองที่ดี พ.ศ. 2546)</p>
+
+<p id="mwAmk">อย่างไรก็ดี การนำหลักการจัดการปกครองมาใช้ใน<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/สังคมไทย" title="สังคมไทย" class="mw-redirect" id="mwAmo">สังคมไทย</a>กลับพบกับปัญหามากมาย ทั้งเรื่องการทำให้หลักการดังที่กล่าวมาเป็นการปฏิบัติจริง และปัญหาใน<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ระบบราชการ" title="ระบบราชการ" class="mw-redirect" id="mwAms">ระบบราชการ</a> ไปจนถึงปัญหาการใช้คำที่สับสนไปมาระหว่างคำว่า “การจัดการปกครอง” คือ governance แต่ในความเข้าใจของสังคมไทยจะรวมถึง “การบริหารกิจการบ้านเมืองที่ดี” และ “<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ธรรมาภิบาล" title="ธรรมาภิบาล" id="mwAmw">ธรรมาภิบาล</a>” ซึ่งตามคำศัพท์คือคำว่า good governance แต่ตามความหมายสากล good governance เป็นเพียงส่วนหนึ่งของ governance เท่านั้น ความสับสนนี้จึงเป็นเรื่องของการใช้คำ และปัญหาในเรื่องการแปลว่า “ธรรมาภิบาล” ทำให้สับสนว่าเกี่ยวข้องกับ<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ธรรมะ" title="ธรรมะ" class="mw-redirect" id="mwAm0">ธรรมะ</a>หรือหลัก<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ศาสนาพุทธ" title="ศาสนาพุทธ" id="mwAm4">ศาสนาพุทธ</a>หรือไม่ ทั้งที่ความจริงแล้วหลักการจัดการปกครองแทบจะไม่มีส่วนใดเกี่ยวกับหลักศาสนาเลย</p>
+
+<p id="mwAm8">คำว่าการจัดการปกครองที่ใช้กันอยู่ใน<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/สังคมไทย" title="สังคมไทย" class="mw-redirect" id="mwAnA">สังคมไทย</a>มีปัญหาในสองด้าน กล่าวคือ ด้านแรกเป็นปัญหาของการแปลที่สับสบระหว่างคำว่าการจัดการปกครอง การบริหารกิจการบ้านเมืองที่ดี และ<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/ธรรมาภิบาล" title="ธรรมาภิบาล" id="mwAnE">ธรรมาภิบาล</a> ส่วนปัญหาอีกด้านหนึ่งซึ่งสำคัญกว่า คือ ปัญหาในการนำไปปฏิบัติจริง การจัดการปกครองแทบจะยังไม่เคยเกิดขึ้นใน<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/สังคมไทย" title="สังคมไทย" class="mw-redirect" id="mwAnI">สังคมไทย</a>ที่รวมศูนย์อำนาจ ขาดความโปร่งใส ไม่มีกลไกในการตรวจสอบถ่วงดุล และท้องถิ่นยังไม่มี<a rel="mw:WikiLink" href="https://th.wikipedia.org/wiki/อำนาจ?action=edit&amp;redlink=1" title="อำนาจ (ไม่มีหน้านี้)" class="new" typeof="mw:LocalizedAttrs" id="mwAnM" data-mw-i18n='{"title":{"lang":"x-page","key":"red-link-title","params":["อำนาจ"]}}'>อำนาจ</a>อย่างแท้จริง</p>
+
+<p id="mwAnQ"><a rel="mw:ExtLink nofollow" href="https://biodieselproductionstation.wordpress.com/" class="external text" id="mwAnU">รายซื่อราชกาลทุกหน่วยงานในจังหวัดเลย</a> <a rel="mw:ExtLink nofollow" href="https://ww2.loei.go.th/ebook/detail/40/data.html" class="external text" id="mwAnY">รายซื่อคณะรัฐมนตรีจังหวัดเลย</a></p>
+
+</section><section data-mw-section-id="13" id="mwAnc" aria-labelledby="อ้างอิง_2"><div class="mw-heading mw-heading2"><h2 id="อ้างอิง_2"><span id=".E0.B8.AD.E0.B9.89.E0.B8.B2.E0.B8.87.E0.B8.AD.E0.B8.B4.E0.B8.87_2" typeof="mw:FallbackId"></span>อ้างอิง</h2><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89:Www.pea.or.th&amp;action=edit&amp;section=13" title="แก้ไขส่วน: อ้างอิง"><span>แก้</span></a><span class="mw-editsection-bracket">]</span></span></div>
+<ol class="mw-references references" typeof="mw:Extension/references" about="#mwt28" id="mwAng" data-mw='{"name":"references","attrs":{},"autoGenerated":true}'><li about="#cite_note-3" id="cite_note-3" data-mw-footnote-number="1"><span class="mw-cite-backlink" id="mwAnk"><a href="#cite_ref-3" rel="mw:referencedBy" id="mwAno"><span class="mw-linkback-text" id="mwAns">↑</span></a></span> <span id="mw-reference-text-cite_note-3" class="mw-reference-text reference-text">เอก ตั้งทรัพย์วัฒนา. (2550). “Governance: การจัดการปกครอง/วิธีการปกครองและการจัดการปกครองที่ดี/ธรรมาภิบาล”. ใน เอก ตั้งทรัพย์วัฒนา สิริพรรณ นกสวน และ ม.ร.ว.พฤทธิสาณ ชุมพล (บรรณาธิการ). คำและความคิดในรัฐศาสตร์ร่วมสมัย. กรุงเทพฯ: สำนักพิมพ์แห่งจุฬาลงกรณ์มหาวิทยาลัย.</span></li>
+<li about="#cite_note-4" id="cite_note-4" data-mw-footnote-number="2"><span class="mw-cite-backlink" id="mwAnw"><a href="#cite_ref-4" rel="mw:referencedBy" id="mwAn0"><span class="mw-linkback-text" id="mwAn4">↑</span></a></span> <span id="mw-reference-text-cite_note-4" class="mw-reference-text reference-text">Rhodes, R. A. W. (1996). “The New Governance: Governing without Government”. In Political Studies, Vol. 44, No. 4.</span></li>
+<li about="#cite_note-5" id="cite_note-5" data-mw-footnote-number="3"><span class="mw-cite-backlink" id="mwAn8"><a href="#cite_ref-5" rel="mw:referencedBy" id="mwAoA"><span class="mw-linkback-text" id="mwAoE">↑</span></a></span> <span id="mw-reference-text-cite_note-5" class="mw-reference-text reference-text">Peters, B. Guy (1995). “The Public Service, the Changing State, and Governance”. In B. Guy Peters, and Donald J. Savoie (eds.). Governance in a Changing Environment. Montreal: McGill/Queens University Press.</span></li>
+</ol></section>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐5f44b69bf5‐srdpr
+Cached time: 20260908052610
+Cache expiry: 1802
+Cache expiry source: มอดูล:TimeAgo (formatDate)
+Reduced expiry: true
+Complications: [vary‐user, show‐toc, use‐parsoid]
+CPU time usage: 0.462 seconds
+Real time usage: 0.553 seconds
+Preprocessor visited node count: 462/1000000
+Revision size: 53498/2097152 bytes
+Post‐expand include size: 143971/2097152 bytes
+Template argument size: 252/2097152 bytes
+Highest expansion depth: 11/100
+Expensive parser function count: 2/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 24182/5000000 bytes
+Lua time usage: 0.039/10.000 seconds
+Lua memory usage: 2978969/52428800 bytes
+Number of Wikibase entities loaded: 0/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  331.683      1 -total
+ 11.23%   37.260      1 แม่แบบ:ลบ
+ 10.48%   34.748      1 แม่แบบ:Ombox
+  9.40%   31.179      1 แม่แบบ:การเมืองไทย
+  8.40%   27.847      1 แม่แบบ:Sidebar_with_collapsible_lists
+  8.33%   27.624      1 แม่แบบ:เพิ่มอ้างอิง
+  6.65%   22.064      1 แม่แบบ:Ambox
+  5.88%   19.503      1 แม่แบบ:Find_sources_mainspace
+  3.00%    9.960      3 แม่แบบ:Pagetype
+  2.70%    8.945      2 แม่แบบ:Webarchive
+-->
+
+<!-- Render ID ccaa53a1-ab45-11f1-bfd2-933714d60d0f -->
+
+<!-- Saved in parser cache with key thwiki:parsoid-pcache:1568102:|#|:idhash:useParsoid=1 and timestamp 20260908052610 and revision id 13250402. Rendering was triggered because: page_view
+ -->
+
+<!-- Parsoid 0.24.0.0-alpha21 -->
+</div><!--
+Post‐processing cache key thwiki:postproc‐parsoid‐pcache:1568102:|#|:idhash:injectTOC=0!postproc=1!skin=vector‐2022!useParsoid=1!visibleLinks=single, generated at 20260908052610
+--><noscript><img src="https://th.wikipedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&amp;type=1x1&amp;usesul3=1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">เข้าถึงจาก "<a dir="ltr" href="https://th.wikipedia.org/w/index.php?title=ผู้ใช้:Www.pea.or.th&amp;oldid=13250402">https://th.wikipedia.org/w/index.php?title=ผู้ใช้:Www.pea.or.th&amp;oldid=13250402</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw-interface=""><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%E0%B8%9E%E0%B8%B4%E0%B9%80%E0%B8%A8%E0%B8%A9:%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88" title="พิเศษ:หมวดหมู่">หมวดหมู่</a>: <ul><li><a href="/wiki/%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88:%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%96%E0%B8%B9%E0%B8%81%E0%B9%81%E0%B8%88%E0%B9%89%E0%B8%87%E0%B8%A5%E0%B8%9A" title="หมวดหมู่:หน้าที่ถูกแจ้งลบ">หน้าที่ถูกแจ้งลบ</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">หมวดหมู่ที่ซ่อนอยู่: <ul><li><a href="/wiki/%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88:%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A1%E0%B8%B5%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%B1%E0%B8%94%E0%B8%84%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%88%E0%B9%89%E0%B8%87%E0%B8%A5%E0%B8%9A" title="หมวดหมู่:หน้าที่มีการคัดค้านการแจ้งลบ">หน้าที่มีการคัดค้านการแจ้งลบ</a></li><li><a href="/wiki/%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88:Webarchive_template_wayback_links" title="หมวดหมู่:Webarchive template wayback links">Webarchive template wayback links</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			<footer id="footer" class="mw-footer" >
+				<ul id="footer-info" class="mw-portlet mw-portlet-footer-info">
+	<li id="footer-info-lastmod"> หน้านี้แก้ไขล่าสุดเมื่อวันที่ 7 กันยายน 2569 เวลา 09:40 น.</li>
+	<li id="footer-info-renderedwith">หน้านี้เรนเดอร์ด้วย <a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Parsoid" class="extiw" title="mw:Special:MyLanguage/Parsoid">Parsoid</a></li>
+	<li id="footer-info-copyright"><div>อนุญาตให้เผยแพร่ภายใต้<a rel="nofollow" class="external text" href="//creativecommons.org/licenses/by-sa/4.0/">สัญญาอนุญาตครีเอทีฟคอมมอนส์ แบบแสดงที่มา-อนุญาตแบบเดียวกัน</a> และอาจมีเงื่อนไขเพิ่มเติม
+ดูรายละเอียดที่ <a class="external text" data-mw-original-href="//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/th" href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/th">ข้อกำหนดการใช้งาน</a><br /> Wikipedia&#174; เป็นเครื่องหมายการค้าจดทะเบียนของ<a rel="nofollow" class="external text" data-mw-original-href="//www.wikimediafoundation.org" href="https://www.wikimediafoundation.org">มูลนิธิวิกิมีเดีย</a> องค์กรไม่แสวงผลกำไร</div>
+<div class="noprint"><br /><a href="/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B4%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2:%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B9%88%E0%B8%AD" title="วิกิพีเดีย:ติดต่อ">ติดต่อเรา</a></div></li>
+</ul>
+
+				<ul id="footer-places" class="mw-portlet mw-portlet-footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">นโยบายความเป็นส่วนตัว</a></li>
+	<li id="footer-places-about"><a href="/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B4%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2:%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%9A">เกี่ยวกับวิกิพีเดีย</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B4%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2:%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%9B%E0%B8%8F%E0%B8%B4%E0%B9%80%E0%B8%AA%E0%B8%98%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%9C%E0%B8%B4%E0%B8%94%E0%B8%8A%E0%B8%AD%E0%B8%9A">ข้อปฏิเสธความรับผิดชอบ</a></li>
+	<li id="footer-places-legal-safety-contacts"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information">ติดต่อทีมกฎหมาย/ความปลอดภัย</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">ประมวลจรรยาบรรณ</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">ผู้พัฒนา</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/th.wikipedia.org">สถิติ</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">นโยบายการใช้คุกกี้</a></li>
+	<li id="footer-places-mobileview"><a href="//th.wikipedia.org/w/index.php?title=%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89:Www.pea.or.th&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">มุมมองสำหรับอุปกรณ์เคลื่อนที่</a></li>
+</ul>
+
+				<ul id="footer-icons" class="mw-portlet mw-portlet-footer-icons noprint">
+	<li id="footer-copyrightico"><a href="https://www.wikimedia.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/static/images/footer/wikimedia-button.svg" width="84" height="29"><img src="/static/images/footer/wikimedia.svg" width="25" height="25" alt="Wikimedia Foundation" lang="en" loading="lazy"></picture></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/" class="cdx-button cdx-button--fake-button cdx-button--size-large cdx-button--fake-button--enabled"><picture><source media="(min-width: 500px)" srcset="/w/resources/assets/poweredby_mediawiki.svg" width="88" height="31"><img src="/w/resources/assets/mediawiki_compact.svg" alt="Powered by MediaWiki" lang="en" width="25" height="25" loading="lazy"></picture></a></li>
+</ul>
+
+			</footer>
+		</div>
+	</div> 
+</div> 
+<div class="vector-header-container vector-sticky-header-container no-font-mode-scale">
+	<div id="vector-sticky-header" class="vector-sticky-header">
+		<div class="vector-sticky-header-start">
+			<div class="vector-sticky-header-icon-start vector-button-flush-left" aria-hidden="true">
+				<button class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-sticky-header-search-toggle" tabindex="-1" data-event-name="ui.vector-sticky-search-form.icon"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search cdx-button__icon"></span>
+
+<span>ค้นหา</span>
+			</button>
+		</div>
+			
+		<div role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box">
+			<div class="vector-typeahead-search-container">
+				<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail">
+					<form action="/w/index.php" id="vector-sticky-search-form" class="cdx-search-input cdx-search-input--has-end-button">
+						<div  class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+							<div class="cdx-text-input cdx-text-input--has-start-icon">
+								<input
+									class="cdx-text-input__input mw-searchInput" autocomplete="off"
+									
+									type="search" name="search" placeholder="ค้นหาใน วิกิพีเดีย">
+								<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+							</div>
+							<input type="hidden" name="title" value="พิเศษ:ค้นหา">
+						</div>
+						<button class="cdx-button cdx-search-input__end-button">ค้นหา</button>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-context-bar">
+				<nav aria-label="สารบัญ" class="vector-toc-landmark">
+						
+					<div id="vector-sticky-header-toc" class="vector-dropdown mw-portlet mw-portlet-sticky-header-toc vector-sticky-header-toc vector-button-flush-left"  >
+						<input type="checkbox" id="vector-sticky-header-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-sticky-header-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"   >
+						<label id="vector-sticky-header-toc-label" for="vector-sticky-header-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet cdx-button__icon"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+						</label>
+						<div class="vector-dropdown-content">
+					
+						<div id="vector-sticky-header-toc-unpinned-container" class="vector-unpinned-container">
+						</div>
+					
+						</div>
+					</div>
+			</nav>
+				<div class="vector-sticky-header-context-bar-primary" aria-hidden="true" ><span lang="th" dir="ltr"><span class="mw-page-title-namespace">ผู้ใช้</span><span class="mw-page-title-separator">:</span><span class="mw-page-title-main">Www.pea.or.th</span></span></div>
+			</div>
+		</div>
+		<div class="vector-sticky-header-end" aria-hidden="true">
+			<div class="vector-sticky-header-icons">
+				<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-talk-sticky-header" tabindex="-1" data-event-name="talk-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbles mw-ui-icon-wikimedia-speechBubbles cdx-button__icon"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-subject-sticky-header" tabindex="-1" data-event-name="subject-sticky-header"><span class="vector-icon mw-ui-icon-article mw-ui-icon-wikimedia-article cdx-button__icon"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-history-sticky-header" tabindex="-1" data-event-name="history-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-history mw-ui-icon-wikimedia-wikimedia-history cdx-button__icon"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only mw-watchlink" id="ca-watchstar-sticky-header" tabindex="-1" data-event-name="watch-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-star mw-ui-icon-wikimedia-wikimedia-star cdx-button__icon"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-edit-sticky-header" tabindex="-1" data-event-name="wikitext-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-wikiText mw-ui-icon-wikimedia-wikimedia-wikiText cdx-button__icon"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-ve-edit-sticky-header" tabindex="-1" data-event-name="ve-edit-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-edit mw-ui-icon-wikimedia-wikimedia-edit cdx-button__icon"></span>
+
+<span></span>
+			</a>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only" id="ca-viewsource-sticky-header" tabindex="-1" data-event-name="ve-edit-protected-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-editLock mw-ui-icon-wikimedia-wikimedia-editLock cdx-button__icon"></span>
+
+<span></span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-buttons">
+				<button class="cdx-button cdx-button--weight-quiet mw-interlanguage-selector" id="p-lang-btn-sticky-header" tabindex="-1" data-event-name="ui.dropdown-p-lang-btn-sticky-header"><span class="vector-icon mw-ui-icon-wikimedia-language mw-ui-icon-wikimedia-wikimedia-language cdx-button__icon"></span>
+
+<span>เพิ่มภาษา</span>
+			</button>
+			<a href="#" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive" id="ca-addsection-sticky-header" tabindex="-1" data-event-name="addsection-sticky-header"><span class="vector-icon mw-ui-icon-speechBubbleAdd-progressive mw-ui-icon-wikimedia-speechBubbleAdd-progressive cdx-button__icon"></span>
+
+<span>เพิ่มหัวข้อ</span>
+			</a>
+		</div>
+			<div class="vector-sticky-header-icon-end">
+				<div class="vector-user-links">
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="mw-portlet mw-portlet-dock-bottom emptyPortlet" id="p-dock-bottom">
+	<ul>
+		
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-5f44b69bf5-mmp4j","wgBackendResponseTime":188,"wgPageParseReport":{"limitreport":{"cputime":"0.462","walltime":"0.553","ppvisitednodes":{"value":462,"limit":1000000},"revisionsize":{"value":53498,"limit":2097152},"postexpandincludesize":{"value":143971,"limit":2097152},"templateargumentsize":{"value":252,"limit":2097152},"expansiondepth":{"value":11,"limit":100},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":24182,"limit":5000000},"entityaccesscount":{"value":0,"limit":500},"timingprofile":["100.00%  331.683      1 -total"," 11.23%   37.260      1 แม่แบบ:ลบ"," 10.48%   34.748      1 แม่แบบ:Ombox","  9.40%   31.179      1 แม่แบบ:การเมืองไทย","  8.40%   27.847      1 แม่แบบ:Sidebar_with_collapsible_lists","  8.33%   27.624      1 แม่แบบ:เพิ่มอ้างอิง","  6.65%   22.064      1 แม่แบบ:Ambox","  5.88%   19.503      1 แม่แบบ:Find_sources_mainspace","  3.00%    9.960      3 แม่แบบ:Pagetype","  2.70%    8.945      2 แม่แบบ:Webarchive"]},"scribunto":{"limitreport-timeusage":{"value":"0.039","limit":"10.000"},"limitreport-memusage":{"value":2978969,"limit":52428800},"limitreport-logs":"table#1 {\n}\n"},"cachereport":{"origin":"mw-web.eqiad.main-5f44b69bf5-srdpr","timestamp":"20260908052610","ttl":1802,"transientcontent":true,"expiry-source":"มอดูล:TimeAgo (formatDate)"}}});});</script>
+</body>
+</html>
 https://de.wikipedia.org/wiki/Loei_(Provinz)
 Content-Type	application/x-www-form-urlencoded
 accept-ch	
