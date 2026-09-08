@@ -1,4 +1,4 @@
-
+```
 รับส่วนลด 60%* →
 
 GitKraken MCP + แอป MCP
@@ -109,8 +109,8 @@ GitKraken Labs
  หย่อน
  ยูทูบ
  ลิงค์อิน
-© 2026 Axosoft, LLC DBA GitKraken 
-
+© 2026 Axosoft, LLC DBA GitKraken
+```
 https://th.wikipedia.org/wiki/%E0%B8%9C%E0%B8%B9%E0%B9%89%E0%B9%83%E0%B8%8A%E0%B9%89:Www.pea.or.th
 Content-Type	application/x-www-form-urlencoded
 accept-ch	
